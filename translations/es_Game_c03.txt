@@ -1,0 +1,282 @@
+426	Te permite controlar la luz y la sombra para revelar detalles ocultos.
+427	Te permite crear brebajes secos como cataplasmas y polvos.
+428	Te permite crear brebajes líquidos de efectos potentes.
+429	Te permite desactivar trampas complejas de forma segura
+430	Te permite desactivar trampas peligrosas.
+431	Te permite desactivar trampas mortales sin activarlas.
+432	Te permite desactivar trampas sencillas.
+433	Te permite encontrar trampas ocultas y elementos escondidos.
+434	Te permite encontrar incluso las amenazas ocultas más sutiles.
+435	Te permite encontrar peligros ocultos con gran pericia.
+436	Te permite encontrar puertas y trampas ocultas evidentes.
+437	Te permite obtener materiales avanzados de las criaturas.
+438	Te permite obtener materiales básicos de las criaturas.
+439	Te permite recolectar plantas y hongos comunes.
+440	Te permite obtener materiales de mayor calidad de las criaturas.
+441	Te permite recolectar plantas y hongos raros.
+442	Te permite recolectar plantas y hongos poco comunes.
+443	Te permite mantener la luz y reducir los peligros de la oscuridad
+444	Te permite moverte en silencio y evitar ser detectado al ir con sigilo.
+445	Te permite abrir cerraduras avanzadas o reforzadas.
+446	Te permite abrir cerraduras complejas.
+447	Te permite abrir cerraduras de maestro o selladas.
+448	Te permite abrir cerraduras sencillas.
+449	Te permite preparar platos complejos con efectos especiales.
+450	Te permite preparar comidas contundentes con efectos más fuertes.
+451	Te permite preparar comidas hervidas sencillas.
+452	Te permite permanecer oculto con poca luz y cobertura parcial.
+453	Te permite moverte con sigilo más rápido y con menos ruido.
+454	Te permite usar fuentes de luz avanzadas y ver más lejos en la oscuridad.
+456	Alrik junta las manos.\r\n\r\n"La Casa de la Memoria es en parte enfermería y en parte archivo, según quién cruce la puerta."\r\n\r\nHace una pausa, eligiendo sus palabras.\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Whisperwood tiene la costumbre de enturbiar la mente. Se pierden nombres. Los recuerdos se extravían. Algunos oyen voces que no son suyas. Recomponemos lo que podemos."\r\n\r\nUna leve sonrisa cruza su rostro.\r\n\r\n"Lo que no, lo ponemos por escrito."
+457	Alrik te mira con calma y mesura.\r\n"Bienvenido. Soy Alrik, el Guardián de la Memoria."\r\nHace un pequeño gesto con la cabeza.\r\n\r\n"¿Qué puedo hacer por ti?"
+458	La expresión de Alrik se vuelve seria.\r\n\r\n"Si oyes susurrar tu nombre desde algún lugar que no puedes ver, sigue caminando."
+460	Munición
+462	Una abadía abandonada.
+463	Una atalaya abandonada que antaño custodiaba el viejo camino del bosque.
+464	Un antiguo campo de batalla sembrado de lanzas y escudos oxidados.
+465	Una antigua puerta de piedra sella la tumba, cerrada por cuatro gruesas raíces que desaparecen en la tierra circundante.
+466	Una tumba antigua de la que se filtra un hedor a setas podridas.
+467	Una torre antigua estrangulada por raíces y ramas.
+468	Una mina antigua apuntalada con madera, excavada hace siglos.
+469	Un colgante antiguo en forma de rombo, con el metal arañado y deslucido.
+470	Un elegante anillo de plata engastado con perlas de agua dulce.
+471	Una duela de olmo para fabricar arcos.
+472	Una botella de cristal vacía para guardar brebajes.
+473	Una botella de cristal vacía.
+474	Una cabeza vacía que ya no tiene nada que decir.
+475	Un cráneo humano vacío. Mejor no preguntar por qué alguien lo quiere.
+476	Un aro de oro y plata trabajado con detalle, adornado con símbolos rúnicos y pequeñas esferas de metal.
+477	Un panel de malla de hierro para fabricar armaduras y armas.
+478	Una pepita de hierro refinada en un lingote.
+479	Un segmento de placa de hierro para fabricar armaduras y armas.
+480	Un borde de hierro para fabricar escudos.
+481	Una lámina de escamas de hierro para fabricar armaduras y armas.
+482	Una punta de lanza de hierro para fabricar armas.
+483	Una hoja aceitosa que se encuentra en invierno.
+484	Una vieja fortaleza fronteriza que se hunde en el suelo anegado de Crookwood.
+485	Una vieja bodega asfixiada por los hongos.
+486	Una vieja capilla en el bosque.
+487	Una vieja granja.
+488	Un viejo muelle de barcaza a orillas del lago.
+489	Una vieja choza de pesca junto al lago.
+490	Una vieja cripta olvidada.
+491	Un viejo molino de grano.
+492	Una fortaleza vieja y ruinosa de cuyas ruinas brotan altísimas agujas de setas.
+493	Una caverna cubierta de vegetación.
+494	Una pequeña granja.
+495	Reprise ancestral
+496	Linaje
+497	Hayas ancestrales se apiñan bajo un espeso dosel.
+498	Y si encuentras una salida...
+499	Enfadado
+500	Grasa animal
+501	Garra de animal que se usa para fabricar.
+502	Animismo
+503	Otra jarra espumosa de cerveza
+504	Colgante antiguo
+505	Anillo antiguo
+506	Asta
+507	Punta de asta
+508	¿Alguno parece prometedor?
+509	Libro de cuentas del boticario
+510	Manzana
+511	Sartén de manzana y nueces
+512	Manzanas y nueces fritas: consuelo honrado.
+513	Túnica de aprendiz
+514	Resistencia arcana
+515	Arquero
+516	Túnica de archivero
+517	Arco
+518	¿Seguro?
+519	¿Seguro que quieres borrar
+520	¿Seguro que quieres borrar este personaje?
+521	Discutir
+522	Gorro de Armin
+523	Armadura
+524	Penetración de armadura
+525	Kit de reparación de armadura
+526	Sartén de setas aromáticas
+527	Flechas empapadas en aceite y prendidas fuego.
+528	Delantal de artesano
+529	Verduras de fresno
+530	{0} de fresno
+531	Ashbind
+532	El ashbind adormece la carne al machacarlo. Los viejos soldados dicen que enseña al cuerpo a ignorar heridas a las que no debería sobrevivir.
+533	Cuevas Ashbound
+535	Pedir a alguien que se acerque
+537	Por fin…
+538	Atacar
+539	Atributo
+540	Atributos
+541	Las delicias de la tía Marnie
+542	Vaya, mierda…
+543	A la espera de un buen pulido, este candelabro de plata sería un elegante añadido a cualquier hogar.
+544	Hacha
+545	Beee
+546	Atrás
+547	De vuelta al barro…
+548	De vuelta a la tierra…
+549	¡Atrás! ¡Atrás!
+550	Trasfondo
+551	Mochila
+552	Mochila llena, ¿eh? Nos pasa a los mejores
+553	Daño por la espalda
+554	Multiplicador por la espalda
+555	De vuelta… a la oscuridad…
+556	Bah. Solo son las setas.
+557	Granja Baird
+558	Panadero
+559	Juego de pies equilibrado
+560	Banda
+561	Vendas
+562	Campamento de bandidos
+563	Botas de bandido
+564	Brigantina de bandido
+565	Guantes de bandido
+566	Polainas de bandido
+567	Bardiche
+568	Guardas de corteza
+569	Cebada
+570	Gachas de cebada
+571	Papilla de cebada
+572	Túmulo del Rey Espino
+573	Peto de guardián del túmulo
+574	Guanteletes de guardián del túmulo
+575	Grebas de guardián del túmulo
+576	Escarpes de guardián del túmulo
+577	Animista básico
+578	Bloqueo con hacha básico
+579	Contraataque con hacha básico
+580	Combate con hacha básico
+581	Sincronización con hacha básica
+582	Manejo del arco básico
+583	Tiro con arco básico
+584	Sincronización con arco básica
+585	Destilería básica
+586	Escalada básica
+587	Cocina básica
+588	Detección básica
+589	Elementalista básico
+590	Pesca básica
+591	Juego de pies básico
+592	Carga básica
+593	Herboristería básica
+594	Salto básico
+595	Ganzúa básica
+596	Bloqueo con maza básico
+597	Contraataque con maza básico
+598	Combate con maza básico
+599	Sincronización con maza básica
+600	Desuello básico
+601	Sigilo básico
+602	Bloqueo con lanza básico
+603	Contraataque con lanza básico
+604	Combate con lanza básico
+605	Sincronización con lanza básica
+606	Bloqueo con espada básico
+607	Contraataque con espada básico
+608	Combate con espada básico
+609	Sincronización con espada básica
+610	Portador de antorcha básico
+611	Trampería básica
+612	Disfrutar de la gloria
+613	Bastión de determinación
+614	Golpeado, gastado y, con suerte, aún útil para otro combate.
+615	Grito de guerra
+616	Alegrarse por algún motivo
+617	Puré de judías
+618	Judías
+619	Piel de oso
+620	Carne de oso
+621	Estofado de oso
+622	Barba
+623	Hacer señas
+624	Elogio de la Madre Haya
+625	Hayucos
+626	Ternera
+627	Cecina de ternera
+628	Remolacha
+629	Baya
+630	Salto del berserker
+631	Botas de berserker
+632	Coraza de berserker
+633	Guantes de berserker
+634	Pantalones de berserker
+635	Mejor si se come caliente. Rara vez lo está.
+636	Mejor para pescar que para luchar contra cualquier otra cosa.
+637	Más allá de Elderlight
+638	Gran ola
+639	Grande, pesado y vale la pena llevarlo de vuelta al campamento.
+640	Arándanos
+641	Bisarma
+642	{0} de abedul
+643	Birchwatch
+644	Carne de ave ablandada con grasa.
+645	Carne de ave con guarnición.
+646	Coraza del mordedor
+647	Amargo y mejor hervido.
+648	Amargo y medicinal.
+649	Hojas amargas machacadas hasta someterlas.
+650	Amargo como las despedidas inesperadas.
+651	Amargo si no se trata, y ni aun así es de los favoritos.
+652	Amargo, oscuro y empeñado en mantenerte con vida.
+653	Ciénaga Negra
+654	Eléboro negro
+655	Velo Negro
+656	El Velo Negro oscurece todo lo que hay debajo. Incluso tras retirarlo, las sombras parecen reacias a marcharse.
+657	Moras
+658	Choza Blackbough
+659	Ennegrecido por fuera, testarudo por dentro.
+660	Botas de canalla
+661	Brigantina de canalla
+662	Guantes de canalla
+663	Polainas de canalla
+664	Delantal de herrero
+665	Brezal desolado bajo un viento interminable.
+666	Probabilidad de sangrado
+667	Resistencia al sangrado
+668	Sangrando
+669	Bendecido
+670	Grimorio de la plaga
+671	Resplandor cegador
+672	Pescado de río ampollado
+673	Bloquear
+674	Protección de bloqueo
+675	Bloqueado
+676	Bonificación de bloqueo
+677	Bloquear con tu hacha desvía un {Value}% del daño
+678	Bloquear con tu maza desvía un {Value}% del daño
+679	Bloquear con tu lanza desvía un {Value}% del daño
+680	Bloquear con tu espada desvía un {Value}% del daño
+681	Nota ensangrentada
+682	Sangría
+683	Paso de Bloodmere
+684	Delantal manchado de sangre
+685	Tinte azul
+686	Trozo azul de limo petrificado
+687	Tinte azul obtenido de los arándanos. Se puede usar para fabricar armaduras.
+688	Piel de jabalí
+689	Carne de jabalí
+690	Cuerpo
+691	Seta de ciénaga
+692	Menta de ciénaga
+693	La menta de ciénaga quema los pulmones al machacarla y esparcirla. Las criaturas atrapadas en sus vapores respiran hondo... y se arrepienten.
+694	Quitarle el tufo hirviéndolo
+695	Botas de cuero hervido
+696	Bulbos hervidos
+697	Col hervida
+698	Coraza de cuero hervido
+699	Brotes de helecho hervidos
+700	Guantes de cuero hervido
+701	Col rizada hervida
+702	Espinacas hervidas
+703	Pantalones de cuero hervido
+704	Hervido lo suficiente como para dejar de resistirse.
+705	Gente audaz y adaptable que aprende rápido y logra mucho.
+706	Arco de hueso
+707	Efigie de hueso
+708	Cuña de hueso
+709	Médula ósea para fabricar.
+710	Botas cubiertas de huesos
+711	¡Los huesos recuerdan el dolor!
+712	Huesos… se fueron…

@@ -1,0 +1,60 @@
+0	<acción desconocida> {DisplayName}
+1	Rompió {DisplayName}
+2	Soltó {DisplayName}
+3	Soy el nuevo anfitrión
+4	Colocó {DisplayName}
+5	Cogió {DisplayName}
+6	Usó {DisplayName}
+7	Escuchar
+8	Error del servidor
+9	Continuar partida
+10	Crear partida
+11	Creación de partida interrumpida.
+12	Error
+13	¡No se pudo crear/guardar la partida!
+14	¡No se pudo unir a la partida!
+15	¡No se pudo actualizar la partida!
+16	Flujo interrumpido.
+17	La partida ya está en curso.
+18	Error al crear la partida.
+19	¡La partida ya no está disponible!
+20	Hospedar partida
+21	Unirse a partida
+22	¡No se encontraron salas!
+23	Actualizar partida
+24	No pudimos conectar con el servidor de guardado.\nSe usará una partida guardada local como alternativa.
+25	No puedes unirte mientras el grupo está de aventura.
+26	No puedes unirte mientras el grupo está en una mazmorra.
+27	Has alcanzado el número máximo de campañas permitidas. Borra una campaña existente para crear una nueva.
+28	Soltar
+29	Soltar cuerda
+30	Pescar
+31	Liberar cuerda
+32	Dejar de pescar
+33	Lanzar (mantener)
+34	Lanzar (soltar)
+35	No puedes soltar objetos mientras viajas
+36	No puede ir en una ranura rápida
+37	No se pueden intercambiar esas ranuras rápidas
+38	No se puede usar ahora mismo
+39	El contenedor está lleno
+40	El contenedor está cerrado con llave
+41	Contenedor no disponible
+42	El equipo está bloqueado
+43	El inventario está lleno
+44	Inventario no disponible
+45	El objeto no cabe en esa ranura rápida
+46	El objeto no cabe en esa ranura
+47	El objeto no está en ese contenedor
+48	Los objetos no se apilan
+49	Sin destino
+50	No hay ranuras rápidas libres
+51	Sin objeto
+52	No llevas ese objeto
+53	No hay nada en esa ranura rápida
+54	No hay nada con lo que combinar
+55	El origen está bloqueado
+56	Primero mételo en el inventario
+57	Esa ranura está ocupada
+58	Esa pila está llena
+59	Las armas se empuñan desde las ranuras rápidas

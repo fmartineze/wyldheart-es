@@ -1,0 +1,161 @@
+265	Una hoja de acero mediana para fabricar armas a una mano.
+266	Una cabeza de maza de acero mediana para fabricar armas a una mano.
+267	Un diamante fascinante que captura la belleza salvaje y el poder de la tempestad de la naturaleza.
+268	Un sorbedor monstruoso bloquea el paso; su rastro viscoso brilla sobre las piedras. Mata a la bestia antes de atreverte a seguir adelante.
+269	Un musguito de Elderlight ofreció buena plata por perlas de caracol.
+270	Una granja embarrada junto al río donde los cerdos hozan la tierra blanda bajo los árboles.
+271	Un monumento misterioso.
+272	Una gema verde pálido adorna este llamativo anillo, cuyo aro de oro blanco lleva grabados símbolos de navegación.
+273	Un trozo de limo seco. ¿Para qué querría alguien esto?
+274	Alguien ha tallado un trozo de corteza gruesa con una astilla afilada de hueso.\r\n\r\n"La colonia se prepara para la Gran Floración.\r\n\r\nTres agujas han brotado de las torres de la Fortaleza Marchita. Cuando se abran, todo el bosque quedará cubierto de esporas."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"El Rey de Muchas Coronas se sienta en la vieja sala de los caballeros. Sus raíces recorren los muros y suben por cada aguja.\r\n\r\nRompe las agujas antes de que se abra la corona."
+275	Un lugar envuelto en la incertidumbre, sin una historia, propósito ni origen claros.
+276	Una oreja puntiaguda cortada de un trasgo muerto.
+277	Una olla que estira las provisiones y la paciencia.
+278	Un túmulo funerario prehistórico agrietado por las raíces de los árboles.
+279	Un túmulo prehistórico de piedra hundido en el negro lodo de la ciénaga.
+280	El diario de un sacerdote.
+281	Una flor orgullosa, difícil de pasar por alto y fácil de admirar.
+282	Una hondonada tranquila donde los pastores reúnen sus rebaños junto a pastos resguardados y senderos sinuosos.
+283	Una tranquila casa de piedra, extrañamente intacta ante la vegetación invasora.
+284	Un panel de cuero reforzado para fabricar escudos y armaduras.
+285	Un recordatorio de que sobreviviste a algo peligroso.
+286	Un aparecido formado por juramentos rotos y raíces hambrientas.
+287	Un vino rico y con mucho cuerpo.
+288	Hay un trozo de pergamino enrollado clavado en la puerta.\r\n\r\n"Me he ido al río.\r\n\r\nSi me necesitas, espera.\r\n\r\nSi eres Halvar, sigo sin tener tu sierra."
+289	Una choza podrida enredada entre ramas muertas.
+290	Un campamento agreste encaramado entre crestas azotadas por el viento y laderas rocosas.
+291	Una granja en ruinas.
+292	Una atalaya en ruinas aferrada a la cresta más alta, usada antaño para vigilar fronteras borradas hace mucho.
+293	Un puñado de piedras antiguas dispersas.
+294	Un pez de río de temporada, mejor cocinado al fuego.
+295	Un asta de roble robusto para fabricar lanzas y bastones a una mano.
+296	Un asta de roble robusto para fabricar lanzas y bastones a dos manos.
+297	Un vado poco profundo teñido de oscuro por el agua rica en hierro.
+298	Un paso poco profundo del río por donde viajeros, carros y animales pueden cruzar el agua.
+299	Un diente afilado que se usa para fabricar.
+300	Una punta de hueso afilada que se puede colocar en el extremo de una lanza.
+301	Una ruina resguardada que domina el pasto.
+302	Un panel de malla de plata para fabricar armaduras y armas.
+303	Un segmento de placa de plata para fabricar armaduras y armas.
+304	Un borde de plata para fabricar escudos.
+305	Una lámina de escamas de plata para fabricar armaduras y armas.
+306	Una punta de lanza de plata para fabricar armas.
+307	Un sorbo de esta bebida te transportará a un reino donde los dragones bailan entre las estrellas. Y no en el buen sentido.
+308	Una bolsa de honda para fabricar armas.
+309	Una suave elevación de tierra y hierba.
+310	Un riachuelo lento y apacible serpentea por el valle, con su superficie destellando plateada bajo el sol.
+311	Una hoja pequeña para cosechar lo que crece.
+312	Una pequeña hoja de espada de bronce para fabricar dagas.
+313	Un pequeño lago de pesca.
+314	Un pequeño pez de agua dulce de sabor suave y dulce.
+315	Una pequeña aldea en lo profundo del bosque.
+316	Una pequeña hoja de espada de hierro para fabricar armas.
+317	Una pequeña hoja de espada de plata para fabricar armas.
+318	Una pequeña hoja de espada de acero para fabricar armas.
+319	Una pequeña choza de piedra donde empiezan a alzarse las colinas.
+320	Una hoja pequeña y afilada para trabajos delicados.
+321	Una hoja ahumada y amarga.
+322	Una cerveza suave y maltosa con un persistente sabor a caramelo. Beberla cura cualquier <OBJ>desdicha</> que puedas estar sufriendo.
+323	Una planta de ciénaga de hojas suaves con una raíz gruesa y útil.
+324	Una extensa caverna de piedra caliza.
+325	Una fortaleza de piedra achaparrada, construida originalmente para controlar los estrechos senderos de la ciénaga.
+326	Un panel de malla de acero para fabricar armaduras y armas.
+327	Un segmento de placa de acero para fabricar armaduras y armas.
+328	Un borde de acero para fabricar escudos.
+329	Una lámina de escamas de acero para fabricar armaduras y armas.
+330	Una punta de lanza de acero para fabricar armas.
+331	Un cementerio de piedra.
+332	Un túmulo de piedra abierto a la fuerza por saqueadores de tumbas desesperados.
+333	Una fortaleza de piedra construida para controlar los estrechos senderos de la ciénaga.
+334	Una atalaya de piedra, ahora en ruinas, que antaño protegía el paso.
+335	Un buen trozo de madera. No hace falta nada sofisticado.
+336	Un hacha robusta para convertir árboles en algo útil.
+337	Una sólida casa de labranza y un granero se alzan sobre un terreno algo elevado que domina los campos.
+338	Un mango robusto de roble para fabricar varitas.
+339	Un oporto dulce y con cuerpo, con ricas notas de bayas, caramelo suave y chocolate.
+340	Una empuñadura de espada para fabricar armas a una mano.
+341	Una empuñadura de espada para fabricar armas a dos manos.
+342	Un tenedor de plata deslucido.
+343	Una cuchara de plata deslucida.
+344	Un sombrero grueso cortado limpiamente de un micónido.
+345	Una montaña imponente, sagrada antaño para los viejos clanes. Santuarios y rostros tallados aún se aferran a sus acantilados, medio perdidos bajo el hielo y el musgo.
+346	Un mercader ambulante ha dejado su fardo cerca de aquí.
+347	Una fibra útil y versátil.
+348	Una mina vertical excavada en las raíces de basalto para extraer mineral precioso.
+349	La favorita del pueblo para una taza de té caliente.
+350	Una aldea amurallada junto al río que domina un viejo paso de barcaza.
+351	Un amarillo cálido y terroso obtenido de bayas de espino hervidas. Se puede usar para fabricar armaduras.
+352	Junto a la puerta cuelga un pergamino desgastado, cubierto con la letra apretada de Pim.\r\n\r\n"Límpiate las botas antes de entrar.\r\n\r\nSi te crecen setas encima, quítatelas FUERA.\r\n\r\nCierra la puerta al entrar.\r\n\r\nY deja de preguntarme si el bosque es seguro.\r\n\r\nNo lo es."\r\n\r\n— Pim
+353	Un refugio desgastado al borde de un acantilado que ofrece algo de descanso al viajero cansado.
+354	Una entrada de piedra desgastada medio enterrada en tierra y musgo.
+355	Un campamento azotado por el viento sobre la roca desnuda, con una vista implacable de las tierras de abajo.
+356	Una granja de ovejas azotada por el viento que domina las aguas tranquilas.
+357	Una fortaleza marchita de Whisperwood ha quedado cubierta de extrañas setas pálidas. Esporas doradas flotan desde sus torres.
+358	Una mujer está sentada en el suelo junto a una hoz ensangrentada. Tiene la ropa rota y embarrada, y sangre fresca le mancha una manga. A su alrededor hay manojos de hierbas y una cesta volcada.\r\n\r\nTe observa acercarte, con los ojos entornados.\r\n\r\n"¿Es tuyo ese poni? Lo encontré vagando por ahí, solo... Uno no debería dejar desatendido a su compañero."
+359	Un núcleo de madera para fabricar escudos.
+360	Un mango de madera para fabricar hachas y mazas a una mano.
+361	Un mango de madera para fabricar hachas y mazas a dos manos.
+362	Un envoltorio de limaduras, remaches y resina de unión. Sirve para enderezar filos doblados y mantener un arma entera durante otro combate.
+363	Una duela de tejo para fabricar arcos.
+364	Y LUEGO, SOLO OSCURIDAD...
+365	Abandonado y en ruinas, pero aún capaz de ofrecer algo de descanso.
+366	Abad Mouldroot
+367	El abad Mouldroot ha caído. Los muertos vuelven a descansar, aunque unas pocas voces robadas aún perduran entre las hayas.
+368	El abad Mouldroot está unido a la Tumba Podrida por cuatro raíces susurrantes. A través de ellas puede dominar a los muertos y robar el conocimiento de los vivos.
+369	El abad Mouldroot espera en el corazón de la Tumba Podrida, con sus raíces cortadas y su dominio debilitado. Acaba con él.
+370	Chorro ácido
+371	Acólito
+372	Bellotas
+373	Daño mágico añadido
+374	Daño físico añadido
+375	Adopta una postura ágil que otorga PRISA, aumentando tu velocidad de movimiento.
+376	Animista avanzado
+377	Bloqueo con hacha avanzado
+378	Contraataque con hacha avanzado
+379	Combate con hacha avanzado
+380	Sincronización con hacha avanzada
+381	Manejo del arco avanzado
+382	Tiro con arco avanzado
+383	Sincronización con arco avanzada
+384	Destilería avanzada
+385	Escalada avanzada
+386	Cocina avanzada
+387	Detección avanzada
+388	Elementalista avanzado
+389	Pesca avanzada
+390	Juego de pies avanzado
+391	Carga avanzada
+392	Herboristería avanzada
+393	Salto avanzado
+394	Ganzúa avanzada
+395	Bloqueo con maza avanzado
+396	Contraataque con maza avanzado
+397	Combate con maza avanzado
+398	Sincronización con maza avanzada
+399	Desuello avanzado
+400	Sigilo avanzado
+401	Bloqueo con lanza avanzado
+402	Contraataque con lanza avanzado
+403	Combate con lanza avanzado
+404	Sincronización con lanza avanzada
+405	Bloqueo con espada avanzado
+406	Contraataque con espada avanzado
+407	Combate con espada avanzado
+408	Sincronización con espada avanzada
+409	Portador de antorcha avanzado
+410	Trampería avanzada
+411	De aventura
+412	¡De aventura!
+413	Égida eterna
+414	Cuña de queso curado
+415	Apunta a los puntos débiles, haciendo que el objetivo SANGRE.
+416	Granja Alderbank
+417	Cerveza
+418	Todo tranquilo… todo mojado…
+419	Los aliados ganan +5 de eficacia de bloqueo. Los enemigos sufren -10% de daño.
+420	Allium
+421	Te permite evitar ser detectado incluso a corta distancia al moverte con sigilo.
+422	Te permite preparar tés de efectos suaves.
+423	Te permite pescar peces comunes.
+424	Te permite pescar peces raros.
+425	Te permite pescar peces poco comunes.

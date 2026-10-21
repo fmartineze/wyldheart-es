@@ -1,0 +1,114 @@
+0	 Armadura laminar de corteza
+1	 esconde una sonrisa satisfecha
+2	"Depende de hacia dónde vayas. Al norte están las altas montañas. Al oeste, los árboles crecen apretados como dientes. Al sur, la tierra se vuelve ciénaga."\r\n\r\nNiega con la cabeza, con un leve pesar en la voz.\r\n\r\n"Estas tierras no solían ser malditas. Cosas salieron arrastrándose de los túmulos cuando la niebla se espesó. Y no parece que vuelvan a meterse."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nRecorre con el dedo una cicatriz de su palma, mirando más allá de ti.\r\n\r\n"Recuerda que las luces que veas… puede que no sean faroles. No sigas a ciegas las luces del bosque. Podría ser la gente de abajo."
+3	"Bien."\r\n\r\nAsiente con entusiasmo.\r\n\r\n"Los huevos están enteros, las esporas aún viven... y este servirá de maravilla. Sí, tengo todo lo que necesito."
+4	"No lo sé. No vivo aquí. Voy casi siempre a lo mío. A veces vengo a comer algo, o a recordarme que la gente todavía habla sin gruñir."\r\n\r\nSonríe con sorna.\r\n\r\n"Estar sola es más seguro que fiarse de la compañía equivocada."
+5	"Tengo todo lo que me pediste."
+6	"No vengo a hacer daño"
+7	"Hoy he vuelto a esperar junto a la puerta.\r\n\r\nDijo tres días. Ya van nueve.\r\n\r\nPim dice que los caminos están mal y que no debo temer lo peor, pero no me mira a la cara cuando lo dice.\r\n\r\nAun así le dejé la cena junto al fuego.\r\n\r\nMañana haré lo mismo."
+8	"Busco traer a alguien de vuelta de entre los muertos."
+9	"Si la paga es justa y el motivo, sensato. No guío a peregrinos ni a necios que persiguen el oro de las hadas."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nTe mira de arriba abajo.\r\n\r\n"Vuelve cuando tengas algo que merezca la pena; entonces quizá podamos hablar."
+10	"Salgamos de aquí"
+11	"¿Ahora? Espera. Estas cosas llevan su tiempo, y no me vas a ayudar nada mirando por encima de mi hombro."\r\n\r\nSe da la vuelta para marcharse.\r\n\r\n"Ten paciencia. Con un poco de bondad, tu amigo debería poder volver."\r\n\r\nMurmura algo entre dientes.\r\n\r\n"De un modo... u otro."
+12	"¡Oh, por los dioses!"\r\n\r\nSe le va el color de la cara.\r\n\r\n"Todo este tiempo han estado atrapados ahí abajo..."\r\n\r\nMira hacia las ruinas.\r\n\r\n"Y esas criaturas miserables salieron arrastrándose de allí. Algo no va bien en ese lugar. ¿Por qué la gente va en busca de semejantes peligros?"\r\n\r\nSe vuelve hacia ti.\r\n\r\n"No te preocupes, me encargaré de que reciban ayuda."
+13	"Por favor, lleva esta reliquia a Oswin... en Elderlight... mensaje de Marrec de Caerwyn... hay que encontrar todas las piezas... o si no… para salvar .."\r\n\r\n(#confirm ...)\r\n\r\nSe desploma, con la respiración entrecortada. El leve zumbido de la reliquia sigue el latido de su corazón, que se apaga. \r\n\r\nUn momento después, el hombre queda en silencio.
+14	"¿La Tumba Podrida?"
+15	"¡Atrás!"\r\n\r\nAgarra su espada y te apunta con ella. La hoja está mellada, su ropa hecha jirones y tiene las manos manchadas de sangre seca. Lleva un buen rato luchando.\r\n\r\n"¡No te acerques más!"
+16	"Háblale de los aventureros heridos"
+17	"El viejo haya ha vuelto a cantar esta noche.\r\n\r\nNo es una canción, exactamente. Más bien el sonido que haría un gran árbol si estuviera soñando. Me senté bajo sus ramas hasta que la luna estuvo alta y sentí la tierra zumbar bajo mis pies."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Los ancianos dicen que sus raíces se extienden bajo todo Rivermere. Algunos incluso afirman que la aldea se construyó donde está porque la Red Susurrante no cruza estas raíces.\r\n\r\nNo sé si es cierto.\r\n\r\nPero cuando apoyo la mano en su tronco, los susurros se callan.\r\n\r\nTodos ellos."
+18	"El poni no es mío"
+19	"Entonces has venido buscando una vieja bondad. La muerte se lleva muchas cosas consigo. El calor del cuerpo. El aliento. La voz. Pero la memoria tarda más en seguirla."\r\n\r\nTe observa un momento.\r\n\r\n"Si queda lo suficiente, hay maneras de llamar a alguien de vuelta."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Necesitaré unas cuantas cosas. Ninguna es difícil de nombrar. Algunas pueden ser difíciles de conseguir: una puesta de huevos de caracol, aún sin eclosionar. Con diez bastará. Cinco fibras de un micelio. Y un cráneo humanoide, tomado de alguien cuya vida terminó hace mucho."\r\n\r\nAsiente para sí.\r\n\r\n"Tráelas aquí. Yo me encargaré del resto."
+20	"Habían corrido hasta dejar las antorchas muy atrás, hasta que el viento se tragó los gritos y no quedó nada más que ellos dos bajo el cielo abierto.\r\n\r\nElla le tomó el rostro entre las manos y le miró el corte que tenía sobre el ojo.\r\n\r\n— Creí que te había perdido.\r\n\r\nÉl se quedó muy quieto.\r\n\r\nPor una vez, no tenía ninguna respuesta ingeniosa.\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nLas manos de ella siguieron donde estaban. Las de él se posaron en su cintura, casi con timidez. Había desaparecido la arrogancia, la sonrisa fácil que llevaba como una armadura.\r\n\r\nMuy abajo, ardían hogueras a lo largo del camino del valle. Sobre ellos, las nubes se abrieron y dejaron ver un cielo repleto de estrellas.\r\n\r\n— Lo hemos conseguido —dijo ella, con la voz temblorosa y de pronto tímida.\r\n\r\nÉl sonrió y se acercó más..."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nEl resto de la página está manchado de lo que parece vino derramado.
+21	"¿La Cueva Trollcap?"
+22	"¡Espera!"\r\n\r\nMete la mano en su zurrón y te ofrece algo lleno de un líquido rojo.\r\n\r\n"Toma. Llévate estos frascos de Retoño Rojo, por las molestias."\r\n\r\nConsigue esbozar una sonrisa cansada.\r\n\r\n"Y si alguna vez necesitas otro reconstituyente, mi casita está justo a las afueras de Elderlight."
+23	"Bien hallado."
+24	"¿Qué me puedes contar de Whisperwood?"
+25	"¿Qué ha pasado aquí?"
+26	"¿Y ahora qué?"
+27	"¿Qué es este lugar?"
+28	"¿Qué es esto?"
+29	"¿Quién eres?"
+30	"¿Quieres viajar conmigo?"
+31	"¿La Fortaleza Marchita?"
+32	"¿Sí?"
+33	 tiene un brillo expectante en la mirada
+34	(Escape para cancelar)
+35	*SSSSSSS*
+36	*¡PUM!*
+37	*PUM*
+38	*un gorgoteo furioso*
+39	*gorgoteo enfadado*
+40	*traqueteo de huesos*
+41	*crujido de huesos*
+42	*los huesos se asientan*
+43	*se atraganta con sangre*
+44	*clac... clac... crac*
+45	*clic*
+46	*ñiiiic*
+47	*se desinfla húmedamente*
+48	*traqueteo seco… clinc*
+49	*chillido excitado*
+50	*gruñido excitado*
+51	*gorgoteo débil*
+52	*último exhalar crujiente… los huesos quedan inmóviles*
+53	*último estertor*
+54	*último chapoteo*
+55	*sisea húmedamente*
+56	*chasquidos hambrientos*
+57	*gemido hambriento*
+58	*sorbidos hambrientos*
+59	*castañeteo de mandíbula*
+60	*la mandíbula chasquea dos veces; luego, silencio*
+61	*toc toc*
+62	*cerrado con llave*
+63	*gruñido grave y chirriante... huesos traqueteando*
+64	*gorgoteo grave*
+65	*gemido grave*
+66	*un último espasmo*
+67	*chillido penetrante*
+68	*gorgoteo desconcertado*
+69	*vuelve a sorber*
+70	*chirrido de metal sobre piedra*
+71	*crac*
+72	*olfatea con hambre*
+73	*olfatea el aire*
+74	*chof*
+75	*castañeteo de dientes*
+76	*los tentáculos se despliegan*
+77	*los tentáculos se relajan*
+78	*los tentáculos se agitan*
+79	*aullido antinatural que surge de la caja torácica*
+80	*chasquidos húmedos*
+81	+1 Invocación básica
+82	+1 Invocación experta
+83	+1 Invocación maestra
+84	+15% de daño a los aliados a tu alrededor.
+86	... puedes usar el entorno a tu favor de muchas maneras.
+87	... las Manos Aferradoras sirven para ofrecer objetos a los señores feéricos.
+88	... de vuelta al barro.
+89	... encender una hoguera por la noche es esencial para no perder la esperanza.
+90	... al completar misiones ganas puntos de experiencia para subir de nivel a tus personajes y mejorar sus atributos.
+91	... fabricar herramientas y armas te ayuda a sobrevivir y defenderte.
+92	... cada enemigo tiene sus propias fortalezas y debilidades, así que intenta estar preparado para todo.
+93	... todo el grupo tiene que ayudar a despejar los caminos bloqueados.
+94	... te sientes mareado y un poco raro. Como si anoche hubieras bebido demasiado. Quizá no fue buena idea comerse esas bayas, después de todo.
+95	... perder la esperanza pone a tu personaje en riesgo de morir. Los personajes muertos no se pueden jugar hasta que sean revividos.
+96	... gestionar tu salud y tu aguante es crucial para seguir con vida.
+97	... quizá haya otra salida.
+98	... o un poco del brandi de Marnie.
+99	... pulsar <img id="ToggleInventory"/> abre el menú de la mochila, donde puedes equipar armas y equipo.
+100	... descansar en una hoguera restaura tu salud, tu aguante y tu espíritu.
+101	... llegue a eso. Las dos primeras ofrendas ya son bastante malas. Pero no creo que pudiéramos vivir con nosotros mismos si hiciéramos la tercera ofrenda ...
+102	... alguien vendrá.
+103	... la ventaja básica de destilería te permite preparar brebajes en una hoguera.
+104	... la ventaja básica de cocina te permite preparar comidas en una hoguera.
+105	... la ventaja básica de detección desbloquea la capacidad de agacharte para revelar cosas ocultas.
+106	... la ventaja básica de pesca te permite usar una caña de pescar en cualquier masa de agua.
+107	... la ventaja básica de carga te permite llevar más cosas.
+108	... la ventaja básica de herboristería te permite recolectar plantas y hongos.
+109	... la ventaja básica de ganzúa te permite forzar puertas y cofres cerrados.
+110	... la ventaja básica de desollar te permite obtener materiales de los restos.
+111	... la ventaja básica de sigilo te permite pasar en silencio junto a algunos enemigos.
+112	... el juego se actualiza constantemente con nuevas misiones, zonas y objetos, así que siempre hay algo nuevo que descubrir.
+113	... ¿hay muchas formas distintas de personalizar a tu personaje? Puedes elegir entre una gran variedad de armas, armaduras y habilidades para crear un personaje único.
+114	... hay muchas formas distintas de jugar. Puedes centrarte en el combate, la exploración o incluso el comercio.

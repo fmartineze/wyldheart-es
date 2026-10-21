@@ -1,0 +1,8 @@
+0	Conexión perdida
+1	Guardado en línea no disponible
+2	Error del servicio en línea
+3	No pudimos conectar con el servicio de guardado en línea. Comprueba tu conexión a internet o inténtalo más tarde. \nAún puedes jugar en solitario con un guardado local desmarcando Jugar en línea en la pantalla de título. Importante: las campañas creadas sin conexión no se pueden jugar en línea ni convertir después en campañas multijugador.
+4	No pudimos conectar con el servicio de guardado en línea. Inténtalo más tarde. \nAún puedes jugar en solitario con un guardado local desmarcando Jugar en línea en la pantalla de título. Importante: las campañas creadas sin conexión no se pueden jugar en línea ni convertir después en campañas multijugador.
+5	Hemos perdido la conexión con el servicio en línea y no pudimos reconectar. Has vuelto al menú principal. Comprueba tu conexión a internet o inténtalo más tarde. \nAún puedes jugar en solitario con un guardado local desmarcando Jugar en línea en la pantalla de título. Importante: las campañas creadas sin conexión no se pueden jugar en línea ni convertir después en campañas multijugador.
+6	Puedes seguir jugando, pero el progreso hecho mientras estés desconectado podría no guardarse.
+7	Has perdido la conexión. El juego está intentando reconectar.

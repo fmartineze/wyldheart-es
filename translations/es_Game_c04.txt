@@ -1,0 +1,316 @@
+713	Los huesos… mintieron…
+714	Libro
+715	Libro de alquimia antigua X
+716	Libro de astrología II
+717	Libro de la plaga
+718	Libro de magia oscura IV
+719	Libro de nigromancia
+720	Libro de la pira
+721	Libro de la escarcha
+722	Libro de la tormenta
+723	Libro de pociones incontrolables
+724	Libro de minerales violentos III
+725	Licor
+726	Botas de guardia fronterizo
+727	Calzas de guardia fronterizo
+728	Cota de malla de guardia fronterizo
+729	Manoplas de guardia fronterizo
+730	Botella de brandi
+731	Botella de agua bendita
+732	Botella de hidromiel
+733	Botella de leche
+734	Botella de ron
+735	{0} encuadernado
+736	Santuario fronterizo
+737	Arco
+738	Hacer una reverencia en señal de respeto
+739	Cuerda de arco
+740	Resistir y romper
+741	Prepárate para la batalla: recibes menos daño y aumenta el daño de tus contraataques con lanza.
+742	Brackenwood
+743	Rama
+744	Pan
+745	Romper
+746	Rompe dientes antes que el hambre.
+747	¡Romper… abrir… huesos!
+748	Musgo de aliento
+749	El musgo de aliento alivia brevemente los pulmones fatigados, seguido de una presión dolorosa y profunda.
+750	Elaborada por la Sabia de la Cerveza, Lady Cynwrig la Efervescente, un sorbo de esta cerveza suave y maltosa es una experiencia divina. Una de diez botellas envejecidas a la perfección.
+751	Brotes de zarza
+752	Sopa de raíz de zarza
+753	Raíces de zarza
+754	Savia de zarza
+755	Espinas de zarza
+756	Té de brote de zarza
+757	Puente
+758	Bandolero
+759	Flores de un dorado intenso con un fuerte olor terroso.
+760	Florecillas vivas con un aroma intenso a hojas.
+761	Hojas anchas flotantes con flores a salvo por encima del lodo.
+762	Robles viejos y anchos salpican un suelo soleado de hierba y helechos.
+763	Hacha ancha
+764	Botella rota
+765	Loma del Carro Roto
+766	Botas de bronce
+767	Peto de bronce
+768	Calzas de bronce
+769	Almófar de bronce
+770	Guanteletes de bronce
+771	Grebas de bronce
+772	Cota de malla de bronce
+773	Panel de malla de bronce
+774	Manoplas de bronce
+775	Segmento de placa de bronce
+776	Borde de bronce
+777	Escarpes de bronce
+778	Lámina de escamas de bronce
+779	Restos de bronce
+780	Punta de lanza de bronce
+781	Tachuelas de bronce
+782	Restos de bronce para fabricar armaduras y armas.
+783	{0} de bronce
+784	Color de cejas
+785	Tinte marrón
+786	Té de hilo marrón
+787	Rodela
+788	Hecho para clavos. Ya da igual.
+789	Hecho para sobrevivir más que tú.
+790	Caracol baluarte
+791	Postura de baluarte
+792	Ardiendo
+793	Probabilidad de quemadura
+794	Resistencia a quemaduras
+795	Arde rápido. Recoge más de lo que crees.
+796	Carnicero
+797	Queso curado en mantequilla
+798	Sartén de ave con mantequilla
+799	Babosa con mantequilla
+800	Sombrero de cazador
+801	Col
+802	Sopa de col
+803	Cairn Hollow
+804	Invocar relámpago
+805	Haz descender un rayo de sol. Todos los aliados se curan un +50% de su salud total.
+806	Invoca relámpagos en una zona, dañando y posiblemente ELECTROCUTANDO a los enemigos.
+807	Vengo del norte. El camino está bastante despejado, si no te importa el olor.
+808	Zoom de cámara
+809	Hoguera
+810	Se puede usar para decorar armas grabadas.
+811	Se puede usar para adornar armaduras.
+812	Vela
+813	Velas
+814	Las velas nunca nos duran todo el invierno.
+815	Capitán
+816	Botas de capitán
+817	Peto de capitán
+818	Brigantina de capitán
+819	Calzas de capitán
+820	Guanteletes de capitán
+821	Guantes de capitán
+822	Grebas de capitán
+823	Cota de malla de capitán
+824	Polainas de capitán
+825	Manoplas de capitán
+826	Escarpes de capitán
+827	Zanahoria
+828	Carga
+829	Guantes de carretero
+830	Velocidad de lanzamiento
+831	Catálogo de bestias legendarias I
+832	Categoría
+833	Bebida de celebración
+834	Cadena de los cielos
+835	Tiza
+836	Manzanilla
+837	Peto de campeón
+838	Guanteletes de campeón
+839	Grebas de campeón
+840	Escarpes de campeón
+841	Canaliza el poder del sol, curando a todos los aliados a tu alrededor un 25% de su salud total. Inflige 10 de daño radiante a todos los enemigos.
+842	Canaliza un chorro continuo de fuego. Inflige daño adicional a los enemigos que estén ARDIENDO.
+843	Canaliza un torrente continuo de relámpagos. Inflige daño adicional a los enemigos ELECTROCUTADOS.
+844	Canaliza un chorro de ácido corrosivo. Inflige daño adicional a los enemigos ENVENENADOS.
+845	Canaliza un chorro de escarcha que inflige daño continuo a los enemigos en su trayectoria.
+846	Personaje
+847	Nombre del personaje
+848	Carga hacia delante con tu lanza, pudiendo dejar a los enemigos VULNERABLES. Inflige un daño enorme a los enemigos RALENTIZADOS.
+849	Carga de relámpagos las armas de tus aliados, otorgándoles +10 de penetración de armadura.
+850	Amuleto
+851	Raíces de zarza carbonizadas
+852	Trol carbonizado
+853	Lobo carbonizado
+854	Flechas de madera baratas.
+855	Barato, saciante y siempre disponible.
+856	Barato, saciante y sencillo.
+857	Vitorear
+858	Plato de queso y pan
+859	Queso y hogaza
+860	Galleta de queso
+861	Torso
+862	Carne de pollo
+863	Estofado de pollo con hierbas
+864	Botas de caudillo
+865	Peto de caudillo
+866	Coraza de caudillo
+867	Guanteletes de caudillo
+868	Guantes de caudillo
+869	Grebas de caudillo
+870	Escarpes de caudillo
+871	Pantalones de caudillo
+872	Cortada y partida para un buen fuego.
+873	Túnica de cronista
+874	Aplaudir
+875	Aplaudir
+876	Aplaudir, claramente sin impresionarse
+877	Garra
+878	Carne de caza limpia, muy cazada.
+879	Agua clara que fluye entre juncos y troncos caídos.
+880	Clara, salada y mejor que nada.
+881	Té claro e intenso, el favorito de exploradores y cartógrafos.
+882	Despeja la mente al masticarlo o en infusión.
+883	Cuchilla
+884	Abalanzamiento hendiente
+885	Escalada
+886	Hierba pegajosa que sigue a los viajeros a casa sin invitación.
+887	Píceas apretadas vuelven el suelo del bosque oscuro e inmóvil.
+888	Granja Cloverdew
+889	Garrote
+890	Grumo de limo negro seco
+891	Grumo de limo seco
+893	Granos gruesos útiles para frotar, mezclar y hacer vidrio.
+894	Alfileres de cobalto
+895	Alfileres de cobalto para decorar armas.
+896	Códice
+897	Moneda
+898	Corrientes frías y rápidas que serpentean entre orillas rocosas.
+899	Frío al tacto y sin una sola mancha a pesar de años de abandono, este colgante de plata lleva la estrella de seis puntas de la Hermandad Celestial.
+900	Frío…
+901	Frío… ahora…
+902	Arcos derrumbados enmarcan solo cielo donde antes hubo tejados.
+903	¡Ven… aquí!
+904	Próximamente
+905	Común
+906	Común, verde y bienvenido en casi cualquier olla.
+907	Potaje de olla común
+908	Compañero
+909	Compendio de hierbas
+910	Tez
+911	Confundido
+912	Continuar
+913	Delantal de cocinero
+914	Cocinado a fondo para que no pienses en ello.
+915	Cocina
+916	Sartén
+917	Grasa de cocina
+918	Por aquí escasea la grasa de cocina.
+919	Enfriamiento
+920	Moneda de cobre
+921	Cordones para fabricar hondas.
+922	Coste
+923	Podría usarse como arma en caso de apuro.
+924	Cubierto de motivos florales entrelazados y gemas vibrantes, este exquisito anillo perteneció a la emperatriz Talanna.
+925	Piel de vaca
+926	Carne de vaca
+927	Fabricación
+928	Zapatos de artesano
+929	Pantalones de artesano
+930	Túnica de artesano
+931	Creado
+932	Crea una nube fétida que daña y puede DEBILITAR a los enemigos que estén dentro.
+933	Crea una zona de suelo helado que daña y RALENTIZA a los enemigos que estén dentro.
+934	Crea un muro de fuego que daña a los enemigos que lo atraviesan y puede hacerlos ARDER.
+935	Disparo incapacitante
+936	Piel crujiente, carne tierna, paz efímera.
+937	Crujiente, familiar y efímero.
+938	Crujiente, familiar, efímero.
+939	Probabilidad de crítico
+940	Daño crítico
+941	Golpe crítico
+942	Los golpes críticos con hacha infligen un {Value}% más de daño
+943	Los golpes críticos con arco infligen un {Value}% más de daño
+944	Los golpes críticos con maza infligen un {Value}% más de daño
+945	Los golpes críticos con lanza infligen un {Value}% más de daño
+946	Los golpes críticos con espada infligen un {Value}% más de daño
+947	Cayado
+948	Crookhold
+949	Crookwood
+950	Agacharse / Alternar búsqueda
+951	Hoja de cuervo
+952	La hoja de cuervo agudiza la vista cuando la luz se desvanece. Quienes la usan demasiado dicen que las sombras permanecen más de lo que deberían.
+953	{0} tosco
+954	Golpes demoledores
+955	Resistencia a aplastamiento
+956	Llorar
+957	Cripta del Rey Tuerto
+958	Amuleto de cristal
+960	Culinario
+961	Sectario
+962	Sumo sacerdote sectario
+963	Sacerdote sectario
+964	Campos cultivados que lindan con lo salvaje.
+965	Piel de oso curtida
+966	Piel de jabalí curtida
+967	Piel de vaca curtida
+968	Piel de ciervo curtida
+969	Piel de alce curtida
+970	Piel de cabra curtida
+971	Piel de liebre curtida
+972	Piel de lince curtida
+973	Piel de marmota curtida
+974	Piel de alce americano curtida
+975	Piel de buey curtida
+976	Piel de cerdo curtida
+977	Piel de conejo curtida
+978	Piel de oveja curtida
+979	Piel de lobo curtida
+980	Piel curtida para fabricar.
+981	Ubicación actual
+982	Equipado actualmente
+983	Reverencia
+984	Hacer una reverencia en señal de respeto
+985	LA OSCURIDAD TE RECLAMA...
+987	Daga
+988	Lácteos
+989	Daño
+990	Maldito seas…
+991	Suelo húmedo y ramas caídas que forman túneles verdes.
+992	Bailar
+993	Giro de baile
+994	Peligroso
+995	Púas peligrosas y una intrincada orfebrería delatan que este anillo de oro fue forjado por orfebres de Morodan.
+996	Oscuro y fragante.
+997	Bayas oscuras que es mejor admirar sin probar.
+998	Sangre oscura con un olor penetrante y desagradable.
+999	Combustible oscuro para mañanas más oscuras.
+1000	Grano oscuro y amargo.
+1001	Oscuro, terroso y extrañamente saciante.
+1002	Té oscuro y fragante que se toma durante el luto.
+1003	Savia oscura y pegajosa que brota despacio de los cortes frescos.
+1004	De hojas oscuras y amargo; poco bueno se dice de comerlo.
+1005	Carne más oscura, sabor más profundo.
+1006	Alba
+1007	Mortal
+1008	Belladona
+1009	Páramo del Muerto
+1010	¡La muerte no es suficiente!
+1011	Profundo, oscuro y bien ganado.
+1012	Sopa del bosque profundo
+1013	Ciervo
+1014	Piel de ciervo
+1015	Carne de ciervo
+1016	Estofado de ciervo con hierbas
+1017	Mando predeterminado
+1018	Teclado y ratón predeterminado
+1019	Derrota al abad Mouldroot
+1020	Derrota a Ojo Brillante
+1021	Derrota al Sorbedor
+1022	Derrota al Gran Limo
+1023	Derrota al Rey de Muchas Coronas
+1024	Bramido del defensor
+1025	Aplomo del defensor
+1026	Defensa
+1027	Flores delicadas que cabecean sobre tallos finos y vellosos.
+1028	Delicados hilos de oro envuelven este colgante; sus bordes afilados son como espinas alrededor de una rosa de granate.
+1029	Asesta un brutal tajo descendente que inflige un daño enorme a los enemigos HERIDOS.
+1030	Asesta un poderoso golpe de gracia. Inflige daño adicional a los enemigos HERIDOS.
+1031	Asesta un poderoso golpe descendente que puede causar ATURDIMIENTO. Es más probable ATURDIR a los enemigos que estén EN GUARDIA.

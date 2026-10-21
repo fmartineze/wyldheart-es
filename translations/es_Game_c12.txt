@@ -1,0 +1,293 @@
+2950	Llega un olor a podrido desde el norte.
+2951	En el bosque se come bien, si sabes qué no está intentando comerte a ti.
+2952	No hay comida y los platos están recogidos.
+2953	Ya está. ¿Mejor?
+2954	Estos quizá sí, y entonces serán dignos.
+2955	Al principio siempre lo están.
+2956	Dicen que la vieja Pim era la chica más guapa de Rivermere.
+2957	Dicen que la Fortaleza Marchita antes estaba vacía.
+2958	Dicen que las redes de setas bajo el bosque están todas conectadas. Molesta una y el Susurrador del Bosque podría notarlo.
+2959	Ya lo sabrán cuando bajen.
+2960	Están más callados que el último grupo.
+2961	Ternera gruesa estampada en la sartén y retada a portarse bien.
+2962	Cortes gruesos que exigen paciencia y dientes.
+2963	Cortes gruesos, lentos de cocinar.
+2964	Lo bastante grueso para masticarlo, lo bastante fino para lamentarlo.
+2965	Lo bastante espeso para quedarse contigo.
+2966	Agujas gruesas y troncos muy apretados.
+2967	Savia espesa que se aferra con terquedad a todo lo que toca.
+2968	Espeso, negro y obstinadamente impermeable.
+2969	Sangre espesa y oscura que se mantiene caliente un tiempo inquietantemente largo.
+2970	Carne gruesa y oscura cortada de un trol.
+2971	Limo espeso y pegajoso raspado del cuerpo.
+2972	Corteza gruesa y desgastada de un antiguo árbol andante.
+2973	Cortado grueso y frito hasta que se rizan los bordes.
+2974	Se espesa solo.
+2975	Hierba de ladrones
+2976	Fémur
+2977	Savia fina extraída de bajo la piel.
+2978	Té aguado y amargo, estirado para que dure.
+2979	Aguado, honrado y lo bastante caliente como para importar.
+2980	Pensar
+2981	¿Crees que alguno lo logrará?
+2982	Esta demo requiere conexión a internet para el guardado en línea y el multijugador. El guardado local no está disponible en la demo.
+2983	Este cuchillo desafilado no puede valer mucho.
+2984	Esta flauta podría valer algo para el músico adecuado.
+2985	Este cuchillo debería venderse por una buena suma en un mercadillo.
+2986	Este hechizo inflige un {Value}% más de daño.
+2987	Este hechizo se lanza un {Value}% más rápido.
+2988	Este hechizo dura un {Value}% más.
+2989	Este consejo se cerrará en
+2990	Aunque cubierta por una gruesa capa de polvo, la delicada filigrana de este plato de plata aún llama la atención.
+2991	Me pareció oír algo…
+2992	Amenaza
+2993	Lánzate a la refriega, aumentando la probabilidad de crítico con hacha y la resistencia al daño.
+2994	Bomba arrojadiza
+2995	Trueno
+2996	Lanza de trueno
+2997	Garra del trueno
+2998	Tomillo
+2999	Capullos bien cerrados cosechados antes de florecer.
+3000	Remaches de estaño
+3001	Baño de estaño
+3002	Hojalatero
+3003	Hojitas con más sabor del que parece razonable.
+3004	Gruta de los Hongos
+3005	Abrir/cerrar inventario
+3006	Alternar fijar objetivo
+3007	Poner o quitar la capucha
+3008	Tumba
+3009	Herramienta
+3010	Demasiado… seco…
+3011	Antorcha
+3012	Alimañas quemadas
+3013	Antorcha
+3014	Página de diario rota
+3016	Aceleración total
+3017	Peso total de carga
+3018	Velocidad total de escalada
+3019	Daño total
+3020	Salud total
+3021	Velocidad total
+3022	Espíritu total
+3023	Aguante total
+3024	Sigilo total
+3025	Tiempo total
+3026	Saciedad total
+3027	Resiliencia totémica
+3028	Duro pero fiable.
+3029	Lo bastante duro para sobrevivir al camino.
+3030	Fibras resistentes para fabricar.
+3031	Fibras fúngicas resistentes separadas en largas hebras.
+3032	Hojas duras como hierba con florecillas escondidas entre ellas.
+3033	Florecillas resistentes que prosperan donde la sal y el viento hacen de las suyas.
+3034	Carne dura que agradece el fuego.
+3035	Raíces duras de sabor terroso y amargo.
+3036	Duro, salado e incómodo.
+3037	Túnica de aldeano
+3038	Botas de rastreador
+3039	Calzones de rastreador
+3040	Guantes de rastreador
+3041	Jubón de rastreador
+3042	Zapatos de comerciante
+3043	Túnica de comerciante
+3044	Pantalones de artesano
+3045	Estofado de camino
+3046	Tráiler
+3047	Botas de guardián de senderos
+3048	Calzas de guardián de senderos
+3049	Cota de malla de guardián de senderos
+3050	Manoplas de guardián de senderos
+3051	Acondicionamiento entrenado
+3052	Resistencia entrenada
+3053	Concentración entrenada
+3054	Desactivar trampas
+3055	Trampero
+3056	Botas de trampero
+3057	Atuendo de trampero
+3058	Guantes de trampero
+3059	Pantalones de trampero
+3060	Pan de viaje
+3061	Riesgos del viaje
+3062	Alijo de viaje
+3063	Los viajeros aún peregrinan a la tumba podrida en lo profundo de Whisperwood con la esperanza de oír las voces de quienes perdieron. Pocos vuelven a ser vistos.
+3064	Túnica de viajero
+3065	Se ven viajeros más adelante.
+3066	Trivial
+3067	Sangre de trol
+3068	Huesos de trol
+3069	Grasa de trol
+3070	Asado de grasa de trol
+3071	Piel de trol
+3072	Carne de trol
+3073	Estofado de trol
+3074	Dientes de trol
+3075	Cueva Trollcap
+3076	Intenta no morirte, ¿vale?
+3077	Tubérculo
+3078	Colmillo
+3079	Ramita
+3080	Hacha a dos manos
+3081	Maza a dos manos
+3082	Espada a dos manos
+3083	Aquí se cruzan dos viejas rodadas de carro.
+3084	Dos forzudos me arrojaron a algo llamado la Hondonada. Hablan de ello como de una prueba, aunque pocos parecen sobrevivir sin cambiar.
+3085	Asta de fresno a dos manos
+3086	Asta de roble a dos manos
+3087	Empuñadura de espada a dos manos
+3088	Mango de madera a dos manos
+3089	Colgante del sacerdote de Ulldorn
+3090	No disponible
+3091	Poco común
+3092	Inconsciente
+3093	Resistencia profana
+3094	Desata un asalto implacable, aumentando la probabilidad de ATURDIR de tus ataques con maza.
+3095	Desata un estallido de podredumbre que puede ENVENENAR a los enemigos cercanos.
+3096	Desata una explosión atronadora a tu alrededor que ATURDE a los enemigos cercanos.
+3097	Desata una ola de fuego a tu alrededor que puede DERRIBAR a los enemigos cercanos. Mucho más fuerte mientras estás HERIDO.
+3098	Desata limo a tu alrededor que te FORTIFICA a ti y a los aliados cercanos.
+3099	Brasero apagado
+3100	Corriente pero fácil de encontrar.
+3101	Inquietante pero saciante.
+3102	Guardia inquebrantable
+3103	Usar ganzúa (0) ({skill})
+3104	Usar ganzúa ({v}) ({skill})
+3105	Úsalo para tratar heridas o lesiones.
+3106	Se usa para dar flexibilidad, silencio, movilidad y construcciones híbridas al fabricar armaduras.
+3107	Se usa para dar flexibilidad, silencio, movilidad y construcciones híbridas al fabricar armas y armaduras.
+3108	Se usa para acolchado, flexibilidad, aislamiento y prendas rituales.
+3109	Útil para roer o para golpear a la gente.
+3110	Útil para regatear o pagar un servicio.
+3111	Error al inicializar el usuario. Informa del error a través del Discord de Wyldheart
+3112	Valioso
+3113	Botas de vanguardia
+3114	Peto de vanguardia
+3115	Calzas de vanguardia
+3116	Guanteletes de vanguardia
+3117	Grebas de vanguardia
+3118	Cota de malla de vanguardia
+3119	Manoplas de vanguardia
+3120	Escarpes de vanguardia
+3121	Verdura
+3122	Vendedores
+3123	Escupitajo venenoso
+3124	Botas de veterano
+3125	Peto de veterano
+3126	Calzas de veterano
+3127	Guanteletes de veterano
+3128	Grebas de veterano
+3129	Cota de malla de veterano
+3130	Manoplas de veterano
+3131	Escarpes de veterano
+3132	Vivo y sabroso.
+3133	Puñalada despiadada
+3134	Festín de la victoria
+3135	Golpe de la victoria
+3136	Hogaza de aldea
+3137	Zapatos de aldeano
+3138	Plaga viridiana
+3139	Votar para entrar
+3140	Votar para luchar
+3141	Votar para huir
+3142	Votar para acampar
+3143	Votar para dormir
+3144	Votar para viajar
+3145	Probabilidad de vulnerabilidad
+3146	Wailwood
+3147	Espera…
+3148	Espera… al sacerdote… espera…
+3149	Caminar
+3150	Caminando
+3151	Pueblo amurallado en el corazón de Elderfields.
+3152	Varita
+3153	Túnica de vagabundo
+3154	Vendajes de vagabundo
+3155	Sombrero de guerra
+3156	Botas de alcaide
+3157	Peto de alcaide
+3158	Calzas de alcaide
+3159	Guanteletes de alcaide
+3160	Grebas de alcaide
+3161	Cota de malla de alcaide
+3162	Manoplas de alcaide
+3163	Escarpes de alcaide
+3164	Martillo de guerra
+3165	Botas de caudillo de guerra
+3166	Coraza de caudillo de guerra
+3167	Guantes de caudillo de guerra
+3168	Pantalones de caudillo de guerra
+3169	Peso del señor de la guerra
+3170	Sartén caliente del huerto
+3171	Manta caliente
+3172	¡Carne caliente! ¡Caliente!
+3173	Comida caliente contra tiempos fríos.
+3174	Caliente, saciante y con sabor a la razón por la que la gente cocina mejor.
+3175	Peto de guerrero
+3176	Guanteletes de guerrero
+3177	Grebas de guerrero
+3178	Escarpes de guerrero
+3179	Botas de vigía
+3180	Peto de vigía
+3181	Calzas de vigía
+3182	Guanteletes de vigía
+3183	Grebas de vigía
+3184	Cota de malla de vigía
+3185	Manoplas de vigía
+3186	Escarpes de vigía
+3187	Vigila… vigilando… vigila…
+3188	Nenúfar
+3189	Odre
+3190	Saludar
+3191	Llamar la atención
+3192	¡Haz señas para llamar la atención!
+3193	Saludar con ambas manos
+3194	Saludar con el brazo
+3195	Cera
+3196	Hilo encerado
+3197	Hilo encerado para fabricar armaduras.
+3198	Potaje del caminante
+3199	Túnica de caminante
+3200	Vendajes de caminante
+3201	Peto de vigilante de caminos
+3202	Guanteletes de vigilante de caminos
+3203	Grebas de vigilante de caminos
+3204	Escarpes de vigilante de caminos
+3205	Somos… uno…
+3206	Nunca debimos venir aquí.
+3207	¡Te olemos!
+3208	Antes nos adentrábamos el doble en el bosque a por setas. Ya no.
+3209	Siempre nos falta aceite para lámparas.
+3210	¡Te estamos echando raíces!
+3211	Arma rota
+3212	Kit de reparación de armas
+3213	Armas
+3214	Escudo desgastado
+3215	Menhires desgastados marcan el lugar de un enorme túmulo funerario.
+3216	Madera desgastada, lo bastante seca para arder bien.
+3217	{0} desgastado
+3218	Túnica de observador del tiempo
+3219	Teje fibra en tela resistente o prensa semillas para sacar aceite.
+3220	Te damos la bienvenida a la BETA de Wyldheart
+3221	Te damos la bienvenida a la DEMO de Wyldheart
+3222	Bien alimentado
+3223	Éramos… hombres…
+3224	¿Qué te pasó en el ojo?
+3225	¿Qué se mueve ahí?
+3226	¿Qué ha sido eso?
+3227	Lo que te haya dado el bosque, cocinado todo junto.
+3228	Se echó todo lo que crecía.
+3229	¿Cómo te llamas?
+3230	Si te quedas sin esperanza, puedes morir de forma permanente. Pasar una noche en una posada o ahogar las penas en bebida te ayudará.
+3231	Haz girar tu hacha entre los enemigos cercanos, recuperando salud según el daño infligido.
+3232	Segador giratorio
+3233	Anillo del susurro
+3235	Vino blanco
+3236	¿Quién camina…?
+3237	¿Quién anda ahí?
+3238	¿Quién… ahí…?
+3239	Brebaje de la viuda
+3240	Encaje de viuda
+3241	Vigía de la viuda
+3242	Hoja de viuda
+3243	El encaje de viuda calma el corazón y aplaca el pánico. Se dice que su uso prolongado roba el color a los recuerdos.
+3244	Empuñar este grimorio te permite canalizar hechizos de la Senda de la Plaga.

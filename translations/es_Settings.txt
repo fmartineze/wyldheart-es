@@ -1,0 +1,245 @@
+0	SimpleMove falló para {0}: movimiento no permitido
+1	1 (Lento)
+2	10 (Demencial)
+3	2 (Lento+)
+5	3 (Lento++)
+6	Auriculares 3D
+7	Resolución 3D
+8	La resolución 3D determina la resolución con la que se renderizan los objetos en el juego, pero no afecta al menú principal. Las resoluciones más bajas pueden aumentar mucho la tasa de fotogramas.
+10	4 (Normal)
+12	5 (Normal+)
+14	6 (Normal++)
+16	7 (Rápido)
+17	8 (Rápido+)
+18	9 (Rápido++)
+20	La generación de fotogramas de AMD FSR crea fotogramas adicionales, aumentando mucho la tasa de fotogramas. Activa automáticamente AMD Radeon Anti-Lag 2 para mantener baja la latencia de entrada.
+21	Ajusta el brillo.
+22	Ajusta el volumen del diálogo de los personajes y las voces en off.
+23	Ajusta el volumen de todo.
+24	Ajusta el volumen de la música.
+25	Ajusta el volumen de los efectos de sonido.
+26	Ajusta el volumen del chat de voz.
+27	Gráficos avanzados
+28	Sensibilidad al apuntar (ADS)
+29	Todos los sonidos
+30	Antialiasing
+31	El antialiasing reduce los dientes de sierra en los bordes de la geometría. Aumentar este ajuste suaviza los bordes, pero puede reducir el rendimiento. Valores más altos implican más antialiasing.
+32	Audio
+33	Dispositivo de salida de audio
+34	Autoajuste
+35	Calidad automática
+36	Configura automáticamente las opciones de calidad gráfica según una prueba de rendimiento del hardware.
+37	Audio en segundo plano
+38	Opacidad del fondo
+39	Equilibrado
+40	Brillo
+41	Tiempo de juego de CPU
+42	Tiempo RHI de CPU
+43	Tiempo de renderizado de CPU
+44	Cambia el dispositivo de salida del audio del juego (no del chat de voz).
+45	Elige otro fondo o bandas para los subtítulos.
+46	Elige entre distintos preajustes de calidad para equilibrar calidad y velocidad.
+47	Elige distintos bordes para el texto.
+48	Elige distintos colores para el texto de los subtítulos.
+49	Elige distintos tamaños para el texto de los subtítulos.
+50	Borrar
+51	FPS del cliente
+52	Tasa de fotogramas del cliente (más es mejor)
+53	Modo daltónico
+54	Intensidad del modo daltónico
+55	Configura la visualización de las estadísticas de rendimiento.
+56	Configura el aspecto visual de los subtítulos.
+57	Zona muerta del mando
+58	Hardware del mando
+59	Controles
+62	Deuteranopia
+63	Diálogo
+64	Pantalla
+65	La resolución de pantalla determina el tamaño de la ventana en modo ventana. En pantalla completa, determina la resolución de salida de la tarjeta gráfica, lo que puede producir bandas negras según el monitor y la tarjeta. La resolución de pantalla no está activa en el modo ventana sin bordes.
+66	Muestra las cargas asíncronas iniciadas desde script, con el tiempo transcurrido y la duración.
+67	Muestra las cargas síncronas de paquetes más problemáticas durante la partida.
+68	Sombra paralela
+69	Editar
+70	Efectos
+71	Efectos determina la calidad de los efectos visuales y la iluminación del juego. Aumentar este ajuste mejora la calidad de los efectos visuales, pero puede reducir el rendimiento.
+72	Activa el audio binaural. Proporciona espacialización 3D del audio, para que oigas con más precisión de dónde vienen los sonidos, incluso por encima, por debajo y por detrás de ti. Recomendado solo con auriculares estéreo.
+73	Activa el audio de alto rango dinámico. Cambia la cadena de procesamiento para aumentar el rango dinámico de la mezcla de audio, adecuado para cine en casa o experiencias más cinematográficas.
+74	Invierte el eje horizontal de la cámara.
+75	Invierte el eje vertical de la cámara.
+76	La sincronización vertical elimina el desgarro de imagen al renderizar y mostrar siempre un fotograma completo. Desactivarla puede dar más fotogramas y mejor respuesta, pero puede provocar desgarro horizontal de la imagen.
+77	Épico
+78	Muy grande
+79	Muy pequeño
+80	Nitidez de FSR
+81	Lejos
+82	Generación de fotogramas
+83	Límite de fotogramas
+84	Límite de fotogramas (segundo plano)
+85	Límite de fotogramas (menú)
+86	Límite de fotogramas (con batería)
+87	Tiempo de fotograma
+88	El límite de fotogramas fija la tasa máxima permitida. Bájalo para una tasa más estable o súbelo para la mejor experiencia en equipos potentes. Puede que tengas que desactivar la sincronización vertical para alcanzar tasas altas.
+89	Límite de fotogramas en segundo plano. Bájalo para una tasa más estable o súbelo para la mejor experiencia en equipos potentes. Puede que tengas que desactivar la sincronización vertical para alcanzar tasas altas.
+90	Límite de fotogramas en el menú. Bájalo para una tasa más estable o súbelo para la mejor experiencia en equipos potentes. Puede que tengas que desactivar la sincronización vertical para alcanzar tasas altas.
+91	Límite de fotogramas con batería. Bájalo para una tasa más estable o súbelo para la mejor experiencia en equipos potentes. Puede que tengas que desactivar la sincronización vertical para alcanzar tasas altas.
+92	Pantalla completa
+93	Tiempo de renderizado de GPU
+94	Mando
+95	Jugabilidad
+96	Iluminación global
+97	La iluminación global controla la calidad de los rebotes de luz indirecta calculados dinámicamente, el sombreado del cielo y la oclusión ambiental. Los ajustes 'Alto' y superiores usan trazado de rayos más preciso, pero pueden reducir el rendimiento.
+98	Calidad gráfica
+99	Hardware
+100	Alto
+101	Audio de alto rango dinámico
+102	Los modos de más calidad renderizan cerca de la resolución nativa; los de rendimiento, a menor resolución para más fotogramas. Antialiasing renderiza a resolución nativa y usa XeSS solo como antialiasing. Funciona mejor en GPU Intel Arc, pero sirve en cualquier GPU moderna.
+103	Los modos de más calidad renderizan cerca de la resolución nativa; los de rendimiento, a menor resolución para más fotogramas. DLAA renderiza a resolución nativa y usa DLSS solo como antialiasing.
+104	Los modos de más calidad renderizan cerca de la resolución nativa; los de rendimiento, a menor resolución para más fotogramas. NVIDIA Image Scaling usa escalado espacial y enfoque, y funciona en cualquier GPU.
+105	Los modos de más calidad renderizan cerca de la resolución nativa; los de rendimiento, a menor resolución para más fotogramas. AA nativo renderiza a resolución completa y usa FSR solo como antialiasing. FSR usa aprendizaje automático en GPU AMD Radeon compatibles y funciona en cualquier otra GPU.
+106	Velocidad de giro de la cámara al apuntar (ADS).
+107	Velocidad de giro de la cámara.
+108	Tiempo inactivo
+109	Imagen y accesibilidad
+110	En modo ventana puedes interactuar más fácilmente con otras ventanas y arrastrar sus bordes para cambiar el tamaño. En ventana sin bordes puedes cambiar fácilmente de aplicación. En pantalla completa no puedes interactuar tan fácilmente con otras ventanas, pero el juego irá algo más rápido.
+111	Pérdida de paquetes entrantes
+112	Tasa de paquetes entrantes
+113	Tamaño de paquetes entrantes
+114	Aumenta o reduce la zona alrededor del stick cuya entrada se ignora. Un valor demasiado bajo puede hacer que la cámara siga moviéndose después de soltar el stick.
+115	Aumenta o reduce la zona alrededor del stick cuya entrada se ignora. Un valor demasiado bajo puede hacer que el personaje siga moviéndose después de soltar el stick.
+117	La generación de fotogramas de Intel XeSS crea fotogramas adicionales, aumentando mucho la tasa de fotogramas. Requiere tener activada la baja latencia; puede ser necesario reiniciar el juego para que surta efecto.
+118	Invertir eje horizontal
+119	Invertir eje vertical
+120	Teclado y ratón
+121	Idioma
+122	Idioma cambiado
+123	Grande
+124	Stick izquierdo
+125	Zona muerta del stick izquierdo
+126	Sensibilidad de la cámara
+127	Bajo
+128	Modo de baja latencia
+129	Medio
+130	Ratón y teclado
+131	Rueda del ratón
+132	Música
+134	La generación de fotogramas de NVIDIA DLSS usa IA para generar fotogramas adicionales, aumentando mucho la tasa de fotogramas. Requiere una GPU NVIDIA RTX serie 40 o posterior. Activa automáticamente NVIDIA Reflex para mantener baja la latencia de entrada.
+136	AA nativo
+137	Cerca
+138	Red
+139	Ninguno
+140	Desactivado
+141	Activado
+142	Activado + Boost
+143	Opciones
+144	Pérdida de paquetes salientes
+145	Tasa de paquetes salientes
+146	Tamaño de paquetes salientes
+147	Contorno
+148	General
+149	Rendimiento
+150	Estadísticas de rendimiento
+151	Ping
+152	Posprocesado
+153	Los efectos de posprocesado incluyen desenfoque de movimiento, profundidad de campo y resplandor. Aumentar este ajuste mejora su calidad, pero puede reducir el rendimiento.
+154	Protanopia
+155	Calidad
+156	Los preajustes de calidad permiten ajustar varias opciones de vídeo a la vez. Prueba algunos para ver cuál se adapta a tus preferencias y al rendimiento de tu equipo.
+157	Preajustes de calidad
+158	Tasa de paquetes entrantes (por segundo)
+159	Tasa de paquetes salientes (por segundo)
+160	Reduce la latencia del sistema para que el juego responda mejor. Usa NVIDIA Reflex, AMD Radeon Anti-Lag 2 o Intel Xe Low Latency según tu GPU. Boost reduce aún más la latencia subiendo la frecuencia de la GPU cuando la CPU es el cuello de botella (solo NVIDIA). Se recomienda dejarlo activado; es obligatorio con la generación de fotogramas.
+161	La calidad de los reflejos determina su resolución y precisión. Los ajustes 'Alto' y superiores usan trazado de rayos más preciso, pero pueden reducir el rendimiento.
+162	Reflejos
+163	Renderiza a menor resolución y escala la imagen, mejorando mucho la tasa de fotogramas con un impacto mínimo en la calidad. Solo se muestran los métodos compatibles con este PC; el mejor para tu GPU se elige automáticamente la primera vez que se ejecuta el juego.
+164	Sustituye el eliminador de ruido integrado por un modelo de IA de NVIDIA, produciendo reflejos, sombras e iluminación global con trazado de rayos de mayor calidad.
+165	Resolución
+166	Zona muerta del stick derecho
+167	Zona segura
+168	Elige la tasa de fotogramas deseada. Úsalo para afinar el rendimiento en tu equipo.
+169	Sensibilidad
+170	FPS del servidor
+171	Tasa de fotogramas del servidor
+172	Ajustar zona segura
+173	Ajusta la zona segura de la interfaz para la plataforma.
+174	Ajusta el modificador que reduce la sensibilidad del ratón al apuntar. Con 100% no hay reducción al apuntar. Valores más bajos reducen más la velocidad al apuntar.
+175	Ajusta la sensibilidad del eje horizontal (x) del ratón. Con valores más altos la cámara se moverá más rápido al mirar a izquierda y derecha.
+176	Ajusta la sensibilidad del eje vertical (y) del ratón. Con valores más altos la cámara se moverá más rápido al mirar arriba y abajo.
+177	La calidad de las sombras determina la resolución y la distancia de visión de las sombras dinámicas. Las sombras mejoran la calidad visual y la percepción de profundidad, pero pueden reducir el rendimiento.
+178	Sombras
+179	Aumenta la nitidez de la imagen de FSR con Robust Contrast Adaptive Sharpening. 0% desactiva el enfoque.
+180	Pequeño
+181	Sólido
+182	Sonido
+183	Efectos de sonido
+184	Subtítulos
+185	Predeterminado del sistema ({0})
+186	Sensibilidad al apuntar
+187	Borde del texto
+188	Color del texto
+189	Tamaño del texto
+190	La calidad de las texturas determina su resolución en el juego. Aumentar este ajuste hará los objetos más detallados, pero puede reducir el rendimiento.
+191	Texturas
+192	Tiempo empleado en la GPU.
+193	Tiempo empleado en el hilo de la interfaz de hardware de renderizado (RHI).
+194	Tiempo empleado en el hilo principal del juego.
+195	Tiempo empleado en el hilo de renderizado.
+196	Tiempo de espera inactivo para la cadencia de fotogramas.
+197	Tamaño medio (en bytes) de los paquetes recibidos en el último segundo.
+198	Tamaño medio (en bytes) de los paquetes enviados en el último segundo.
+199	El idioma del juego.
+200	Porcentaje de paquetes entrantes perdidos.
+201	Porcentaje de paquetes salientes perdidos.
+202	Latencia de ida y vuelta de tu conexión con el servidor.
+203	Tiempo total de fotograma.
+204	El tipo de mando que usas.
+205	El método de escalado controla la resolución 3D mientras está activo. El valor mostrado aquí es tu propio ajuste, que se vuelve a aplicar cuando el escalado está desactivado.
+206	Esta función solo funciona si 'Modo de ventana' está en 'Pantalla completa'.
+207	Tritanopia
+208	Activa/desactiva la vibración del mando.
+209	Activa/desactiva el audio del juego cuando está en segundo plano. Si está activado, el audio seguirá sonando con el juego minimizado o con otra ventana en primer plano.
+210	Activa/desactiva los subtítulos.
+211	Ultra rendimiento
+212	Ultra calidad
+213	Ultra calidad plus
+214	Ilimitado
+215	Escalado y latencia
+216	Método de escalado
+217	Calidad de escalado
+218	Usa <text color="FFFFFFFF" fontface="black">{0}</> para ajustar el brillo
+219	Usa <text color="FFFFFFFF" fontface="black">{0}</> para ajustar las esquinas de modo que coincidan con los bordes de tu pantalla.
+220	Usando las imágenes, prueba los distintos modos daltónicos para encontrar la corrección de color que mejor te funcione.
+221	Usando las imágenes, prueba las distintas intensidades para encontrar la corrección de color que mejor te funcione.
+222	Sincronización vertical
+223	Vibración
+224	Vídeo
+225	Distancia de visión
+226	La distancia de visión determina a qué distancia se dejan de dibujar los objetos para mejorar el rendimiento.
+227	Chat de voz
+228	Volumen
+229	Si el modo de ventana es <strong>Ventana sin bordes</>, la resolución debe coincidir con la resolución nativa del escritorio.
+230	Blanco
+231	Modo de ventana
+232	Ventana
+233	Ventana sin bordes
+234	Sensibilidad del eje X
+235	Sensibilidad del eje Y
+236	Amarillo
+237	Tendrás que reiniciar el juego por completo para que se apliquen todos los cambios de idioma.
+240	Experiencias predeterminadas
+247	<strong>Nota: poner la calidad en {0} o superior podría limitar tu tasa de fotogramas.</>
+248	<strong>Nota: poner la tasa de fotogramas en {0} o superior podría bajar tus preajustes de calidad.</>
+249	Asignaciones de {0}
+250	Personalizado
+251	Salida predeterminada - {0}
+252	Solo gráfico
+253	¿Conservar ajustes de pantalla?
+254	Pulsa Escape para cancelar, o pulsa {InKey} otra vez para confirmar la asignación.
+255	Valor de zona segura
+256	Solo texto
+257	Texto y gráfico
+258	Porcentaje del área de zona segura.
+259	Asignación desconocida
+260	Cambios sin guardar
+261	Tus cambios no se han aplicado.
+262	{InKey} ya está asignada a {ActionNames}. ¿Seguro que quieres reasignarla?
+263	{Method} está renderizando al {Percent}% ({OutputX}x{OutputY} a {RenderX}x{RenderY}). Tu ajuste se aplica cuando el escalado está desactivado.

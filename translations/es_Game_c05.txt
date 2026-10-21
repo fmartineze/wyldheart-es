@@ -1,0 +1,309 @@
+1032	Huesos densos, que tardan en descomponerse.
+1033	Lo bastante denso como para contar como comida.
+1034	Carne fúngica densa con olor terroso.
+1035	Madera densa cortada de un ent caído.
+1036	Madera densa extraída de lo más profundo de un ent.
+1037	Denso, pesado y duradero.
+1038	Denso, pegajoso y difícil de dejar de comer.
+1039	Trastornado
+1040	Terreno desolado con posibles riquezas bajo tierra.
+1041	Detalles
+1042	Polvo de diamante
+1043	¿Sabías que...?
+1045	Eneldo
+1046	Montículo de tierra
+1047	Descubierto
+1048	Desmontar
+1049	Helecho removido
+1050	¿Saben lo que se avecina?
+1051	Esquivar
+1052	¿Importa?
+1053	No importa lo que yo piense. La hondonada decide.
+1054	No pierdas la esperanza, querido ...
+1055	No cojas nada con el tallo blanco. Me da igual el hambre que tengas.
+1056	No viajes después del anochecer.
+1057	No te escondas… el barro lo sabe…
+1058	No lo malgastes volviendo.
+1059	Guía Condenado
+1060	La puerta está cerrada con llave
+1061	Tesoro del dragón
+1062	Trago de ashbind
+1063	Trago de hoja de cuervo
+1064	Trago de hexcap
+1065	Velocidad de tensado
+1066	Alternar desenvainar arma
+1067	Velocidad de tensado con arcos aumentada un {Value}%
+1068	Rodajas de manzana seca
+1069	Pescado seco
+1070	Tiras de rata seca
+1071	Limo seco.
+1072	Driftmorel
+1073	El driftmorel restaura la fuerza si se prepara con cuidado. Crudo, pone el estómago en tu contra.
+1074	Madera de deriva
+1075	Bebe agua, mantente hidratado y nutre tu cuerpo.
+1076	Gota a gota… solo el goteo…
+1077	El goteo… termina…
+1078	Clava tu lanza en un enemigo. Puede causar SANGRADO a los enemigos RALENTIZADOS.
+1079	Estocada penetrante
+1080	Boyero
+1081	Botas de boyero
+1082	Atuendo de boyero
+1083	Guantes de boyero
+1084	Pantalones de boyero
+1085	Borracho
+1086	Tronco seco
+1087	Lo bastante seco para durar para siempre.
+1088	Corteza de dríade
+1089	Carne de dríade
+1090	Corazón de dríade
+1091	Savia de dríade
+1092	Hoja de trasgo desafilada
+1093	Exploración de mazmorras
+1094	Durabilidad
+1095	Piel resistente para fabricar.
+1096	Anochecer
+1097	Fortaleza Duskwood
+1098	Muriendo (mortal)
+1099	Sopa de olla de barro
+1100	Sacudetierras
+1101	Comida terrosa para días con los pies en el suelo.
+1102	Terroso, amargo y reconfortante.
+1103	Terroso, húmedo y normalmente seguro. Normalmente.
+1104	Terroso, saciante y común.
+1105	Eastmarch
+1106	Fácil
+1107	Comer
+1108	Comer. Comer. Comer.
+1109	Comer como si mañana pudiera ser peor.
+1110	Eco del guardián
+1112	Prueba comestible de que el bosque aún da algo a cambio.
+1113	Efigie
+1114	Huevo
+1115	¿Eh? ¿Qué ha sido eso?
+1116	Túnica de anciano
+1119	Templo de Elderlight
+1120	¿Elderlight? Allí es adonde voy. En cuanto me haya metido algo caliente en el cuerpo.
+1121	{0} de saúco
+1122	Elementalismo
+1123	Hoja de elfo
+1124	Piel de alce
+1125	Carne de alce
+1126	Estofado de alce con hierbas
+1127	Duela de arco de olmo
+1128	{0} de olmo
+1130	Gesto
+1131	Menú de gestos
+1132	Anillo real de la emperatriz Talanna
+1133	Botella vacía
+1134	Te envuelve en hielo, impidiéndote moverte pero protegiéndote de todo daño.
+1135	Agua salada interminable que se extiende más allá del horizonte.
+1136	Los enemigos te están observando
+1137	Los enemigos a tu alrededor sufren un 50% de MIEDO y -15% de protección mientras dure.
+1138	Enormes trollcaps asfixian la caverna; su resplandor enfermizo revela caídas traicioneras, setas venenosas y rastros relucientes que desaparecen en la oscuridad.
+1139	Enormes trollcaps han invadido la vieja cueva. Brillan al anochecer, y algo con un caparazón tan grande como una casa se mueve entre ellas.
+1140	Lo suficiente para quedarse.
+1141	Basta.
+1142	Corteza de ent
+1143	Duramen de ent
+1144	Raíces de ent
+1145	Savia de ent
+1146	Madera de ent
+1147	Túnica de emisario
+1148	Épico
+1149	Equipo
+1150	Error
+1151	Hace brotar agujas de hielo a tu alrededor que CONGELAN a los enemigos cercanos. Inflige daño adicional mientras estás RALENTIZADO.
+1153	Todo lo necesario para encender un fuego. Salvo paciencia.
+1154	Examinar
+1155	Excelente para pescar tímalos grises.
+1156	Excelente para pescar percas.
+1157	Excelente para pescar salmón plateado.
+1158	Piel excepcionalmente gruesa, difícil de cortar y aún más de trabajar.
+1159	Tajo de verdugo
+1160	Noble exiliado
+1161	Puntos de experiencia
+1162	Bloqueo con hacha experto
+1163	Contraataque con hacha experto
+1164	Combate con hacha experto
+1165	Sincronización con hacha experta
+1166	Manejo del arco experto
+1167	Tiro con arco experto
+1168	Sincronización con arco experta
+1169	Destilería experta
+1170	Escalada experta
+1171	Cocina experta
+1172	Detección experta
+1173	Elementalista experto
+1174	Pesca experta
+1175	Juego de pies experto
+1176	Carga experta
+1177	Herboristería experta
+1178	Salto experto
+1179	Ganzúa experta
+1180	Bloqueo con maza experto
+1181	Contraataque con maza experto
+1182	Combate con maza experto
+1183	Sincronización con maza experta
+1184	Desuello experto
+1185	Sigilo experto
+1186	Bloqueo con lanza experto
+1187	Contraataque con lanza experto
+1188	Combate con lanza experto
+1189	Sincronización con lanza experta
+1190	Bloqueo con espada experto
+1191	Contraataque con espada experto
+1192	Combate con espada experto
+1193	Sincronización con espada experta
+1194	Portador de antorcha experto
+1195	Trampería experta
+1196	Explora la cueva
+1197	Explora la fortaleza
+1198	Explora la tumba
+1199	{0} exquisito
+1200	Daño adicional
+1201	Parche en el ojo
+1202	Cejas
+1203	Color de ojos
+1204	Ojo de la tormenta
+1205	Delineador
+1206	Ojos
+1207	¡ALIMENTO!
+1208	Cara
+1209	Arte facial
+1210	Marcas faciales
+1212	Faelan suelta un hondo suspiro.\r\n\r\n"Los sorbedores salieron en tropel de esas ruinas antes de que me diera cuenta de lo que pasaba. A duras penas logré quitármelos de encima."\r\n\r\nEcha un vistazo hacia las ruinas.\r\n\r\n"No sé qué los habrá alborotado, pero nunca había visto tantos."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nSu mirada cae sobre las hierbas esparcidas a su alrededor.\r\n\r\n"Vine aquí buscando Retoños Rojos. Me estoy quedando sin existencias desde que esa maldita podredumbre llegó a Elderfields. Solo espero a que se sequen un poco antes de recoger y volver a casa."
+1213	Choza de la colina de Faelan
+1214	Fuegos menguantes
+1215	Justo
+1216	Bracamarte
+1217	Falso… otra vez…
+1218	Comida conocida en lugares desconocidos.
+1219	Familiares y dónde encontrarlos
+1220	Colmillo
+1221	Mucho más fino que quien lo empuñe.
+1222	Botas de jornalero
+1223	Atuendo de jornalero
+1224	Guantes de jornalero
+1225	Pantalones de jornalero
+1226	Rápido, sencillo y se acaba demasiado pronto.
+1227	La grasa chisporrotea, el aceite corre, el hambre se desvanece.
+1228	Pluma
+1229	Sombrero con pluma
+1230	Plumoso, fragante y mejor fresco.
+1231	¡Alimentad las raíces!
+1232	¡Alimentad la tierra!
+1233	Pies
+1234	Forro de fieltro
+1235	Panel de fieltro
+1236	Restos de fieltro
+1237	Brotes de helecho
+1238	Campo
+1239	Peón
+1240	Potaje de campo
+1241	Encuentra una salida
+1242	Hilo fino
+1243	Finos grabados de formas serpentinas se entrelazan sobre este pesado collar, engastado con piedras multicolores.
+1244	Esporas finas recogidas con cuidado del cuerpo.
+1245	Hilo fino para fabricar armaduras.
+1246	{0} fino
+1247	Flechas de fuego
+1248	Resistencia al fuego
+1249	Dispara una flecha que RALENTIZA al objetivo.
+1250	Bola de fuego
+1251	Colgante de piedra de fuego
+1252	Aguardiente
+1253	Firme, terroso y mejor no pensar en ello.
+1254	Pescado
+1255	Caldo de espinas de pescado
+1256	Espinas de pescado
+1257	Aceite de pescado
+1258	Pastel de pescado
+1259	Sopa de pescado
+1260	Estofado de pescado con hierbas
+1261	Cena de pescado
+1262	Pescado suficiente para llenar las mesas.
+1263	Pescador
+1264	Pesca
+1265	Caña de pescar
+1266	Botas ajustadas
+1267	Calzas ajustadas
+1268	Cota de malla ajustada
+1269	Manoplas ajustadas
+1270	Torrente de llamas
+1271	Muro de llamas
+1272	Lino
+1273	¡Carne!
+1274	Carne… no… festín…
+1275	Sacar músculo
+1276	Pedernal y yesca
+1277	Puñalada voladora
+1278	Concentra tus ataques, aumentando el daño con espada y la RESISTENCIA AL ATURDIMIENTO.
+1279	Judías de niebla
+1280	Gente
+1281	Seguido
+1282	Comida que sabe a tener un techo sobre la cabeza.
+1283	Pasos…
+1284	Para escalar, arrastrar, atar y tener ideas lamentables.
+1285	Para desenterrar lo que otros enterraron.
+1286	Por ahora.
+1287	Para abrir cerraduras sin molestarse con la llave.
+1288	Para piedra, mineral y cualquier cosa enterrada entre medias.
+1289	Mientras dure, ganas +20 de protección y +50% de eficacia de bloqueo, pero tu velocidad de movimiento se reduce un 50%.
+1290	Túnica de forrajero
+1291	Pantalones de forrajero
+1292	Vendajes de forrajero
+1293	Forzar acción
+1294	Forzar votación actual
+1295	Vado
+1296	Sartén de frutos del bosque
+1297	Lago del bosque
+1298	Seta del bosque
+1299	Relleno del bosque envuelto en seguridad.
+1300	Sobras del bosque convertidas en algo digno de comerse.
+1301	Martillo de forja
+1302	Tumba olvidada
+1303	Fuerte Blackmoor
+1304	Fortificado
+1305	Rompefortalezas
+1306	Adelante
+1307	¡Te encontré!
+1308	¡Te encontré, rata sigilosa!
+1309	Te… encontré…
+1310	Ave
+1311	Dedalera
+1312	Frágil, saciante y mejor cocinado que cargado.
+1313	Frágil, salado y útil.
+1314	Hojas fragantes recogidas para cocinar, preparar infusiones y remedios.
+1315	Flores moradas fragantes que conservan su aroma mucho después de cortarlas.
+1316	Probabilidad de congelación
+1317	Resistencia a la congelación
+1318	Hierbas frescas
+1319	Carne fresca de jabalí.
+1320	Carne fresca de pollo.
+1321	Cuajada fresca prensada para durar.
+1322	Pescado fresco cocinado antes de que pueda escapar.
+1323	Carne fresca de liebre.
+1324	Sangre humana fresca, recogida con fines poco corrientes.
+1325	¡Carne fresca!
+1326	Carne fresca de faisán.
+1327	Carne fresca de cerdo.
+1328	Carne fresca de conejo.
+1329	Huellas frescas y llamadas lejanas sugieren que hay bestias cerca.
+1330	Fresco, saciante y nunca dura así mucho tiempo.
+1331	Vino de flor de saúco de Freya de Mistveil
+1332	Fraile
+1333	Huevos de babosa fritos
+1334	Filete frito
+1335	Frito, horneado o ahogado en grasa.
+1336	Zona de escarcha
+1337	Resistencia a la escarcha
+1338	Rayo de escarcha
+1339	Congelado
+1340	Fruta
+1341	Hongos
+1342	Panel de pelaje
+1343	Tira de pelaje
+1344	Mechones de pelaje
+1345	Furia del cénit
+1346	¡GARGHH FUEGO, MÍO!
+1348	Gael traza medio círculo en el aire.\r\n\r\n"Al sureste de aquí. La reconocerás por las setas trollcap. Cosas apestosas que brillan por debajo cuando se pone el sol."\r\n\r\nSe rasca una vieja cicatriz del brazo.\r\n\r\n"La última vez que me acerqué, oí cuernos bajo tierra. Luego salió arrastrándose algo con un caparazón del tamaño de un carro."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nGael se inclina hacia ti y baja la voz.\r\n\r\n"Cuidado con el Susurrador del Bosque. ¿Todas esas redes de setas bajo tus pies? Están conectadas. Pisa la zona equivocada y algo a media legua podría notarlo."

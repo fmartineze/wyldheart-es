@@ -1,0 +1,274 @@
+2233	Cataplasma de tallo de sebo
+2234	Cataplasma de encaje de viuda
+2235	Cristales de diamante en polvo, de brillo frío y dureza imposible. Se mezclan en aceites y pastas para pulir y dar un acabado de espejo al acero; esenciales para el afilado de nivel avanzado, muy apreciados por herreros y alquimistas.
+2236	Carne de depredador cocinada hasta que olvida su orgullo.
+2237	Carne de depredador que te recuerda quién estuvo a punto de ganar.
+2238	Carne de depredador, inquietante pero comestible.
+2239	Preparando sombreadores
+2240	Conservado en grasa y paciencia.
+2241	Pulsa cualquier tecla
+2242	Pulsa cualquier tecla para asignarla a la acción elegida
+2243	Hogaza de queso prensado
+2244	El sacerdote… mintió…
+2245	Seguramente nada.
+2246	Profesión
+2247	El progreso hecho con el guardado desactivado se perderá al salir.
+2248	Prueba de que el año no pudo contigo.
+2249	Buena carne seca para días largos.
+2250	Proporciona resistencia al fuego.
+2251	Proporciona resistencia a la escarcha.
+2252	Proporciona resistencia al dolor.
+2253	Proporciona resistencia al veneno.
+2254	Proporciona resistencia a las descargas.
+2255	Proporciona resistencia al aturdimiento.
+2256	Resistencia psiónica
+2257	Calabaza
+2258	Penetrante y lleno de sabor.
+2259	Tinte morado
+2260	Tinte morado obtenido de moras hervidas. Se puede usar para fabricar armaduras.
+2261	Pon todo tu peso en tus ataques, aumentando el daño con maza y la PROBABILIDAD DE CRÍTICO.
+2262	Grimorio de la pira
+2263	Misión completada
+2264	Caldo de huesos rápido
+2265	Guardia rápida
+2266	Ranura rápida 1
+2267	Ranura rápida 2
+2268	Ranura rápida 3
+2269	Ranura rápida 4
+2270	Ranura rápida 5
+2271	Desembarrado rápido
+2272	Cocinado deprisa antes de que se seque.
+2273	Otra vez en silencio…
+2274	Salir al escritorio
+2275	D.E.P.
+2276	Raaaaghhh...
+2277	Conejo
+2278	Estofado de conejo y raíces
+2279	Piel de conejo
+2280	Carne de conejo
+2281	Misericordia radiante
+2282	Furia
+2283	Botas de saqueador
+2284	Coraza de saqueador
+2285	Guantes de saqueador
+2286	Pantalones de saqueador
+2287	Guardia de reagrupación
+2288	Ralph.
+2289	Botas de montaraz
+2290	Calzones de montaraz
+2291	Calzas de montaraz
+2292	Guantes de montaraz
+2293	Cota de malla de montaraz
+2294	Jubón de montaraz
+2295	Manoplas de montaraz
+2296	Túnica de montaraz
+2298	Raro
+2299	Carne poco común convertida en motivo para presumir.
+2300	Cazarratas
+2301	Carne de rata
+2302	Estofado de supervivencia de rata
+2303	Jubón de piel de rata
+2304	Prefiero no morir junto a un desconocido.
+2305	Raciones
+2306	Cota de malla de cadenas sonoras
+2307	Brigantina de placas sonoras
+2308	Ravenwood
+2309	Acondicionamiento novato
+2310	Resistencia novata
+2311	Concentración novata
+2312	Grasa cruda para fabricar.
+2313	Leer placa
+2314	Listo
+2315	¿Seguro que quieres salir?
+2316	Roce del segador
+2317	Manzana roja
+2318	Tinte rojo
+2319	Retoño Rojo
+2320	Vino tinto
+2321	Tinte rojo obtenido de remolacha hervida. Se puede usar para fabricar armaduras.
+2322	Atuendo de alguacil
+2323	Región
+2324	Panel de cuero reforzado
+2325	Tira de cuero reforzado
+2326	Relacionado
+2327	Restante:
+2328	Resistencia a desgarro
+2329	Disparo desgarrador
+2330	Alquilar una habitación (10 cobres)
+2331	Resina
+2332	Restringido en la DEMO
+2333	Resucita tus invocaciones
+2334	Revitaliza tu espíritu con este vino ligero y refrescante, impregnado del fresco aroma floral de la flor de saúco y bendecido por las sacerdotisas lunares de Mistveil.
+2335	Revivir cadáver
+2336	Un intenso tinte marrón obtenido de bellotas machacadas. Se puede usar para fabricar armaduras.
+2337	Lo bastante sabroso para olvidar los huesos.
+2338	Cerdo jugoso ahogado en raíces y hierbas.
+2339	Sabroso, grasiento y sorprendentemente bueno.
+2340	Nido de Ridgecrown
+2341	Grimorio de la escarcha
+2342	¡Desgarra! ¡Rasga! ¡Traga!
+2343	Contraataque
+2344	Daño de contraataque
+2345	Los contraataques con hacha infligen un {Value}% más de daño
+2346	Los contraataques con maza infligen un {Value}% más de daño
+2347	Los contraataques con lanza infligen un {Value}% más de daño
+2348	Los contraataques con espada infligen un {Value}% más de daño
+2349	Festín de río
+2350	Trucha de río
+2352	En Rivermere una cama es cara, pero he pagado más por paredes peores.
+2353	Santuario del camino
+2354	Botas de guardacaminos
+2355	Brigantina de guardacaminos
+2356	Guantes de guardacaminos
+2357	Polainas de guardacaminos
+2358	Ciervo asado
+2359	Plato de ave asada
+2360	Cortes de rebaño asados
+2361	Cordero asado
+2362	Asado lo suficiente para sentirte seguro al comerlo.
+2363	Rodillo
+2364	Raíz
+2365	Puré de raíces
+2366	Pastel de raíces
+2367	Túnica de guardarraíces
+2368	Túnica corta de guardarraíces
+2369	Raíces y grasa cocinadas hasta que vuelven los pensamientos cálidos.
+2370	Brotan raíces del suelo en línea, inmovilizando a los enemigos durante 5 s e infligiendo daño de veneno con el tiempo.
+2371	Cuerda
+2372	Rosas
+2373	Estallido de podredumbre
+2374	Matarratas
+2375	¡Púdrete y vuelve!
+2376	Rotmere
+2377	Tronco podrido
+2378	Tumba Podrida
+2379	Carne podrida cortada de un cadáver andante.
+2380	Tela basta
+2381	Cuerno en bruto para fabricar.
+2382	Basto, saciante y fiable.
+2383	Gorro redondo
+2384	Sombrero redondo
+2385	Escudo redondo
+2386	{0} de serbal
+2387	Gomoso hasta que deja de serlo.
+2388	Rufián
+2389	Castillo en ruinas que se desmorona por orgullo.
+2390	Puesto avanzado en ruinas engullido por la ciénaga.
+2391	Embiste hacia delante hasta 8 m, infligiendo el doble de daño y +100% de probabilidad de derribo a todos los enemigos alcanzados.
+2392	Cota de malla rústica
+2393	Cota de malla de eslabones oxidados
+2394	Espada oxidada
+2395	Colinabo
+2396	Centeno
+2397	Gachas de centeno
+2398	Papilla de centeno
+2399	Resistencia sagrada
+2400	Salvia
+2401	Túnica de sabio
+2402	San Elric
+2403	Túmulo de Salbin
+2404	Cuajada de queso salada
+2405	Igual que el pelo
+2406	Arena
+2407	Colgante de zafiro
+2408	Bandeja de salchichas
+2409	Guardado activado
+2410	Anoche vi luces entre los árboles. No me paré a ver quién las llevaba.
+2411	Amuleto escamado
+2412	Campo del Espantapájaros
+2413	Polvo de Velo Negro
+2414	Polvo de menta de ciénaga
+2415	Polvo de junco hueco
+2416	Polvo de matalobos
+2417	Esparcir para infligir daño de fuego con el tiempo.
+2418	Esparcir para infligir daño de escarcha con el tiempo.
+2419	Esparcir para causar intoxicación con el tiempo
+2420	Esparcir para infligir daño de veneno con el tiempo.
+2421	Tallos dispersos se alzan sobre un terreno abierto y herboso.
+2422	Peto de carroñero
+2423	Brigantina de carroñero
+2424	Guanteletes de carroñero
+2425	Grebas de carroñero
+2426	Escarpes de carroñero
+2427	Túnica de erudito
+2428	Chamuscar
+2429	Conejo chamuscado
+2430	Cavernas abrasadas donde la piedra ennegrecida, la ceniza y el fuego antiguo marcan las profundidades.
+2431	Botas de explorador
+2432	Coraza de explorador
+2433	Guantes de explorador
+2434	Pantalones de explorador
+2435	Almófar de chatarra
+2436	Cota de malla de chatarra
+2437	{0} de chatarra
+2438	Cota de cadenas de chatarra
+2439	Jubón de retales
+2440	Túnica de escriba
+2441	Pinche
+2442	Armeria marítima
+2443	Comida sellada en la que puedes confiar.
+2444	Buscando
+2445	Pescado sellado
+2446	Cerdo sellado
+2447	Limo sellado
+2448	Babosa sellada
+2449	Lobo sellado
+2450	Acondicionamiento veterano
+2451	Resistencia veterana
+2452	Concentración veterana
+2454	Botas de centinela
+2455	Calzas de centinela
+2456	Cota de malla de centinela
+2457	Manoplas de centinela
+2458	Botas de sargento
+2459	Calzas de sargento
+2460	Cota de malla de sargento
+2461	Manoplas de sargento
+2462	Se sirve caliente, se come rápido.
+2463	Engastado con gemas azul pálido, este ornamentado anillo de plata esconde marcas olcananas crípticas en su cara interior.
+2464	Siete setas forman un anillo perfecto alrededor de una piedra lisa.
+2465	Aguas poco profundas llenas de juncos.
+2466	Forjado en oro y plata, la piedra azul pálido de este amuleto brilla como fuego atrapado en hielo.
+2467	Pan compartido que nunca dura mucho.
+2468	Hoja de trasgo afilada
+2469	Lo bastante afilado para exigir respeto.
+2470	Picante en la lengua, cálido en el estómago.
+2471	Raíces picantes suavizadas por el calor.
+2472	Ácido, agrio y comido sobre todo para demostrar que encontraste algo.
+2473	Ácido, agrio y comido sobre todo para demostrar que encontraste algo.
+2474	Picante, dulce al cocinarlo.
+2475	Aparta unas migas de la mesa, con la boca tensa.\r\n\r\n"Si te soy sincera, nos falta de casi todo. Cada viaje a ese bosque nos cuesta algo. Habla con Halvar. Él lleva la cuenta de lo que queda."
+2476	Señala vagamente más allá del muro.\r\n\r\n"Supongo que vas a Elderlight. El pueblo está a unos días al oeste de aquí."\r\n\r\nSe saca un poco de tierra de debajo de las uñas.\r\n\r\n"Mira, normalmente cobro por lo que sé, pero viendo la pinta que tienes, no sería muy justo."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Hay lugares en Whisperwood que deberías evitar como la peste. La Cueva Trollcap, la Tumba Podrida y la Fortaleza Marchita, para empezar."
+2477	Se guarda el cobre rápidamente y las monedas desaparecen bajo su delantal.\r\n\r\n"Hay sopa cociéndose en la olla", dice, señalando el hogar con la cabeza. "Sírvete tú mismo."
+2478	Arquea una ceja.\r\n\r\n"Vaya, qué pena. De verdad esperaba que fuera tuya. Me pregunto quién la habrá dejado aquí. Pobrecita, tan sola."\r\n\r\nLa poni se acerca un poco más. Faelan se aparta instintivamente.\r\n\r\n"Por favor, llévatela contigo. Parece bastante amistosa, pero..."\r\n\r\nMira a la poni con recelo.\r\n\r\n"...prefiero no ser yo quien lo compruebe."
+2479	Te estudia, sin hostilidad, solo calculando.\r\n\r\n"Me llamo Gael. Rastreadora de oficio, si hay dinero de por medio. El bosque me conoce, y yo a él."
+2480	Se limpia las manos en el delantal y echa un vistazo a las ventanas cerradas.\r\n\r\n"No te salgas de los caminos, y no sigas voces cuando no puedas ver quién llama. Si quieres saber qué se mueve ahí fuera, habla con Gael. Ella está atenta a esas cosas."
+2481	Asta mudada para fabricar.
+2482	Piel de oveja
+2483	Carne de oveja
+2484	Yelmo de caparazón
+2485	Botas de pastor
+2486	Hondonada del Pastor
+2487	Túnica larga de pastor
+2488	Santuario del Pastor
+2489	Pantalones de pastor
+2490	Túnica de pastor
+2491	Mayús
+2492	Escudo
+2493	Golpe de escudo
+2494	Carga con escudo
+2495	Núcleo de escudo
+2496	Portaescudos
+2497	Probabilidad de descarga
+2498	Resistencia a las descargas
+2499	Dispara al objetivo para hacerlo VULNERABLE a más daño.
+2500	Mango corto de fresno
+2501	Mango corto de roble
+2502	Mango corto de tejo
+2503	Espada corta
+2504	Tendrías que haber visto a Pim hace cuarenta años. Medio pueblo hizo el ridículo por ella.
+2505	Gritar
+2506	Gritar para reunir al grupo
+2507	Pala
+2508	Demostrar lo fuerte que eres
+2509	Mostrar que estás enfadado

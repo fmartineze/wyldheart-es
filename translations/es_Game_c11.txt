@@ -1,0 +1,152 @@
+2798	Dulce, pegajoso y vale cada picadura.
+2799	Flores de aroma dulce armadas contra las manos descuidadas.
+2800	Raíces endulzadas horneadas hasta ablandarse.
+2801	Más dulce en invierno.
+2802	Dulzor que se conserva.
+2803	Blande tu maza con una fuerza tremenda y probabilidad de ATURDIR. Inflige un daño enorme a los enemigos DERRIBADOS.
+2804	Golpea igual de bien el hueso que la piedra.
+2805	Espada
+2806	Llévate a Binka. Te lo mereces después de lo que has pasado.
+2807	Multiplicador de daño recibido
+2808	Coger la copa y marcharse
+2809	Toma el pasadizo que hay detrás de nosotros. Entra aire por ahí.
+2810	Coger {0}
+2811	Coger {0} (lleno)
+2812	¡Acabad con ellos!
+2813	Lleva horas; alimenta el orgullo más que el hambre.
+2814	Lleva tiempo. Da fuerza.
+2815	Gestos al hablar
+2816	Altas campanas moradas, lo bastante bonitas como para invitar a malas decisiones.
+2817	Té de hoja de sebo
+2818	Tallo de sebo
+2819	El tallo de sebo rezuma una resina grasienta que retiene el calor de forma antinatural.
+2820	Tallridge
+2821	Guarida de Tallridge
+2822	Delantal de curtidor
+2823	Alquitrán
+2824	Alternar fijar objetivo
+2825	Anillo de oro deslucido
+2826	Sabe mejor de lo que suena. Por poco.
+2827	{0} andrajoso
+2828	Pastel de taberna
+2829	Copa de lágrimas
+2830	La copa de lágrimas llora un líquido claro al manipularla. Quienes la consumen despiertan con las emociones a flor de piel.
+2831	Tierno, reconfortante y nunca suficiente.
+2832	Gracias a todos nuestros mecenas de Kickstarter
+2833	Zapatos de techador
+2834	Pantalones de techador
+2835	El Santuario Ácido
+2836	El Alijo de los Bandidos
+2837	El Puesto Avanzado Sangriento
+2838	El Mercado de Huesos
+2839	El Huerto de Huesos
+2840	El Molino de Zarzas
+2841	El Túmulo del Rey Zarza
+2842	El Castro Roto
+2843	Las Lanzas Rotas
+2844	El Cáliz de San Aelwyn
+2845	El Jardín de Cadáveres
+2846	Las Ciénagas Muertas
+2847	La Fisura Profunda
+2848	La Madriguera del Estiércol
+2849	La Atalaya Caída
+2850	El Foso del Festín
+2851	El Túmulo Olvidado
+2852	La Fortaleza de los Hongos
+2853	La Torre de los Hongos
+2854	El Montículo Sangriento
+2855	El Gran Limo
+2856	La Fortaleza Verde
+2857	El Greybarrow
+2858	El Fabricante de Astas
+2859	La Abadía Encantada
+2860	El Gran Mojón
+2861	La Casa Negra
+2862	La Casa de la Memoria
+2863	El Muladar del Rey
+2864	Los Pozos Perdidos
+2865	El Rey de Muchas Coronas
+2866	El Rey de Muchas Coronas ha muerto y las esporas ya no flotan desde sus torres.
+2867	El Rey de Muchas Coronas prepara una Gran Floración en la Fortaleza Marchita. Tres agujas extienden sus raíces por las ruinas.
+2868	El Fuerte de Barro
+2869	La Cueva Estrecha
+2870	El Viejo Embarcadero
+2871	La Vieja Casa del Peaje
+2872	Las Viejas Guardas
+2873	La Torre Invadida
+2874	La Arboleda Pálida
+2875	El Descanso del Peregrino
+2876	La Gruta del Río
+2877	Las Bodegas de Raíces
+2878	La Tumba Podrida
+2879	El Monasterio Podrido
+2880	El Matalimos
+2881	El Peregrino Dormido
+2882	El Sorbedor
+2883	La Guarida del Sorbedor
+2884	El Corral de Caracoles
+2885	Los Fosos de Esporas
+2886	La copa extraña
+2887	La Cripta Hundida
+2888	Los Sarcófagos Hundidos
+2889	El Cruce del Camino de Peaje
+2890	El Torques de Garan
+2891	La Cueva Trollcap
+2892	El Paso Subterráneo
+2893	El Valle
+2894	La Fortaleza Marchita
+2895	La ceniza está fría.
+2896	¡La barriga quiere!
+2897	El puente resbala.
+2898	La piedra roja brillante de este colgante de bronce reluce con un fuego interior, como llamas atrapadas.
+2899	Los restos quemados de una granja abandonada.
+2900	¡Los muertos te han encontrado!
+2901	La puerta está cerrada desde el otro lado
+2902	La caída te ha llevado a lo más profundo de la tierra, a una hondonada húmeda donde setas enormes prosperan en la penumbra. Encuentra el camino a través de los túneles y descubre qué acecha en las profundidades.
+2903	La parte más firme, y sorprendentemente comestible, de un limo.
+2904	La primera vez que inicies el juego puede tardar unos minutos. Los siguientes inicios serán más rápidos. Espera mientras el juego se prepara.
+2905	La mercancía no cabe en ese saco tuyo
+2906	Aquí la hierba crece espesa, ideal para el ganado y los animales de pasto.
+2907	¡La tumba se lo lleva todo!
+2908	El líquido verde tiene un olor familiar, dulce, casi mantecoso.
+2909	El suelo está embarrado bajo un gran helecho.
+2910	Se están preparando las hierbas para un brebaje.
+2911	La choza se agazapa entre los árboles como algo que ha crecido más que construido.
+2912	La superficie del lago está quieta, demasiado quieta. Bajo el reflejo de las nubes, el agua oculta su profundidad como un secreto.
+2913	La gran criatura está sentada, enraizada en un trono antiguo. Con cada aliento, toda la fortaleza parece respirar con ella.
+2914	Las paredes de piedra caliza están surcadas de grueso micelio. Crecimientos pálidos reptan por los túneles y se derraman por las grietas de la piedra antigua.
+2915	¡Los vivos!
+2916	El mensaje está escrito con tinta violeta en una fina tira de corteza.\r\n\r\n"Los trasgos han tomado la cueva de las trollcap.\r\n\r\nLlevan armaduras hechas de conchas de caracol y montan bestias tan grandes como carros. Sus rastros brillan durante días."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Se llevaron nuestros faroles pero dejaron la plata.\r\n\r\nCuando huimos, soplaron sus conchas.\r\n\r\nTodo el suelo respondió."
+2917	El mensaje está escrito en el reverso de una lista de cosechas arruinadas.\r\n\r\n"Están creciendo setas en el linde del bosque, cerca de la Fortaleza Marchita.\r\n\r\nLa semana pasada no estaban. Sombreros blancos, hasta la rodilla. Cuando el viento sopla desde la fortaleza, sueltan un polvo dorado.\r\n\r\nTres ovejas atravesaron la nube.\r\n\r\nPor la mañana les crecían setas de la boca."
+2918	La nota está cubierta de huellas dactilares pálidas. Algo ha comido pequeños agujeros en el papel.\r\n\r\n"Algo camina por los muros de la fortaleza marchita.\r\n\r\nDe lejos parecen setas. Si te acercas demasiado, se levantan y te siguen.\r\n\r\nNo te acerques por allí."
+2919	La nota está húmeda y moteada de moho verde. Una esquina se ha reblandecido.\r\n\r\n"Dejad de dejar el cubo del pozo en el barro.\r\n\r\nSi se os cae, enjuagadlo antes de devolverlo. Y enrollad bien la cuerda cuando terminéis.\r\n\r\nNo pienso reponer otro porque a alguien le da pereza."\r\n\r\n- H
+2920	La nota está manchada de lluvia y cubierta de un fino polvo dorado.\r\n\r\n"Las trollcap de alrededor de la vieja cueva han vuelto a crecer.\r\n\r\nAhora son más altas que un hombre adulto y brillan bajo sus sombreros cuando cae la oscuridad."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Ayer vimos algo moviéndose entre ellas.\r\n\r\nLlevaba una casa a cuestas.\r\n\r\nMantened el ganado lejos del camino del norte."
+2921	La nota está escrita con varias letras distintas. Bajo cada nombre hay una fecha y una marca sencilla.\r\n\r\n"Fueron a la tumba podrida a pedir consejo a los muertos.\r\n\r\nEdvin buscaba el testamento de su padre. \r\n\r\nMara quería saber dónde estaba enterrado su hijo. \r\n\r\nEl hermano Kennet dijo que el abad podía preservar sus recuerdos."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Ninguno ha vuelto.\r\n\r\nAnoche, Mara oyó su propia voz hablando desde el linde del bosque."
+2922	El viejo santuario está adornado con cadáveres atados a los árboles de alrededor.
+2923	La anciana te mira con su único ojo bueno.\r\n\r\n"Por diez cobres puedes dormir arriba. Me temo que no nos sobra agua caliente."
+2924	El pergamino está rígido de cera y huele a tierra. Alguien ha raspado el sello de la orden.\r\n\r\n"El abad Mouldroot reúne las voces de la red. Cuatro raíces susurrantes lo unen a la tumba podrida."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Mientras las raíces vivan, puede dominar a los muertos y robar el conocimiento de los vivos.\r\n\r\nCórtalas antes de enfrentarte a él.\r\n\r\nNo escuches si habla con la voz de alguien a quien perdiste."
+2925	La savia roja se espesa rápidamente al contacto con el aire, sellando las heridas deprisa y dejando cicatrices oscuras.
+2926	Los restos de un barrio bajo reclamado por las profundidades, con su piedra desvaneciéndose entre barro y juncos.
+2927	Los restos de un asentamiento antaño próspero, ahora enterrado bajo ceniza y tierra abrasada.
+2928	Las raíces callan.
+2929	¡Las raíces decían la verdad!
+2930	Las raíces me llevan…
+2931	Las raíces susurran…
+2932	¡La podredumbre se lo lleva todo!
+2933	Las ruinas de un fuerte antiguo.
+2934	Los restos destrozados de un templo, invadido por la ruina, el silencio y el paso del tiempo.
+2935	Las esporas están quietas.
+2936	Las esporas tiemblan.
+2937	Las esporas tiemblan…
+2938	La punta de un asta afilada que se puede colocar en el astil de una lanza.
+2939	Los cuerpos entrelazados de guivernos envuelven este anillo de plata.
+2940	La inquietante efigie se alza ante ti como prueba de algún ritual inmundo e indescriptible.\r\n\r\nMás adelante, tres estructuras de hueso resplandecientes parecen esperar a que se les coloque algo en su interior.
+2941	Las paredes de la Tumba Podrida están resbaladizas por la humedad oscura y surcadas de hilos pálidos. Viejas raíces atraviesan la piedra y el aire está frío e inmóvil.
+2942	El agua huele fresca.
+2943	El viento trae gritos lejanos
+2944	El texto cubre ambas caras de un fino pergamino. Su autor es desconocido y varias líneas han sido reescritas con otra letra.\r\n\r\n"Ojo Brillante se prepara para la Gran Escucha.\r\n\r\nHan llevado tres conchas cantoras a la cámara de la Madre Caracol. Cuando suenen juntas en la Cueva Trollcap, él alcanzará voces de todo el bosque."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Dice que los Susurros revelarán todo lo que ha sido y todo lo que está por venir.\r\n\r\nLas últimas noches, otra voz le ha respondido desde la Tumba Podrida.\r\n\r\nOjo Brillante cree que pertenece al bosque."
+2945	Su oferta
+2946	Hay huellas en el barro.
+2947	¡Ahí estás!
+2948	¡Ahí!
+2949	Hay un puente al este de aquí que yo evitaría. Ahora vive algo debajo.

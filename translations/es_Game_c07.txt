@@ -1,0 +1,297 @@
+1559	Historia
+1560	Hmpf. Nada.
+1561	Azada
+1562	Cerdo
+1563	Estofado de cerdo y raíces
+1564	Cecina de grasa de cerdo
+1565	Mantened la línea
+1566	Junco hueco
+1567	El junco hueco amortigua el sonido de forma antinatural al machacarlo. El silencio se acumula donde yace.
+1568	Libro sagrado de las maravillas
+1569	Potaje casero
+1570	Sopa casera
+1571	Carne honrada cocinada sin complicaciones.
+1572	Miel
+1573	Puré de nueces con miel
+1574	Capucha
+1575	Desconocido encapuchado
+1576	Esperanza
+1577	Sin esperanza
+1578	Cuerno
+1579	Remate de cuerno
+1580	Bebida caliente
+1581	Sartén de cerdo picante
+1582	Baño caliente
+1583	Lo bastante caliente para que deje de moverse.
+1584	Grasa caliente, hierbas y muy poco contacto visual.
+1585	Comida caliente y una silla.
+1586	Casa de la Memoria
+1587	¿Cuántos has enviado esta vez?
+1588	Hrrr…?
+1589	Huesos enormes y densos que cuesta mucho romper.
+1590	Humano
+1591	Restos humanos, útiles para quienes tienen necesidades cuestionables.
+1592	Sangre humanoide
+1593	Huesos humanoides
+1594	Carne humanoide
+1595	Corazón humanoide
+1596	Cráneo humanoide
+1597	El hambre… duerme… por ahora…
+1598	¡Hambre!
+1599	Estofado del cazador
+1600	Festín del cazador
+1601	Presa del cazador
+1602	Túnica de cazador
+1603	Cuerno de caza
+1604	Botas de montero mayor
+1605	Calzones de montero mayor
+1606	Guantes de montero mayor
+1607	Jubón de montero mayor
+1608	Túnica de montero mayor
+1609	Ham… bre… no… ¿ahora no?
+1610	Lanza un proyectil de escarcha que puede RALENTIZAR al objetivo. Puede ATURDIR a los enemigos que ya estén RALENTIZADOS.
+1611	Lanza un rayo que puede ELECTROCUTAR al objetivo. Es más probable ELECTROCUTAR a los enemigos ATURDIDOS.
+1612	Lanza una ráfaga de fuego que puede hacer ARDER. Es más probable quemar a los enemigos mientras tú estás ARDIENDO.
+1613	Lanza un afilado fragmento de hielo contra un enemigo. Inflige un daño enorme a los enemigos CONGELADOS.
+1614	Caracol hipnótico
+1615	Encontré una copa de aspecto extraño y me pidieron que se la llevara a un tal Oswin.
+1616	He derrotado al horrible monstruo de limo. La salida debería estar despejada.
+1617	No creo que podamos volver a subir por aquí.
+1618	No quiero morir…
+1619	Encontré un horrible monstruo de limo bañándose en una charca pútrida.
+1620	Ayer oí mi nombre en el bosque. Aquí nadie sabe cómo me llamo ...
+1621	Lo sé ...
+1622	Vuelvo a la tierra…
+1623	Primero debería hablar con el desconocido encapuchado.
+1624	Creo que tengo la pierna rota.
+1625	Me desperté con sabor a óxido y barro. La cabeza todavía me zumba por el golpe que me mandó aquí abajo. Cuando me puse en pie a trompicones, vi los barrotes. Gruesos, de hierro y demasiado juntos incluso para que pasara un niño. Al otro lado se movían figuras: los que me arrastraron hasta aquí. Caras medio ocultas en la oscuridad, ojos brillantes como el aceite. Uno se rió, en voz baja, como si esperaran algo. Cae agua del techo. Cada gota resuena por un túnel que se adentra más en la negrura. Si hay una salida, no es por donde vine. Dentro de la mazmorra, la temperatura baja a medida que avanzo, y el aire es húmedo y frío. La humedad gotea del techo y el suelo chapotea bajo mis pies. Las paredes están resbaladizas de limo, y el olor a agua estancada hace difícil respirar. Cuanto más bajo, más siento que estoy invadiendo algo antiguo, oculto al mundo por una razón.
+1626	Me pregunto para qué será este lugar
+1627	¡Estoy listo para luchar!
+1628	¡Estoy listo para partir!
+1629	Estoy listo para acostarme.
+1630	Atrapado en hielo
+1631	Fragmento de hielo
+1632	Agujas de hielo
+1633	Si tuviera una caña podría pescar algo
+1634	Si tuviera mi propio caldero, podría preparar mis propias pociones.
+1635	Si tuviera mi propio caldero, podría cocinar mi propia comida.
+1636	Si el anfitrión sale, los demás jugadores reiniciarán en el último punto de control.
+1637	Si el anfitrión sale, los demás jugadores volverán al menú principal porque la campaña aún no se ha creado.
+1638	Si es que duran tanto.
+1639	Si tu conexión o el servicio de guardado dejan de estar disponibles temporalmente, puedes empezar la demo con el guardado y el multijugador desactivados.
+1640	{0} iluminado
+1641	Carga empaladora
+1642	Nota de aspecto importante
+1643	Chorro ácido mejorado
+1644	Bola de fuego mejorada
+1645	Torrente de llamas mejorado
+1646	Muro de llamas mejorado
+1647	Zona de escarcha mejorada
+1648	Rayo de escarcha mejorado
+1649	Arroyo glacial mejorado
+1650	Ola de calor mejorada
+1651	Atrapado en hielo mejorado
+1652	Fragmento de hielo mejorado
+1653	Agujas de hielo mejoradas
+1654	Relámpago mejorado
+1655	Estallido de podredumbre mejorado
+1656	Chamuscar mejorado
+1657	Festín de limo mejorado
+1658	Nube hedionda mejorada
+1659	Llamada de la tormenta mejorada
+1660	Embestida de tormenta mejorada
+1661	Trueno mejorado
+1662	Lanza de trueno mejorada
+1663	Escupitajo venenoso mejorado
+1664	BETA en desarrollo | No es la versión final
+1665	DEMO en desarrollo | No es la versión final
+1666	Aumenta tu regeneración natural de salud.
+1667	Aumenta tu regeneración natural de espíritu.
+1668	Aumenta tu regeneración natural de aguante.
+1669	Ingrediente
+1671	Zapatos de posadero
+1672	Anillo del inquisidor
+1673	Inspirar
+1674	Interactuar
+1675	Interacción
+1676	Menú de opciones de interacción
+1677	Interrumpido
+1678	Ebrio
+1679	Nudos intrincados enmarcan una piedra verde en este colgante de plata.
+1680	¡Intruso!
+1681	Inventario
+1682	Botas de hierro
+1683	Peto de hierro
+1684	Calzas de hierro
+1685	Almófar de hierro
+1686	Guanteletes de hierro
+1687	Grebas de hierro
+1688	Cota de malla de hierro
+1689	Lingote de hierro
+1690	Panel de malla de hierro
+1691	Máscara de hierro
+1692	Manoplas de hierro
+1693	Pepita de hierro
+1694	Segmento de placa de hierro
+1695	Borde de hierro
+1696	Escarpes de hierro
+1697	Lámina de escamas de hierro
+1698	Restos de hierro
+1699	Punta de lanza de hierro
+1700	Restos de hierro para fabricar armaduras y armas.
+1701	{0} de hierro
+1702	Fortaleza Ironwatch
+1703	Me ayudaría a olvidar esta estúpida pierna.
+1704	Es carne... Intenta no mirarla a los ojos.
+1705	Objeto
+1706	Cantidad de objetos
+1707	Rareza del objeto
+1709	Capa de hiedra
+1710	Yo… vuelvo…
+1711	Huelo… algo caliente.
+1712	¡Únete! ¡ÚNETE!
+1713	Diario actualizado
+1714	Viajar a
+1715	Saltar
+1716	Salto
+1717	Una pepita de oro corriente.
+1718	Una pepita de hierro corriente.
+1719	Solo son las piedras asentándose.
+1720	Solo es el viento.
+1721	Col rizada
+1722	No dejo de oír a mi madre llamándome desde el otro lado del muro. Lleva doce años muerta.
+1723	Mantiene un farol encendido y la oscuridad esperando.
+1724	Mantiene tapada una olla y detiene algunos golpes.
+1725	Mantiene la luz donde la necesitas.
+1726	Mantiene a los vigías despiertos y alimentados.
+1727	Te mantiene alimentado y a todos los demás a distancia.
+1728	Parientes
+1729	Kingswood
+1730	Lanzar un beso
+1731	Escudo de cometa
+1732	¡Lo sabía!
+1733	Botas de caballero
+1734	Peto de caballero
+1735	Calzas de caballero
+1736	Guanteletes de caballero
+1737	Grebas de caballero
+1738	Cota de malla de caballero
+1739	Manoplas de caballero
+1740	Escarpes de caballero
+1741	Derribo
+1742	Probabilidad de derribo
+1743	Botas de peón
+1744	Atuendo de peón
+1745	Guantes de peón
+1746	Pantalones de peón
+1747	Lachenalia
+1748	Cerveza Lunar n.º 1 de Lady Cynwrig
+1749	Alquemila
+1750	Cordero
+1751	Aceite para lámparas
+1752	Farol
+1753	Aceite para faroles
+1754	Fraile renegado
+1755	Manteca
+1756	Huesos de animal grandes
+1757	Cabeza de hacha de bronce grande
+1758	Cabeza de maza de bronce grande
+1759	Hoja de espada de bronce grande
+1760	Cabeza de hacha de hierro grande
+1761	Cabeza de maza de hierro grande
+1762	Hoja de espada de hierro grande
+1763	Cabeza de hacha de plata grande
+1764	Cabeza de maza de plata grande
+1765	Hoja de espada de plata grande
+1766	Cabeza de hacha de acero grande
+1767	Cabeza de maza de acero grande
+1768	Hoja de espada de acero grande
+1769	Caza mayor cocinada a fuego lento mientras vigilas por si hay problemas.
+1770	Piel grande para fabricar.
+1771	Dientes grandes y romos, desgastados por años de masticar cualquier cosa.
+1772	Hoja de la última taza
+1773	Té de la última taza
+1774	Última partida
+1775	Reír
+1776	Lánzate hacia delante con una potente estocada. Inflige un daño enorme a los enemigos ATURDIDOS.
+1777	Lanza un proyectil ardiente que puede ATURDIR y hacer ARDER. Inflige daño adicional a los enemigos HERIDOS.
+1778	Lavanda
+1779	Verduras de hoja
+1780	Sartén de lince magro
+1781	Carne magra ablandada con tiempo y cuidado.
+1782	Carne magra con el tostado justo para ocultar el miedo.
+1783	Carne magra de depredador, poco hecha.
+1784	Salta hacia delante con un potente golpe de hacha que puede ATURDIR. Inflige un daño enorme si estás HERIDO.
+1785	Salta hacia delante con una potente estocada que puede causar SANGRADO. Inflige daño adicional a los enemigos ATURDIDOS.
+1786	Estocada en salto
+1787	Capa de cuero
+1788	Panel de cuero
+1789	Tira de cuero
+1790	Levantar el campamento
+1791	¡Abandona este lugar sagrado!
+1792	¡Abandona este lugar!
+1793	Salir al menú
+1794	Deja una marca donde la memoria podría fallarte.
+1795	Puerro
+1796	Sopa de puerro
+1797	Sopa de hoja de puerro
+1798	Legendario
+1799	Animista legendario
+1800	Elementalista legendario
+1801	Piernas
+1802	Legumbre
+1803	Puré de lentejas
+1804	Déjame dormir…
+1805	¡Salgamos de aquí!
+1806	Acampemos.
+1807	Registremos este lugar.
+1808	¡Subida de nivel!
+1809	Nivel {lvl}
+1810	Robo de vida
+1811	Huesos ligeros hervidos para un caldo rápido.
+1812	Ligero, ligeramente dulce.
+1813	Ligero, suave y útil a puñados.
+1814	Relámpago
+1815	Pararrayos
+1816	Ligero y resistente. Suena agradablemente hueco al tensarlo.
+1817	Viiida… cerca…
+1818	Lirio de los valles
+1819	Límite alcanzado
+1820	Capa de lino
+1821	Forro de lino
+1822	Panel de lino
+1823	Bufanda de lino
+1824	Restos de lino
+1825	Podredumbre persistente
+1826	Arándanos rojos
+1827	Botas de anillas
+1828	Calzas de anillas
+1829	Cota de anillas
+1830	Manoplas de anillas
+1831	Perfilador de labios
+1832	Escuchar banda sonora
+1833	Brasero encendido
+1834	Vivo…
+1835	Ubicación
+1836	Cripta cerrada
+1837	Ganzúa
+1838	Fallo al forzar la cerradura
+1839	Cerradura forzada
+1840	Ganzúa
+1841	Grebas de tronco
+1842	Taparrabos
+1843	Sauces solitarios se inclinan sobre hierba mojada, juncos y charcas poco profundas.
+1844	Caldo de huesos largo
+1845	Espinas largas y endurecidas, lo bastante afiladas para atravesar el cuero.
+1846	Larga, afilada y ya conocida por los campesinos enfadados.
+1847	Potaje de larga marcha
+1848	Espada larga
+1849	Buscando {item}
+1850	Parece una... ¿patata de cueva?
+1851	Botas de señor
+1852	Peto de señor
+1853	Calzas de señor
+1854	Guanteletes de señor
+1855	Grebas de señor
+1856	Cota de malla de señor
+1857	Manoplas de señor

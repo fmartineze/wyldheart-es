@@ -1,0 +1,26 @@
+Wyldheart Demo - Traduccion al espanol (no oficial)
+====================================================
+
+INSTALAR
+  1. Cierra el juego.
+  2. Haz doble clic en "Instalar.bat".
+     El instalador busca el juego en tus bibliotecas de Steam. Si no lo encuentra,
+     te pedira que selecciones la carpeta "Wyldheart Demo".
+  3. Abre el juego y ve a Options > GAMEPLAY > Language y elige "francais".
+  4. Reinicia el juego. Ya esta en espanol.
+
+  Por que "francais"? El juego no permite sustituir el ingles (su idioma original),
+  asi que el espanol ocupa el lugar del frances.
+
+DESINSTALAR
+  Haz doble clic en "Desinstalar.bat" y vuelve a poner el idioma en English.
+
+INSTALACION MANUAL
+  Copia los 3 archivos de la carpeta "mod" a:
+  ...\steamapps\common\Wyldheart Demo\Kauri\Content\Paks\~mods\
+  (crea la carpeta ~mods si no existe)
+
+PROBLEMAS / SUGERENCIAS
+  https://github.com/fmartineze/wyldheart-es/issues
+
+Traduccion hecha por fans, sin relacion con los desarrolladores del juego.

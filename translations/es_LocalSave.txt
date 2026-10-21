@@ -1,0 +1,7 @@
+0	(Sin conexión)
+1	Restricción de la demo: una partida de un jugador no se puede convertir en multijugador.
+2	Si tu conexión o el servicio de guardado dejan de estar disponibles temporalmente, puedes empezar sin conexión, en modo un jugador. Tu progreso en un jugador se guardará localmente en tu equipo.
+3	Sin conexión
+4	En línea
+5	Jugar en línea
+6	Esta demo requiere conexión a internet para el guardado en línea y el multijugador.

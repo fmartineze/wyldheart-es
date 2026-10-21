@@ -1,0 +1,317 @@
+3245	Empuñar este grimorio te permite canalizar hechizos de la Senda de la Pira.
+3246	Empuñar este grimorio te permite canalizar hechizos de la Senda de la Escarcha.
+3247	Empuñar este grimorio te permite canalizar hechizos de la Senda de la Tormenta.
+3248	Brotes silvestres, frágiles y de temporada.
+3249	Hacer que los amigos cercanos acudan a ti
+3250	{0} de sauce
+3251	El viento está cambiando. Mejor meto la leña antes de que oscurezca.
+3252	Castillo Windsong
+3253	Festín de invierno
+3254	Potaje de invierno
+3255	Sopa de frutas de invierno
+3256	Límpiate las botas antes de entrar. La vieja Pim lo ve todo.
+3257	Anillo de las brujas
+3258	Fortaleza Marchita
+3259	Anillo del mago
+3260	Piel de lobo
+3261	Carne de lobo
+3262	Estofado de lobo con ajo
+3263	Ramita de matalobos
+3264	El matalobos desprende un olor del que las bestias desconfían por instinto, como si recordaran una vieja derrota.
+3265	Madera
+3266	Botas de leñador
+3267	Atuendo de leñador
+3268	Guantes de leñador
+3269	Pantalones de leñador
+3270	Hacha de leñador
+3271	Flechas de madera
+3272	Tapa de madera
+3273	Bastón de madera
+3274	Vendajes del bosque
+3275	Botas de hombre del bosque
+3276	Calzones de hombre del bosque
+3277	Guantes de hombre del bosque
+3278	Jubón de hombre del bosque
+3279	Sopa del leñador
+3280	Túnica de hombre del bosque
+3281	Capa de lana
+3282	Forro de lana
+3283	Panel de lana
+3284	Bufanda de lana
+3285	Restos de lana
+3286	Túnica larga de lana
+3287	Túnica de lana
+3288	Se rumorea que alguien conocido como Ojo Brillante está preparando algún tipo de ritual en la Cueva Trollcap, usando conchas cantoras para hablar con voces desconocidas de todo Whisperwood.
+3289	Delantal de obrero
+3290	Zapatos de obrero
+3291	Túnica de obrero
+3292	Cota de malla gastada
+3293	Llevado por el temible Gran Inquisidor de Varkalan, este pesado anillo de plata incrustado de rubíes intensos es símbolo de una autoridad inflexible y un juicio despiadado.
+3294	Llevado por los sumos sacerdotes de Ulldorn, este pesado colgante de oro alcanzará un buen precio en muchos mercados, y la muerte en otros.
+3295	{0} gastado
+3296	Envuelto en enredaderas de bronce, este colgante de piedra lunar gris quizá perteneció a una sacerdotisa de Mistveil.
+3298	Bostezar
+3299	Tinte amarillo
+3300	Trozo amarillo de limo petrificado
+3301	Sí
+3302	Duela de arco de tejo
+3303	{0} de tejo
+3305	Tú y tus aliados ganáis +10 de protección y +5 de eficacia de bloqueo mientras dure.
+3306	Estás entre amigos.
+3307	Estás en la región de Whisperwood. ¿Te quedan pocas vendas? <highlight>Visita Rivermere</> para reabastecerte.
+3308	Es menos probable que sangres al resultar herido.
+3309	Es menos probable que te aturdan.
+3310	No te da miedo mancharte las manos de sangre ni terminar el trabajo.
+3311	No tienes prisa.
+3312	Estás triste
+3313	Estás ralentizado y recibes daño de escarcha con el tiempo.
+3314	Eres más lento pero ganas percepción.
+3315	Lanzas un beso
+3316	Has perdido el equilibrio un momento.
+3317	Puedes llevar {Value} más
+3318	Recogías los excrementos de las letrinas.
+3319	Derrotaste al sorbedor gigante que acechaba en las profundidades.
+3320	Derrotaste al sorbedor que acechaba en las profundidades y saliste con vida. No todos tuvieron tanta suerte como tú.
+3321	Mueres de forma permanente si te derriban.
+3322	¡Perturbas nuestro descanso!
+3323	Infliges un 50% más de daño
+3324	Infliges un 50% más de daño.
+3325	Esto no se hace con prisas o el oso vuelve a ganar.
+3326	Bebías para olvidar lo que no te dejaba en paz.
+3327	Te mareas como si fueras a vomitar.
+3328	Te sentías en casa en las tierras salvajes, donde nunca llegaba ayuda.
+3329	Arreglabas lo que otros desechaban.
+3330	Luchabas contra amigos y enemigos por dinero.
+3331	Encontraste el camino. Ojalá no lo hubieras hecho.
+3332	Ganas +10 de protección.
+3333	¡Los enemigos te han tendido una emboscada y debes defenderte!
+3334	No tienes comidas
+3335	No tienes misiones
+3336	¿Lo oyes?
+3337	Te has golpeado la cabeza y estás mareado.
+3338	Cazabas alimañas en lugares oscuros y aprendiste a no inmutarte.
+3339	No sabes nada
+3340	Sabes dónde cavar en busca de minerales, y lo que cuesta.
+3341	Pierdes esperanza al viajar de noche
+3342	Deberíais iros.
+3343	Hacías pan con lo que hubiera.
+3344	Puedes perder esperanza al viajar de noche. ¿Seguro?
+3345	Llevabas animales de un lado a otro y te culpaban cuando desaparecían.
+3346	¡Has elegido el camino equivocado!
+3347	Señalas hacia delante
+3348	Sacabas seres vivos del agua fría.
+3349	Recuperas salud mientras estás bien alimentado
+3350	Recuperas salud mientras estás bien alimentado.
+3351	Eliminas los estados negativos
+3352	Has alquilado una habitación en la posada.
+3353	Servías a un propósito o a una persona noble, hasta que se acabó.
+3354	¡No deberías estar aquí!
+3355	¿Todavía respiras?
+3356	Robabas a los muertos y vivías con ello.
+3357	Recibes un 50% menos de daño.
+3358	Recibes daño de fuego con el tiempo.
+3359	Recibes menos daño de la magia arcana.
+3360	Recibes menos daño de las armas contundentes.
+3361	Recibes menos daño del fuego.
+3362	Recibes menos daño de la escarcha.
+3363	Recibes menos daño de las armas perforantes.
+3364	Recibes menos daño del veneno.
+3365	Recibes menos daño de la magia psiónica.
+3366	Recibes menos daño de las armas desgarradoras.
+3367	Recibes menos daño de la magia sagrada.
+3368	Recibes menos daño de las descargas.
+3369	Recibes menos daño de las armas cortantes.
+3370	Recibes menos daño de la magia profana.
+3371	Recibes daño físico con el tiempo.
+3372	Recibes daño de veneno con el tiempo.
+3373	Recibes un {Value}% menos de daño por cada invocación
+3374	Entiendes de plantas y hongos, incluidos los peligrosos.
+3375	Antes eras alguien de gran valía.
+3376	Te despiertas ...
+3377	Fregabas las ollas mientras otros se daban un festín.
+3378	Te confiaron palabras y ritos que te costaron caro.
+3379	¡Nos alimentarás!
+3380	Trabajabas la tierra para otros.
+3381	Ya llevas demasiado peso
+3382	Brotes tiernos cocinados antes de que se defiendan.
+3383	Tus flechas infligen un {Value}% más de daño
+3384	Tus ataques con arco y flecha infligen daño adicional.
+3385	Tus ataques con hacha infligen un {Value}% más de daño
+3386	Tus ataques con maza infligen un {Value}% más de daño
+3387	Tu oferta
+3388	Tu pueblo te expulsó por crímenes, reales o imaginarios.
+3389	Tus ataques con escudo infligen un {Value}% más de daño
+3390	Tu habilidad aumenta en {Value}
+3391	Tus ataques con lanza infligen un {Value}% más de daño
+3392	Tu aguante se regenera más despacio.
+3393	Tus ataques con espada infligen un {Value}% más de daño
+3394	Tu salud total aumenta en {Value}
+3395	Tu espíritu total aumenta en {Value}
+3396	Tu aguante total aumenta en {Value}
+3397	¡Ahora estás en nuestro bosque!
+3398	Te adentras en el mundo de Caerwyn, en la región de Elderlight. Una extraña niebla se está extendiendo y con ella llegan enemigos de más allá del Velo. \r\n\r\nTen cuidado: este mundo aún está en construcción. Puede que encuentres errores y un equilibrio sin pulir. Para sobrevivir, confía en tu ingenio y comparte tus descubrimientos para ayudar a dar forma al futuro de Wyldheart.
+3399	Tú… eres… festín…
+3400	¿Tú… aún respiras…?
+3401	Fanático
+3403	[Guardar silencio]
+3404	 no le gusta uno de tus objetos
+3405	 no tiene ganas de comerciar ahora mismo
+3406	 está conforme con tu propuesta
+3407	 está interesado en este intercambio
+3408	 no está interesado
+3409	 lo rechaza educadamente
+3410	 se niega
+3411	 desprecia la oferta
+3412	, rastreadora del bosque
+3413	, la herbolaria
+3414	, el Guardián de la Memoria
+3415	 cree que es un intercambio justo
+3420	{CurrentAmount} / {TotalAmount} kg
+3421	{StartNewCampaign} (guardado desactivado)
+3422	{container} (vacío)
+3423	{container} está cerrado con llave
+3424	Mercancía de {npc}
+3425	{person}, en {location}, siempre está buscando {item}
+3426	{text} {campaign}?
+3427	Predeterminado
+3428	Activar
+3429	Añadir
+3430	Atrancar
+3431	Cargar
+3432	Comprobar
+3433	Despejar (2 horas)
+3434	Escalar
+3435	Cerrar
+3436	Desactivar
+3437	Cavar (mantener)
+3438	Entrar
+3439	Saludar
+3440	Recolectar
+3441	Esconderse
+3442	Llamar
+3443	Salir
+3444	Salir de la zona
+3445	Encender
+3446	Encender antorcha
+3447	Cerrar con llave
+3448	Mirar
+3449	Encender fuego (mantener)
+3450	Abrir
+3451	Abrir alijo
+3452	Abrir con cautela
+3453	Asomarse
+3454	Acariciar
+3455	Colocar
+3456	Tirar del objeto
+3457	Empujar el objeto
+3458	Leer
+3459	Quitar
+3460	Quitar la barricada
+3461	Quitar el obstáculo
+3462	Descansar
+3463	Reanimar (mantener)
+3464	Registrar (mantener)
+3465	Dormir hasta el alba
+3466	Dormir hasta el anochecer
+3467	Dejar de esconderse
+3468	Dejar de asomarse
+3469	Coger
+3470	Hablar
+3471	Hablar (grupo)
+3472	Tocar
+3473	Comerciar
+3474	Viajar
+3475	Abrir cerradura
+3476	Usar
+3477	Usar (copa)
+3478	Usar (cuerda)
+3479	Pergamino antiguo
+3480	Estante de flechas
+3481	Bolsa
+3482	Barril
+3483	Cadáver de bestia
+3484	Pergamino ensangrentado
+3485	Estantería
+3486	Peñasco
+3487	Brasero
+3488	Urnas rotas
+3489	Montón de vasijas
+3490	Fardo de heno
+3491	Candelabro
+3492	Caja
+3493	Grieta
+3494	Nota arrugada
+3495	Armario
+3496	Escritorio
+3497	Mochila abandonada
+3498	Puerta
+3499	Babosas secas
+3500	Cartel de Elderlight
+3501	Chimenea
+3502	Manos aferradoras
+3503	Lápida
+3504	Gran concha
+3505	Tumba cavada a toda prisa
+3506	Pergamino escrito a toda prisa
+3507	Hogar
+3508	Cráneo hueco
+3509	Hiedra
+3510	Diario
+3511	Escalera
+3512	Carta
+3513	Palanca
+3514	Puerta cerrada con llave
+3515	Pergamino mohoso
+3516	Montículo de tierra
+3517	Círculo de setas
+3518	Nota
+3519	Nota vieja
+3520	Jarrones viejos
+3521	Libro abierto
+3522	Pedestal
+3523	Trozo de corteza
+3524	Montón
+3525	Montón de huesos
+3526	Montón de sacos
+3527	Montón de pergaminos
+3528	Poni
+3529	Vasija
+3530	Restos
+3531	Ondas
+3532	Cartel de Rivermere
+3533	Roca
+3534	Rocas
+3535	Sarcófago
+3536	Andamio
+3537	Pergamino
+3538	Tumba poco profunda
+3539	Estante
+3540	Conchas
+3541	Santuario
+3542	Esqueleto
+3543	Montón de esqueletos
+3544	Cráneo
+3545	Espora
+3546	Fruto de esporas
+3547	Esporas
+3548	Pila de barriles
+3549	Pila de libros
+3550	Pila de cajas
+3551	Nota manchada
+3552	Pergamino manchado
+3553	Alijo
+3554	Estatua
+3555	Ataúd de piedra
+3556	Nota empapada en lágrimas
+3557	Diario manchado de lágrimas
+3558	La Floración
+3559	La Gran Escucha
+3560	La Linterna
+3561	La Hoja y el Cucharón
+3562	Pergamino roto
+3563	Pozo del pueblo
+3564	Trollcap
+3565	Círculo de trollcap
+3566	Túnel
+3567	Urna
+3568	Jarrón

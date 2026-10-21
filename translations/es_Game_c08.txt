@@ -1,0 +1,357 @@
+1858	Escarpes de señor
+1859	Saber
+1860	Perdí una mula hace dos días. La cuerda seguía atada cuando encontré el carro.
+1861	Suerte
+1862	Piel de lince
+1863	Carne de lince
+1864	Estofado de lince
+1865	¡DERRÍTETE!
+1866	Maza
+1867	Hecho deprisa cuando la fuerza importa más que el sabor.
+1868	Hecho más despacio, comido más en silencio.
+1869	Hecho para compartir, si te fías de quien come.
+1870	Hecho para durar más que la moral.
+1871	Magia
+1872	Penetración de armadura mágica
+1873	Daño mágico
+1874	Protección contra daño mágico
+1875	Penetración mágica
+1876	Protección mágica
+1877	Resistencia mágica
+1878	Los ataques mágicos con varita son un {Value}% más eficaces.
+1879	Túnica de magistrado
+1880	Hacer un ruido para que los demás oigan dónde estás
+1881	Haz sitio en tu mochila
+1882	Mazo
+1883	Mandrágora
+1884	Controles del mapa
+1885	Caléndula
+1886	Piel de marmota
+1887	Marrec de Caerwyn ha muerto. La salida de esta pesadilla infestada de limo está ante mí. Antes de irse me puso en las manos una copa extraña. Dijo que no debía quedarse en la oscuridad. Me pidió que se la llevara a alguien llamado Oswin, en un lugar llamado Elderlight. Creía que era importante. No sé por qué. Pero he llegado hasta aquí. No la dejaré atrás.
+1888	Médula
+1889	Malvavisco
+1891	Marsha y Raphael cayeron a la Guarida del Sorbedor. Pobres desgraciados.
+1892	Marsha.
+1893	Marsha... ¿estás herida?
+1894	Grebas de mariscal
+1895	Cota de malla de mariscal
+1896	Peto de mariscal
+1897	Botas de acechador de ciénagas
+1898	Calzones de acechador de ciénagas
+1899	Guantes de acechador de ciénagas
+1900	Jubón de acechador de ciénagas
+1901	Raíces machacadas reducidas a su forma más honrada: pasta.
+1902	Animista maestro
+1903	Bloqueo con hacha maestro
+1904	Contraataque con hacha maestro
+1905	Combate con hacha maestro
+1906	Sincronización con hacha maestra
+1907	Manejo del arco maestro
+1908	Tiro con arco maestro
+1909	Sincronización con arco maestra
+1910	Detección maestra
+1911	Elementalista maestro
+1912	Ganzúa maestra
+1913	Bloqueo con maza maestro
+1914	Contraataque con maza maestro
+1915	Combate con maza maestro
+1916	Sincronización con maza maestra
+1917	Sigilo maestro
+1918	Bloqueo con lanza maestro
+1919	Contraataque con lanza maestro
+1920	Combate con lanza maestro
+1921	Sincronización con lanza maestra
+1922	Bloqueo con espada maestro
+1923	Contraataque con espada maestro
+1924	Combate con espada maestro
+1925	Sincronización con espada maestra
+1926	Portador de antorcha maestro
+1927	Trampería maestra
+1928	Material
+1929	Abismo de las Fauces
+1930	Máx. de invocaciones activas
+1931	Champiñón silvestre
+1932	Comida
+1933	Comidas
+1934	Las comidas que dejes en el campamento se estropearán cuando te vayas.
+1935	Cuentas rojas harinosas que saben a supervivencia, no a alegría.
+1936	Pensado para la carne. Y lo sigue estando.
+1937	Pensado para las ovejas, pero los problemas tienen muchas formas.
+1938	Cortes medidos
+1939	Carne
+1940	Pastel de carne
+1941	Sopa de carne
+1942	Carne y raíces hervidas juntas porque funciona.
+1943	Carne de origen dudoso y sabor excelente.
+1944	Carne amontonada en una victoria compartida.
+1945	Carne que sabe a seguridad.
+1946	Cabeza de hacha de bronce mediana
+1947	Cabeza de maza de bronce mediana
+1948	Hoja de espada de bronce mediana
+1949	Cabeza de hacha de hierro mediana
+1950	Cabeza de maza de hierro mediana
+1951	Hoja de espada de hierro mediana
+1952	Cabeza de hacha de plata mediana
+1953	Cabeza de maza de plata mediana
+1954	Hoja de espada de plata mediana
+1955	Cabeza de hacha de acero mediana
+1956	Cabeza de maza de acero mediana
+1957	Hoja de espada de acero mediana
+1958	Memoria… equivocada otra vez…
+1959	Resistencia mental
+1960	Mercenario
+1961	Botas de mercenario
+1962	Brigantina de mercenario
+1963	Guantes de mercenario
+1964	Polainas de mercenario
+1965	Golpe poderoso
+1966	Gente poderosa forjada en el deber y ligada por juramento.
+1967	Suave y tierno al hervirlo.
+1968	Suave y calmante.
+1969	Un consuelo suave tras días duros.
+1970	Comida suave para días duros.
+1971	Suave, olvidable y fácil de comer sin querer.
+1972	Miliciano
+1973	Espina de leche
+1974	La savia de la espina de leche fija el veneno en las tripas. Los sanadores advierten que el cuerpo se resiente si se abusa de ella.
+1975	Guantes de molinero
+1976	Zapatos de molinero
+1977	Minero
+1978	Descanso del Borde del Fango
+1979	Fango… no… más…
+1980	Seta espejo
+1981	La seta espejo revela cosas que es mejor no ver. Quienes la usan suelen sentirse observados.
+1982	Varios
+1983	Niebla
+1984	Raíz de niebla
+1985	Mistvale
+1987	Nota mohosa
+1988	Monstruo pez del norte
+1989	Muuu
+1990	Piel de alce americano
+1991	Lucero del alba
+1992	Anillo de oro de Morodan
+1993	Capucha de musgo
+1994	Musguito
+1995	La mayoría sí.
+1996	Túnica de montañero
+1997	Lago de montaña
+1998	Retroceder
+1999	Avanzar
+2000	Moverse a la izquierda
+2001	Moverse a la derecha
+2002	Velocidad de movimiento
+2003	¡Mueve el cuerpo!
+2004	Movimiento
+2005	Muévete… otra vez… muévete…
+2006	Coraza de piel embarrada
+2007	Ribera embarrada
+2008	Barro… llévame…
+2009	Agua turbia bajo árboles enmarañados.
+2010	Seta
+2011	Sartén de setas y nueces
+2012	Pastel de setas
+2013	Fritura de setas y raíces
+2014	Setas fritas hasta que se portan bien.
+2015	Habrá sido un caracol.
+2016	No habrá sido nada…
+2017	Mi hermano jura que vio a un trasgo montado en un caracol. Le dije que dejara de beber.
+2018	Mis tripas…
+2019	Sombrero de micónido
+2020	Fibras de micónido
+2021	Carne de micónido
+2022	Sopa de micónido
+2023	Esporas de micónido
+2024	{0} mítico
+2040	NOOO...
+2041	Anillo del navegante
+2042	Cuello
+2043	Árboles de aguja espaciados sobre tierra seca.
+2044	Relincho
+2045	Ortiga
+2046	Nuevo
+2047	Nueva misión
+2048	Nuevos seguidores, ¿eh? ¡Únete a nosotros!
+2049	Nuevo rumor anotado en el diario
+2050	No
+2051	Sin flechas
+2052	Sin cristal
+2053	Sin espíritu
+2054	Sin aguante
+2055	¿No más limo…?
+2056	¡Nada de descanso, solo ruina!
+2057	No hay rumores
+2058	No hay objetos de utilidad
+2059	Ningún arma desenvainada
+2060	No hay armas que necesiten reparación
+2061	No. Pero al menos no estamos solos ...
+2062	Botas de noble
+2063	Ruido
+2064	Multiplicador de ruido
+2065	Reducción de ruido
+2066	Lucio del norte
+2067	Sin asignar
+2068	No listo
+2069	No por encima de nosotros.
+2070	No es justo…
+2071	Así no…
+2072	Nada se compara con un bocadillo de queso y jamón.
+2073	Nada…
+2074	Aún… no… aún n—
+2075	Entrando en
+2076	No… por favor…
+2077	Nueces
+2078	Gachas de avena
+2079	Pan de avena del hogar
+2080	Papilla de avena
+2081	Peto de guardajuramentos
+2082	Guanteletes de guardajuramentos
+2083	Grebas de guardajuramentos
+2084	Escarpes de guardajuramentos
+2085	Manoplas de juramentado
+2086	Botas de juramentado
+2087	Calzas de juramentado
+2088	Cota de malla de juramentado
+2089	Avena
+2090	Obtenido: {item}
+2091	Grimorio oculto
+2092	Ataque
+2093	Sin conexión
+2094	¡Eh! ¡Ahí!
+2095	Aceite.
+2096	Aceitoso, penetrante y más útil que agradable.
+2097	Té de aroma aceitoso que se prepara en los campamentos de invierno.
+2098	Oinc
+2099	Anillo olcanano
+2100	Granero viejo
+2101	Hoja de campana vieja
+2102	Té de campana vieja
+2103	Anciana
+2104	Vieja espada ornamentada
+2105	¿La vieja Pim? Oh, en su día hizo girar muchas cabezas.
+2106	Pozo viejo
+2107	Huesos viejos, despojados por completo de quien fuera su dueño.
+2108	Raíces viejas y leñosas con un centro sorprendentemente dulce.
+2109	Botas de la vieja guardia
+2110	Calzas de la vieja guardia
+2111	Cota de malla de la vieja guardia
+2112	Manoplas de la vieja guardia
+2113	Antaño parte de las rutas comerciales del viejo imperio, este camino de tierra serpentea ahora por tierras salvajes y solitarias.
+2114	Hacha a una mano
+2115	Maza a una mano
+2116	Espada a una mano
+2117	Se puede invocar un monstruo más
+2118	Uno o dos. Es difícil saberlo antes de que la hondonada se los lleve.
+2119	Asta de fresno a una mano
+2120	Asta de roble a una mano
+2121	Empuñadura de espada a una mano
+2122	Mango de madera a una mano
+2123	Cebolla
+2124	Sopa de cebolla
+2125	En línea / Sin conexión
+2126	Solo el bosque…
+2127	Solo las esporas…
+2128	Solo el viento…
+2129	Hierba abierta salpicada de flores silvestres.
+2130	Pastos abiertos salpicados de piedras erosionadas y matas de cardo.
+2131	Tierra abierta despejada para el cultivo, el pasto o el viaje bajo un cielo inmenso.
+2132	O los cambia.
+2133	O se rompen.
+2134	Mineral | Fabricación | Vendedor
+2135	Origen
+2136	Choza de Orin
+2137	El manuscrito perdido de Orlaith
+2138	Forajido
+2139	Túnica de batidor
+2140	Sobrecargado
+2141	Límite de sobrecarga
+2142	Lago Owle
+2143	Piel de buey
+2144	Carne de buey
+2145	Mochila
+2146	Resistencia al dolor
+2147	Lengua pálida
+2148	La lengua pálida agudiza el oído hasta un punto incómodo. El zumbido puede durar mucho después.
+2149	Té pálido que se bebe cuando el día parece torcido.
+2150	Carne pálida y gomosa cortada de una babosa gigante.
+2151	Pálido, blando y sospechosamente agradable.
+2152	Parar
+2153	Perejil
+2154	Chirivía
+2155	Se distinguen ejes de carro medio enterrados.
+2156	Compañeros
+2157	Grupo
+2158	Me crucé con un tipo que iba a la Tumba Podrida. No parecía mucho un peregrino.
+2159	Senda de sangre
+2160	Senda de los muertos
+2161	Botas de explorador
+2162	Calzones de explorador
+2163	Guantes de explorador
+2164	Jubón de explorador
+2165	Túnica de explorador
+2166	Mecenas
+2167	Acondicionamiento máximo
+2168	Resistencia máxima
+2169	Concentración máxima
+2170	Pera
+2171	Anillo de perlas
+2172	Guisantes
+2173	Puré de guisantes
+2174	Potaje campesino
+2175	Botas de campesino
+2176	Atuendo de campesino
+2177	Guantes de campesino
+2178	Zapatos de campesino
+2179	Pantalones de campesino
+2180	Túnica de campesino
+2181	Vendajes de campesino
+2182	Colgante de la Hermandad Celestial
+2183	Perca
+2184	Arriesgado
+2185	Vinca
+2186	Hielo perpetuo donde solo sobreviven los más duros.
+2187	Carne de faisán
+2188	Estofado de faisán con hierbas
+2189	Frasco de musgo de aliento
+2190	Frasco de driftmorel
+2191	Frasco de Retoño Rojo
+2192	Frasco de copa de lágrimas
+2193	Llama del fénix
+2194	Daño físico
+2195	Protección física
+2196	Resistencia física
+2197	Pico
+2198	Resistencia a perforación
+2199	Piel de cerdo
+2200	Carne de cerdo
+2201	Pigmentación
+2202	Túnica de peregrino
+2203	Vendajes de peregrino
+2204	Sombrero pastillero
+2206	{0} de pino
+2207	Pinebrook
+2208	Horca
+2209	Comida sencilla que se come sin quejarse.
+2210	Tocar música
+2211	Tocar una melodía con tu laúd
+2212	Botas de cazador furtivo
+2213	Atuendo de cazador furtivo
+2214	Pantalones de cazador furtivo
+2215	Señalar
+2216	Sombrero puntiagudo
+2217	Probabilidad de envenenar
+2218	Raíces de hiedra venenosa
+2219	Resistencia al veneno
+2220	Envenenado
+2221	Golpe de pomo
+2222	Amapola
+2223	Cerdo frito a fuego vivo hasta que la grasa canta.
+2224	Oporto
+2225	Tapa de olla
+2226	Poción
+2227	Cataplasma de bejín fantasma
+2228	Cataplasma de espina de leche
+2229	Cataplasma de seta espejo
+2230	Cataplasma de lengua pálida
+2231	Cataplasma de raíz de piel
+2232	Cataplasma de sombrero de piedra

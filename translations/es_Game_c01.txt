@@ -1,0 +1,146 @@
+115	... existen ritos secretos que permiten a tu grupo traer de vuelta de más allá del velo a un personaje caído, en el menú de selección de personaje.
+116	... nos dijo que no todo el limo es malo y que parte se puede comer …
+117	... puedes devolver la vida a un personaje muerto después de descubrir el ritual secreto del cementerio.
+118	... puedes explorar un vasto mundo lleno de secretos y tesoros ocultos, así que tómate tu tiempo y mira qué encuentras.
+119	... puedes encender hogueras, chimeneas, antorchas y faroles sosteniendo brevemente una antorcha encendida sobre la fuente de luz.
+120	... puedes encender tu antorcha sosteniéndola brevemente sobre el fuego.
+121	...olvido... otra vez...
+122	...huelo... a los vivos...
+123	...la voluntad de Kaelgor… me ata...
+124	...Kaelgor... espera...
+125	...Tormenta… llévame…
+126	...debe derramarse sangre...
+127	...maldición… acaba conmigo…
+128	...¡por la tormenta...!
+129	...se fue... otra vez...
+130	...el hambre... espera...
+131	...se agita de nuevo...
+132	...únete a nosotros…
+133	...la memoria… se desvanece…
+134	...mi nombre… perdido…
+135	...nunca… paz…
+136	...aún no... aún no...
+137	...otra… vez no…
+138	...vuelve al polvo...
+139	...las sombras mienten...
+140	...las sombras se mueven...
+141	...da un paso... más... y muere...
+142	...tormenta… perdona…
+143	...demasiado silencio...
+144	...pies indeseados...
+145	...¿fue el viento... o un alma...?
+146	...¿quién... camina sobre el polvo...?
+148	10 huevos de caracol sin eclosionar, 5 fibras de micónido y un cráneo humanoide intacto. Lleva a Alrik lo que necesita y quizá pueda realizar lo que él llama una vieja bondad. \r\n\r\nCompletar el rito de Alrik permite a tu grupo traer de vuelta de más allá del velo a un personaje caído, en el menú de selección de personaje.
+152	Un par de cráneos
+153	Una tumba podrida
+154	Un té amargo que se prepara en los finales.
+155	Un sangriento puesto avanzado en lo profundo del bosque.
+156	Un vino tinto intenso con notas de mora, cereza negra y tabaco ahumado. Beberlo cura cualquier <OBJ>desdicha</> que puedas estar sufriendo.
+157	Un licor intenso y especiado con un toque ardiente.
+158	Una botella de agua bendita, eficaz contra lo impío y los no muertos.
+159	Una botella de hidromiel con el dulzor rico y floral de la miel. Beberla cura cualquier <OBJ>desdicha</> que puedas estar sufriendo.
+160	Una cuerda de arco para fabricar armas.
+161	Una hoja ancha y vieja que ha conocido mejores manos.
+162	Un panel de malla de bronce para fabricar armaduras y armas.
+163	Un segmento de placa de bronce para fabricar armaduras y armas.
+164	Un borde de bronce para fabricar escudos.
+165	Una lámina de escamas de bronce para fabricar armaduras y armas.
+166	Una punta de lanza de bronce para fabricar armas.
+167	Un palo ardiendo. Tosco, brillante y fiable.
+168	Una piedra lunar relajante que irradia tranquilidad, equilibrio y paz interior.
+169	Un tejido basto y resistente, usado a menudo para reparaciones básicas u objetos improvisados. Con él se pueden fabricar vendas sencillas o sacos.
+170	Un mojón derrumbado de piedras apiladas donde algunas almas valientes buscan refugio.
+171	Un complejo minero derrumbado e inundado, excavado por una antigua expedición.
+172	Un reactivo de fabricación para armaduras.
+173	Un reactivo de fabricación para preparar metal.
+174	Un resto ruinoso de una gloria pasada.
+175	Un fuerte fronterizo de piedra que se desmorona.
+176	Una abadía de piedra de dos plantas, en ruinas, construida durante una guerra olvidada.
+177	Una hoja curva de cosecha con un potencial desafortunado.
+178	Una caverna húmeda de setas gigantes, túneles sinuosos y cosas hambrientas en la oscuridad.
+179	Una caverna subterránea lóbrega.
+180	Una botella de brandi de ámbar oscuro, con el rico sabor de manzanas caramelizadas y un toque de roble tostado. Beberlo cura cualquier <OBJ>desdicha</> que puedas estar sufriendo.
+181	Una cueva oscura de cuya entrada brota un extraño resplandor.
+182	Un té oscuro y sencillo que beben jornaleros y guardias.
+183	Una mina vertical y oscura excavada en las raíces de la montaña.
+184	Una torre decadente en el paso occidental.
+185	Un remate decorativo de cuerno que se puede colocar en el extremo de un bastón o del mango de un arma.
+186	Una masa densa que se encuentra en lo más profundo de los limos grandes.
+187	Una franja de tierra anegada donde viejos cimientos desaparecen bajo el lago.
+188	Un asta resistente de fresno para fabricar lanzas y bastones a una mano.
+189	Un asta resistente de fresno para fabricar lanzas y bastones a dos manos.
+190	Una herramienta de granjero dedicada a trabajos menos honrados.
+191	Un elixir ardiente que baila en la lengua, dejando un rastro de calidez y un persistente beso especiado.
+192	Un rubí ardiente que simboliza el renacimiento, la resiliencia y la transformación.
+193	Una copa de plata finamente trabajada, deslucida por el tiempo.
+194	Un mango flexible de fresno para fabricar varitas.
+195	Un mango flexible de tejo para fabricar varitas.
+196	Un monasterio inundado que se hunde en la profunda ciénaga.
+197	Una tumba inundada abandonada a su suerte en el páramo.
+198	Una fortaleza olvidada.
+199	Una raíz bifurcada con un inquietante parecido a una personita.
+200	Un corral de piedra inmundo y embarrado donde se reúnen caracoles gigantes entre montones de conchas rotas.
+201	Un pez de agua dulce conocido por su hermosa coloración y su sabor delicado.
+202	Un hombre demacrado yace desplomado contra la piedra, con su farol parpadeando en la humedad. Limo y sangre manchan su capa de peregrino hecha jirones. Al acercarte, abre unos ojos cansados para mirarte.\r\n\r\n(#delay 1)\r\n\r\n"No eres… uno de ellos, ¿verdad? Los de ojos vacíos... los comedores de limo."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nTose, con un estertor húmedo que resuena en la cámara.\r\n\r\n"Por favor… escúchame. No me queda mucho."
+203	Un campo de suave pendiente donde la hierba alta recupera parte del terreno.
+204	Una pepita de oro refinada en un lingote.
+205	Una gran puerta de piedra sella el camino.\r\n\r\nAnte ella hay varias losas de piedra desgastadas encajadas en el suelo de la cueva, cada una marcada con la forma en espiral de una concha.
+206	Una gran puerta de piedra se alza sellada ante ti, con la forma en espiral de una concha tallada en su superficie.\r\n\r\nA sus pies, un altar cubierto de hongos tiene un hueco poco profundo, como si esperara que se colocara algo en él.
+207	Un laberinto subterráneo de losas de piedra, medio enterrado.
+208	Un arco medio derrumbado se alza sobre un trozo de piedra erosionada.
+209	Un nudo duro de madera viva hallado donde debería estar un corazón.
+210	Una carcajada sonora
+211	Un pesado trozo de madera con ambiciones sencillas.
+212	Un caparazón pesado, lo bastante duro para trabajarlo.
+213	Una guarida oculta excavada en los riscos bajo la alta cresta.
+214	Un refugio oculto que usan ladrones, cazadores furtivos y otra gente que evita el camino.
+215	Un panel de piel para fabricar escudos y armaduras.
+216	Un círculo en lo alto de una colina donde los clanes juraban lealtad y daban descanso a sus muertos.
+217	Un cráneo vaciado convertido en copa.
+218	Un anzuelo, un sedal y mucha espera.
+219	Un corazón humano. Cierta gente les encuentra utilidad.
+220	Una gema hipnótica que evoca el encanto y el hechizo de las míticas sirenas.
+221	Un abismo irregular que parte la tierra y desciende hacia la oscuridad.
+222	Una grieta natural e irregular en las raíces de basalto de los acantilados del norte.
+223	Una gran cabeza de hacha de bronce para fabricar armas a dos manos.
+224	Una gran cabeza de maza de bronce para fabricar armas a dos manos.
+225	Una gran hoja de espada de bronce para fabricar armas a dos manos.
+226	Una gran piedra carmesí corona este antiguo anillo de oro, cuyos grabados desgastados insinúan historias olvidadas hace mucho.
+227	Un gran depredador de agua dulce.
+228	Una gran cabeza de hacha de hierro para fabricar armas a dos manos.
+229	Una gran cabeza de maza de hierro para fabricar armas a dos manos.
+230	Una gran hoja de espada de hierro para fabricar armas a dos manos.
+231	Una gran cabeza de hacha de plata para fabricar armas a dos manos.
+232	Una gran cabeza de maza de plata para fabricar armas a dos manos.
+233	Una gran hoja de espada de plata para fabricar armas a dos manos.
+234	Una gran cabeza de hacha de acero para fabricar armas a dos manos.
+235	Una gran cabeza de maza de acero para fabricar armas a dos manos.
+236	Una gran hoja de espada de acero para fabricar armas a dos manos.
+237	Una choza inclinada a orillas del lago donde cuelgan redes rígidas por los años.
+238	Un panel de cuero para fabricar escudos y armaduras.
+239	Un panel de cuero para fabricar armas y armaduras.
+240	Una vara de madera flexible y tripa tensada que te permite matar a tus enemigos desde una distancia segura y cobarde.
+241	Una carta para el dueño de esta tienda.
+242	Una carta de un padre a sus hijos
+243	Un vino blanco ligero y refrescante
+244	Un poco de protección es mejor que nada.
+245	Un poco.
+246	Una cripta cerrada rodeada de árboles muertos.
+247	Un menhir solitario que domina el valle de Elderfields.
+248	Una llamada fuerte que se oye a lo lejos en las tierras salvajes.
+249	Una cueva baja en lo profundo de la ciénaga.
+250	Una cueva baja y sinuosa bajo una cresta boscosa.
+251	Una magnífica esmeralda adornada con intrincados motivos de dragones, que representa la fuerza, el valor y la sabiduría antigua.
+252	Un hombre está de pie entre dos hayas, con los ojos cerrados. Hilos blancos lo atan a los árboles.
+253	Una enorme dolina en lo profundo del cenagal.
+254	Un enorme castro de piedra engullido por el bosque ancestral.
+255	Una cabeza de hacha de bronce mediana para fabricar armas a una mano.
+256	Una hoja de bronce mediana para fabricar armas a una mano.
+257	Una cabeza de maza de bronce mediana para fabricar armas a una mano.
+258	Una cabeza de hacha de hierro mediana para fabricar armas a una mano.
+259	Una hoja de hierro mediana para fabricar armas a una mano.
+260	Una cabeza de maza de hierro mediana para fabricar armas a una mano.
+261	Una cabeza de hacha de plata mediana para fabricar armas a una mano.
+262	Una hoja de plata mediana para fabricar armas a una mano.
+263	Una cabeza de maza de plata mediana para fabricar armas a una mano.
+264	Una cabeza de hacha de acero mediana para fabricar armas a una mano.

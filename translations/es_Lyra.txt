@@ -1,0 +1,62 @@
+0	... todo el grupo debe reunirse para <highlight>adentrarse más en una mazmorra</>.
+1	... mantener T abre un menú radial donde puedes elegir tu habilidad principal.
+2	... siempre es buena idea explorar una zona en busca de tesoros adicionales.
+3	... los monstruos pueden oírte al echar abajo una puerta de una patada, así que si quieres pasar desapercibido es mejor usar una <highlight>llave maestra</>.
+4	... pulsar <img id="Crouch"/> te permite usar la percepción para revelar cosas ocultas.
+5	... pulsar <img id="ToggleInventory"/> abre el menú de la mochila, donde puedes equipar armas y equipo.
+6	... la ventaja básica de detección desbloquea la capacidad de agacharte <img id="Crouch"/> para revelar cosas ocultas.
+7	Aplicar
+8	Descartar cambios
+9	Mando
+10	Las mazmorras pueden ser muy oscuras. Recuerda coger y <highlight>equiparte una antorcha</> antes de adentrarte más.
+13	Nintendo Switch
+14	Mina vieja
+17	La Fisura Profunda
+18	El Muladar del Rey
+19	La Mina Perdida
+20	La Cueva Estrecha
+21	El Paso Subterráneo
+22	Usa el <text color="FFFFFFFF" fontface="black">stick izquierdo</> para ajustar las esquinas\r\nde modo que coincidan con los bordes de tu pantalla.
+23	Advertencia
+24	Mando inalámbrico
+25	Mando de Xbox
+28	Error en la sesión solicitada
+29	Sin asignar
+30	Cancelar
+31	No
+32	Aceptar
+33	Sí
+35	... usa puntos de habilidad para desbloquear habilidades, y luego equípate un Grimorio para acceder a hechizos mágicos, o un arma para acceder a golpes físicos.
+37	Avanzado
+38	Apuntar (mantener)
+39	Mala conexión
+40	Vendarse
+41	Ten cuidado: este mundo aún está en construcción. ¡Puede que encuentres errores y un equilibrio sin pulir por el camino! Cuando sea así, pásate por nuestro Discord y cuéntanoslo. Confía en tu ingenio para sobrevivir y comparte tus descubrimientos con nuestra comunidad para ayudarnos a dar forma al futuro de Wyldheart.
+42	Principiante
+43	Resistencia al sangrado
+44	Crea tu propio menú de habilidades...
+45	¡Enhorabuena! Has desbloqueado un nuevo trasfondo: El Guía Condenado.
+46	Derrotado
+47	Discord
+48	Guía Condenado
+49	Beber
+50	Animista experto
+51	Color de pelo
+52	Intermedio
+53	Únete a la comunidad
+54	Cinta de cuero
+55	Maestro
+56	Ninguno
+57	Distribuidora
+58	Anillo de huevo de babosa
+59	Agradecimientos especiales
+60	Lanzar
+61	Salud total
+62	Espíritu total
+63	Aguante total
+64	Capa de Guía
+65	Lista de deseados
+66	Añadir a deseados
+67	Te adentras en el mundo de Caerwyn, en la región de Whisperwood. Una extraña niebla se está extendiendo y con ella llegan enemigos de más allá del Velo...
+68	Tu conexión a internet es débil. Puede que notes retrasos durante la partida.
+70	{BossName} ha sido derrotado

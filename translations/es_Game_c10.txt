@@ -1,0 +1,288 @@
+2510	¡Muéstrate!
+2511	Se encoge hasta casi nada.
+2512	Hoz
+2513	Peto de rompeasedios
+2514	Guanteletes de rompeasedios
+2515	Grebas de rompeasedios
+2516	Escarpes de rompeasedios
+2517	Forro de seda
+2518	Panel de seda
+2519	Restos de seda
+2520	Hilo de seda
+2521	Hilo de seda para fabricar armaduras.
+2522	Amuleto de plata
+2523	Candelabro de plata
+2524	Tenedor de plata
+2525	Copa de plata
+2526	Incrustación de plata
+2527	Panel de malla de plata
+2528	Plato de plata
+2529	Segmento de placa de plata
+2530	Borde de plata
+2531	Salmón plateado
+2532	Lámina de escamas de plata
+2533	Restos de plata
+2534	Punta de lanza de plata
+2535	Cuchara de plata
+2536	Anillo del guiverno de plata
+2537	Restos de plata para fabricar armaduras y armas.
+2538	{0} de plata
+2539	Cocido a fuego lento hasta que los huesos se rinden.
+2540	Túnica de lino sencilla
+2541	Taparrabos sencillo
+2542	Carne de ave sencilla, aún mejor que el pan.
+2543	Comida sencilla para necesidades sencillas.
+2544	Ropa de piel sencilla
+2545	Tendón
+2546	Hilo de tendón
+2547	Hilo de tendón para fabricar armaduras.
+2548	Lince chamuscado
+2549	Canto de sirena
+2550	Sentarse
+2551	Sentarse en el suelo
+2552	Habilidad
+2553	Conejo a la sartén
+2554	Piel para fabricar.
+2555	Desuello
+2556	Cuchillo de desollar
+2557	Raíz de piel
+2558	La raíz de piel endurece la carne con el tiempo, agrietando la piel y embotando la sensibilidad.
+2559	Botas de escaramuzador
+2560	Coraza de escaramuzador
+2561	Guantes de escaramuzador
+2562	Pantalones de escaramuzador
+2563	Copa de cráneo
+2564	Copa de cráneo con limo verde
+2565	Cráneo de invocaciones
+2566	Golpea el suelo con tu maza, dañando y posiblemente DERRIBANDO a los enemigos cercanos.
+2567	Golpea al enemigo con tu escudo, infligiendo el doble de daño y derribándolo.
+2568	Resistencia a cortes
+2569	Dormir
+2570	Dormir en este campamento restaura tu salud, aguante y espíritu.
+2571	Dormir aquí restaurará tu salud, espíritu y aguante, así como tu esperanza.
+2572	Dormir aquí restaurará tu salud, espíritu y aguante.
+2573	Dormir…
+2574	Árboles esbeltos crecen apretados bajo un dosel luminoso y susurrante.
+2575	Resbaladizo, inflamable y útil en más de un sentido.
+2576	Algo menos amargo en infusión.
+2577	Limo
+2578	Núcleo de limo
+2579	Festín de limo
+2580	Fuente de limo
+2581	Gelatina de limo
+2582	Sopa de limo
+2583	El limo cae en la pila en un chorro espeso e interminable, burbujeando y sorbiendo ruidosamente.\r\n\r\nPodrías recoger un poco si tuvieras una copa vacía que llenar, aunque solo el más necio pensaría en bebérselo.
+2584	Cordones de honda
+2585	Bolsa de honda
+2586	¡Liiimooo!
+2587	Sssss… ¿paso? ¿Pie… paso?
+2588	Asado lento de oso
+2589	Probabilidad de ralentizar
+2590	Aplauso lento
+2591	Asado lento de alce
+2592	Lenta y constante, curvándose por el valle, el agua destella plateada bajo el sol.
+2593	Cocinarlo despacio resuelve casi todo el problema.
+2594	Oso asado a fuego lento
+2595	Huevos de babosa
+2596	Sombrero de babosa
+2597	Capa de piel de babosa
+2598	Jugo de babosa
+2599	Carne de babosa
+2600	Caparazón de babosa
+2601	Estofado de babosa
+2602	Guarida del Sorbedor
+2603	Huesos de animal pequeños
+2604	Hoja de espada de bronce pequeña
+2605	Hoja de espada de hierro pequeña
+2606	Hoja de espada de plata pequeña
+2607	Hoja de espada de acero pequeña
+2608	Fémur pequeño
+2609	Florecillas azules que se arrastran a ras de suelo.
+2610	Colmillo pequeño que se usa para fabricar.
+2611	Pequeños cuerpos fructíferos brotan de la tierra mientras acechadores fúngicos descansan entre ellos.
+2612	Huesos humanoides pequeños, ligeros pero resistentes.
+2613	Choza pequeña
+2614	Piel pequeña para fabricar.
+2615	Gente del bosque pequeña y alegre con una vena traviesa.
+2616	Dientes pequeños y torcidos, sorprendentemente duros.
+2617	Pequeño, aceitoso y vale la pena el esfuerzo.
+2618	Pequeño, sabroso y mejor bien cocinado.
+2619	Una luz pequeña y constante para marcar tu camino en la oscuridad
+2620	Florecillas de aroma dulce apreciadas para una infusión relajante.
+2621	Huele a musgo y a lluvia.
+2622	Huele fuerte, viaja bien.
+2623	Huele peor de lo que sabe.
+2624	Huele peor de lo que sabe. Normalmente.
+2625	Guarida apestosa
+2626	Té ahumado y algo amargo asociado a monasterios o ruinas.
+2627	Corteza viva y lisa arrancada de un woad caído.
+2628	Perlas de caracol
+2629	Sigilo
+2630	Social
+2631	Cama blanda
+2632	Blandas y dulces; se estropean rápido.
+2633	Cama blanda
+2634	Suelo blando cubierto de hojas y claros de luz entre los árboles.
+2635	Hojas suaves con un fuerte olor terroso.
+2636	Turba blanda y agua oscura y quieta.
+2637	Blando cuando está caliente, duro cuando está frío; útil de cualquier forma.
+2638	Té suave y aromático que se prepara en casi todos los hogares.
+2639	Blando, marrón y discretamente fiable.
+2640	Madera blanda y húmeda que apenas sostiene una llama.
+2641	Hojas suaves y plegadas que recogen el rocío de la mañana en sus cuencos.
+2642	Blando, sabroso y difícil de mirar.
+2643	Huevos blandos y translúcidos que se encuentran en sacos agrupados.
+2644	Ablandado lo justo para ser comestible.
+2645	Hondonada Empapada
+2646	Hondonadas Empapadas
+2647	Soldado
+2648	Botas de soldado
+2649	Peto de soldado
+2650	Calzas de soldado
+2651	Guanteletes de soldado
+2652	Grebas de soldado
+2653	Cota de malla de soldado
+2654	Manoplas de soldado
+2655	Escarpes de soldado
+2656	Madera maciza para masas testarudas y otros problemas.
+2657	Alguien viene…
+2658	Ayer pasó alguien camino de la Fortaleza Marchita. Pobre desgraciado.
+2659	¿Hay alguien?
+2660	¿Alguien…?
+2661	Algo temible merodea por estos parajes.
+2662	Algo podrido flota en el aire.
+2663	Algo se agita…
+2664	Algo se arrastra…
+2665	Canciones del Otro Mundo III
+2666	Túnica de adivino
+2667	Vínculo de almas
+2668	Sopa
+2669	Tan… cansado…
+2670	Dar una moneda (1 cobre)
+2671	¿Me das una moneda?
+2672	¿Me das otra?
+2673	Anillas sueltas, placas de metal y pasadores. Suficiente para cerrar huecos y evitar que la armadura falle cuando importa.
+2674	Lanza
+2675	Barrido de lanza
+2676	Habilidad especial 1
+2677	Habilidad especial 2
+2678	Menú de habilidades especiales
+2679	Hojas moteadas y flores vivas que destacan en la naturaleza.
+2680	Multiplicador de velocidad
+2681	Los hechizos se recargan un {Value}% más rápido.
+2682	Sartén de rata especiada
+2683	Púa
+2684	Púas
+2685	Ataque giratorio con probabilidad de causar SANGRADO. Inflige daño adicional a los enemigos VULNERABLES
+2686	Espíritu
+2687	Guardián espiritual
+2688	Regeneración de espíritu
+2689	Paseo espiritual
+2690	Venado al espetón
+2691	Escupe veneno a un enemigo que puede ENVENENARLO. Es más probable ENVENENAR a los enemigos DEBILITADOS.
+2692	Leña partida
+2693	Esponjoso, agrio y solo se come tras dudarlo.
+2694	Estallido de esporas
+2695	Extensos campos de cultivo vigilados por espantapájaros silenciosos.
+2696	Esprintar
+2697	Píceas se alzan aquí y allá entre musgo, piedra y matorral bajo.
+2698	Chillido
+2699	Escudero
+2700	Ssss-sonidos suaves…
+2701	Apuñala a un enemigo con probabilidad de causar SANGRADO. Es más probable hacer SANGRAR a los enemigos al atacar por la espalda.
+2702	Acondicionamiento estable
+2703	Resistencia estable
+2704	Concentración estable
+2705	Bastón
+2706	Probabilidad de aturdir
+2707	Resistencia al aturdimiento
+2708	Aturdido
+2709	Asalto aturdidor
+2710	Aguante
+2711	Regeneración de aguante
+2712	Grabado con runas, este delicado amuleto de bronce contiene cristales que cambian de color cada vez que la niebla se espesa.
+2713	Rico en almidón y duradero.
+2714	Noche estrellada
+2715	Estado
+2716	Quédate cerca de los árboles marcados al anochecer. Por algo los pintamos.
+2717	Puntería firme
+2718	Sigilo
+2719	Multiplicador de velocidad en sigilo
+2720	Botas de acero
+2721	Peto de acero
+2722	Calzas de acero
+2723	Almófar de acero
+2724	Guanteletes de acero
+2725	Grebas de acero
+2726	Cota de malla de acero
+2727	Panel de malla de acero
+2728	Manoplas de acero
+2729	Segmento de placa de acero
+2730	Borde de acero
+2731	Escarpes de acero
+2732	Lámina de escamas de acero
+2733	Restos de acero
+2734	Punta de lanza de acero
+2735	Restos de acero para fabricar armaduras y armas.
+2736	{0} de acero
+2737	Entra en el reino de los espíritus durante 10 s, moviéndote un 30% más rápido y obteniendo un 50% de reducción de daño.
+2738	Estofado y pan
+2739	Túnica de mayordomo
+2740	Lodo vivo y pegajoso recogido de un limo derrotado.
+2741	Savia pegajosa de árbol que se endurece con el tiempo.
+2742	Sigue siendo una espada, si ignoras el óxido.
+2743	Stillwater
+2744	Granja Stillwater
+2745	Quieto… otra vez quieto…
+2746	Pica en las manos desnudas y recompensa a las cuidadosas.
+2747	Nube hedionda
+2748	Centinela de piedra
+2749	Losa de piedra
+2750	Sombrero de piedra
+2751	El sombrero de piedra crece donde persisten el frío y el silencio. Su carne embota el dolor y hace pesado el cuerpo.
+2752	Stonecrest
+2753	Hoja de copa de piedra
+2754	Té de copa de piedra
+2755	Granja Stonefield
+2756	Grimorio de la tormenta
+2757	Embestida de tormenta
+2758	Juicio de la tormenta
+2759	Túnica de cuentacuentos
+2760	Se han visto extrañas criaturas de seta caminando por los muros de la fortaleza marchita.
+2761	Pasan cosas extrañas cerca de la Tumba Podrida. Se han oído voces de gente muerta hace mucho llamando desde el bosque.
+2762	Extraña carne del bosque, ni del todo madera ni del todo carne.
+2763	Situado estratégicamente entre dos altas paredes de roca.
+2764	Golpea a un enemigo con el pomo. Puede DERRIBAR a los enemigos ATURDIDOS
+2765	Gente fuerte y leal que se mantiene firme ante el peligro.
+2766	Sabores fuertes para nervios más fuertes.
+2767	Sabores fuertes para tiempos débiles.
+2768	Olores fuertes, apetito más fuerte.
+2769	Bebida fuerte
+2770	Barba de tres días
+2771	Botas tachonadas
+2772	Brigantina tachonada
+2773	Guantes tachonados
+2774	Polainas tachonadas
+2775	Seta de tocón
+2776	Estúpido bosque susurrante…
+2777	Madera resistente que da un fuego decente.
+2778	{0} robusto
+2779	Invocar manipulador
+2780	Invocar esqueleto
+2781	Invoca una bestia espiritual para que te defienda.
+2782	Invoca un esqueleto
+2783	Rayo de sol
+2784	Estallido solar
+2785	Sunken Reach
+2786	Te rodea de energía chisporroteante, aumentando tu velocidad de movimiento.
+2787	Té del agrimensor
+2788	Hoja del agrimensor
+2789	Supervivencia
+2790	Barre con tu lanza en un amplio arco, dañando y posiblemente RALENTIZANDO a los enemigos cercanos.
+2791	Barre con tu espada en un amplio arco que puede ATURDIR a los enemigos. Inflige daño adicional a los enemigos que estén SANGRANDO.
+2792	Tajo de barrido
+2793	Dulce y crujiente.
+2794	Lo bastante dulce para mancharte los dedos y las expectativas.
+2795	Fruta dulce cocinada hasta que sabe a hogar.
+2796	Calidez dulce para noches amargas.
+2797	Dulce, ácido y duro para la vista.

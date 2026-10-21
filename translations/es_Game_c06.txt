@@ -1,0 +1,203 @@
+1349	Gael se frota la nariz con el dorso de la mano.\r\n\r\n"Una fortaleza, al noreste de aquí, en lo alto de esa colina. En un día despejado se ven las torres por encima de los árboles. Antes allí no había más que piedras y cuervos."\r\n\r\nHace una pausa.\r\n\r\n"Ya no."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\n"Si el viento sopla desde la fortaleza, no te acerques. Algo está creciendo dentro de esos muros, y cada ráfaga lleva un poco más de ello al bosque."
+1350	Gael dice que el "Susurrador del Bosque" está inquieto. Signifique eso lo que signifique.
+1351	A Gael se le agria el gesto.\r\n\r\n"La vieja tumba, más adentro del bosque, al norte de aquí. Lleva abandonada más tiempo del que yo llevo viva. Aun así, los peregrinos siguen yendo."\r\n\r\nBaja la mirada y se mordisquea el borde de una uña.\r\n\r\n"Unos quieren respuestas. Otros quieren hablar con alguien a quien perdieron."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nVuelve a mirarte.\r\n\r\n"El problema es que nunca he visto volver a nadie."
+1352	Capa de gambesón
+1353	Partida en curso
+1354	Ave de caza cocinada con respeto.
+1355	Carne de caza bien hecha.
+1356	Jugabilidad
+1357	Pastel de huerta
+1358	Jardinero
+1359	Ajo
+1360	Cargado de ajo y pensado para alejar la enfermedad.
+1361	Amuleto de granate
+1362	Peto de guarnición
+1363	Guanteletes de guarnición
+1364	Grebas de guarnición
+1365	Escarpes de guarnición
+1366	Cuchillo de recolección
+1367	Lo bastante suave para fingir que no te mueres de hambre.
+1368	Geranio
+1369	¡A por ellos!
+1370	¡A por ellos! ¡A por ellos!
+1371	Me estoy poniendo nervioso…
+1372	Bejín fantasma
+1373	El bejín fantasma suelta una nube de esporas finas al tocarlo. Los cazadores dicen que distorsiona la percepción.
+1374	Ron Matagigantes
+1375	El ron Matagigantes es un licor intenso y especiado con un toque ardiente, conocido por tumbar incluso a los gigantes más grandes. También sirve para quitar pintura.
+1376	Entrégate a tu furia, aumentando el daño con hacha mientras dure.
+1377	Te devuelve salud.
+1378	Te devuelve espíritu.
+1379	Te devuelve aguante.
+1380	Arroyo glacial
+1381	Ojo Brillante
+1382	Ojo Brillante prepara un ritual para llegar a discípulos desconocidos por todo Whisperwood. Derrótalo y ponle fin.
+1383	Ojo Brillante ha sido silenciado y la cueva vuelve a quedar en calma.
+1384	Brillando como un gran ojo azul, un cautivador zafiro descansa bajo una intrincada orfebrería en el centro de este pesado colgante.
+1386	Glrrrk… ¿quién?
+1387	Glub… glub… ¿dónde?
+1388	Robles retorcidos forman un bosque salvaje de raíces, helechos y ramas caídas.
+1389	Piel de cabra
+1390	Carne de cabra
+1391	Sangre de trasgo
+1392	Huesos de trasgo
+1393	Oreja de trasgo
+1394	Flauta de trasgo
+1395	Dientes de trasgo
+1396	Los trasgos se han instalado en la cueva de las trollcap. Roban faroles, pero no tocan la plata.
+1397	La gracia de los dioses.
+1398	Dioses, cómo me gustaría tener una cuerda ...
+1399	Lingote de oro
+1400	Incrustación de oro
+1401	Mímico dorado
+1402	Pepita de oro
+1403	Esporas doradas se extienden desde la fortaleza marchita. Han encontrado animales atrapados en las nubes con setas creciéndoles en el cuerpo.
+1404	Se fue…
+1405	Se fue… no hay comida…
+1406	Pocero
+1407	Buenos días.
+1408	Bueno para cavar agujeros. Útil antes y después de un combate.
+1409	Buena madera seca que arde mucho y con fuerza.
+1410	Grano
+1411	Galletas de grano
+1412	Grano y raíces hervidos hasta que el viaje duela menos.
+1413	Otorga habilidades mágicas a quien lo lleva, pero exige sacrificios u obediencia a fuerzas oscuras. Empuñarlo requiere cautela para evitar la corrupción y consecuencias desastrosas.
+1414	Liquen de tumba
+1415	El liquen de tumba resiste la corrupción porque lleva la suya propia. Su hedor persiste mucho tiempo después.
+1416	Saqueador de tumbas
+1417	Raíz de grava
+1418	La raíz de grava es amarga y dura como la piedra. Los que marchan la mastican para calmar la mente y apartar las dudas.
+1419	Colgante de piedra lunar gris
+1420	Tímalo
+1421	Granja Grazing Hollow
+1422	Tierras de pasto con hierba alta y cercas.
+1423	Gran hacha
+1424	Mandoble
+1425	Manzana verde
+1426	Trozo verde de limo petrificado
+1427	Tinte verde
+1428	Tinte verde obtenido de espinacas o col rizada. Se puede usar para fabricar armaduras.
+1429	Verde, suave y sorprendentemente relajante.
+1430	Verde, dulce y se acaba demasiado rápido.
+1431	Potaje de Greenwatch
+1432	Hoja de mediodía gris
+1433	Té de mediodía gris
+1436	Atadura gris
+1437	La atadura gris suprime la enfermedad de la Niebla... por un tiempo. Cuando se pasa el efecto, los síntomas vuelven peores.
+1438	Ternera a la parrilla
+1439	Ave a la parrilla
+1440	Setas a la parrilla
+1441	Micónido a la parrilla
+1442	Cultivado en tierra quemada.
+1443	Penetración de guardia
+1444	Botas de guardia
+1445	Calzas de guardia
+1446	Cota de malla de guardia
+1447	Manoplas de guardia
+1448	Peto de guardián
+1449	Guanteletes de guardián
+1450	Grebas de guardián
+1451	Escarpes de guardián
+1452	Túnica de maestro del gremio
+1453	Túnica de miembro del gremio
+1455	SIN ESPERANZA
+1456	Fabricante de astas
+1457	Pelo
+1458	Peinado
+1459	Media botella y el doble de peligrosa.
+1461	Halvar dice que otra vez nos falta aceite para lámparas. Siempre nos falta aceite para lámparas.
+1462	Clávalos y reza para que aguanten.
+1463	Golpes entorpecedores
+1464	Corazón con las manos
+1465	Manos
+1466	Acosa a tus enemigos con ataques de tanteo, aumentando la probabilidad de RALENTIZAR de tus ataques con lanza.
+1467	Pan duro
+1468	Acondicionamiento curtido
+1469	Resistencia curtida
+1470	Concentración curtida
+1471	Potaje de invierno duro
+1472	Estofado de liebre y raíces
+1473	Piel de liebre
+1474	Carne de liebre
+1475	Banquete de cosecha
+1476	Hachuela
+1477	Bayas de espino
+1478	Avellanas
+1479	Rebusca a su costado y saca un cáliz abollado de plata mate, con la copa manchada de limo seco.\r\n\r\n"Toma esto. Lo encontré aquí abajo. Se siente… mal, de algún modo. Como si me recordara."\r\n\r\nTe lo pone a la fuerza en las manos.
+1480	Niega lentamente con la cabeza.\r\n\r\n"Para mí ya es tarde. Ahora lo sé."\r\n\r\nBaja la espada.\r\n\r\n"Pero al menos puedo morir sabiendo que se acabó."
+1481	Sonríe débilmente.\r\n\r\n"Soy Marrec. Un peregrino. Como los demás que vinieron buscando una prueba de fe."\r\n\r\nAparta la mirada, con un hilo de voz.\r\n\r\n"Casi lo consigo. Casi."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nRebusca a su costado y saca un cáliz abollado de plata mate, con la copa manchada de limo seco.\r\n\r\n"Toma esto. Lo encontré aquí abajo. Se siente… mal, de algún modo. Como si me recordara."\r\n\r\nTe lo pone a la fuerza en las manos.
+1482	Cabeza
+1483	Curación
+1484	Salud
+1485	Regeneración de salud
+1486	Anoche oí cuernos en la Cueva Trollcap. El sonido resonó sobre el agua.
+1487	He oído algo.
+1488	Pan plano del hogar
+1489	Estofado del hogar
+1490	Hoja del hogar
+1491	Té de hoja del hogar
+1492	Sopa de raíz del hogar
+1493	Brezo y roca coronan las crestas; el viento susurra entre mojones dispersos.
+1494	Brezo y roca coronan las crestas; el viento susurra entre mojones dispersos.
+1495	Ola de calor
+1496	Cortes más pesados, alimentan más tiempo.
+1497	Grano más pesado, sabor terroso.
+1498	Ataque pesado
+1499	Multiplicador de ataque pesado
+1500	Cuerda gruesa
+1501	Daño pesado
+1502	Pavés pesado
+1503	Pesado y saciante.
+1504	Cuerdas gruesas para fabricar armaduras.
+1505	Lo bastante pesado para quedarse en tu estómago todo el día.
+1506	Lo bastante pesado para acompañarte.
+1507	Lo bastante pesado para frenarte.
+1508	Hierro pesado con mango. Suficiente.
+1509	Mucho condimento esconde la verdad.
+1510	Pesado, peligroso y ganado a pulso.
+1511	Pesado, terroso y lento en perdonar.
+1512	Pesado, saciante y fiable.
+1513	Grasa pesada y aceitosa que arde despacio.
+1514	Pesado, de madera y bastante convincente.
+1515	Túnica de seto
+1516	Vendajes de gente del seto
+1517	Zapatos de podador
+1518	Pantalones de podador
+1519	Brujo de seto
+1520	Je, no me importaría ...
+1521	Descanso de Heldrin
+1522	Partecascos
+1523	Cáñamo
+1524	Su mano se detiene sobre la mesa. Durante un momento, no dice nada.\r\n\r\n"Algo del bosque se lo llevó. Yo tuve suerte. Se llevó el resto de mi hermano."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nSe da la vuelta.\r\n\r\n"No vuelvas a preguntarme por ello."
+1525	Hierba
+1526	Herboristería
+1527	Túnica de herbolario
+1528	Túnica corta de herbolario
+1529	Sartén de setas con hierbas
+1530	Sombrero de micónido con hierbas
+1531	Gelatina de limo con hierbas
+1532	Hierbas
+1533	Estofado de rebaño con hierbas
+1534	Vendajes de pastor
+1535	Túnica de ermitaño
+1536	Vendajes de ermitaño
+1538	El hexcap pica en la boca y enciende los nervios, dejando el cuerpo tembloroso mucho después de usarlo.
+1539	Oculto entre grandes rocas cerca del agua.
+1540	Escondida en una cripta infestada de limo, esta arma está caliente al tacto.
+1541	Botas de piel
+1542	Calzones de piel
+1543	Capa de piel
+1544	Guantes de piel
+1545	Jubón de piel
+1546	Panel de piel
+1547	Tira de piel
+1548	Túnica de sumo escriba
+1549	Túnica de montañés
+1550	Botas de salteador
+1551	Brigantina de salteador
+1552	Guantes de salteador
+1553	Polainas de salteador
+1554	Pantalones de montañés
+1556	Afloja la mano sobre la espada. Tose, y la sangre le mancha los labios. El desconocido está en mal estado.\r\n\r\nLa voz le tiembla de angustia.\r\n\r\n"Luché hasta que no pude levantar los brazos. Cada vez que creía haber encontrado una salida, había otro túnel. Otra de esas criaturas inmundas. Me repetía que la siguiente sería la última."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nMira más allá de ti. Por primera vez, algo se agita tras sus ojos cansados.\r\n\r\nEsperanza.
+1557	Le tiembla la mano al señalar el limo que repta por las paredes.\r\n\r\n"Lo llamaron una prueba… dijeron que seríamos purificados en las profundidades."\r\n\r\nNegando con la cabeza, continúa.\r\n\r\n"Pero cuanto más bajábamos, menos éramos nosotros mismos. No es la fe lo que espera abajo: es el hambre."\r\n\r\n(#confirm ...)\r\n(#clear)\r\n\r\nRebusca a su costado y saca un cáliz abollado de plata mate, con la copa manchada de limo seco.\r\n\r\n"Toma esto. Lo encontré aquí abajo. Se siente… mal, de algún modo. Como si me recordara."\r\n\r\nTe lo pone a la fuerza en las manos.
+1558	Sisear

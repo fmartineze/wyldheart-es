@@ -1,0 +1,279 @@
+3569	Nido de alimañas
+3570	Nota de advertencia
+3571	Señal de advertencia
+3572	Libro muy leído
+3573	Libro mojado
+3574	Notas del Susurrador
+3575	Raíces susurrantes
+3576	Susurros
+3577	Red Susurrante
+3578	Cartel de Whisperwood
+3579	Muro marchito
+3580	Ataúd de madera
+3581	No puedo entrar aquí.
+3582	Primero tengo que terminar algo.
+3583	Primero debería pagar.
+3584	Está bloqueado.
+3585	Recemos para que haya un tesoro aquí dentro.
+3586	El suelo está blando.
+3587	El suelo está muy duro.
+3588	No hay motivo para volver aquí.
+3589	Esto no parece tan pesado.
+3590	Esto parece pesado.
+3591	Esto parece importante.
+3592	Despejar esto llevará un tiempo.
+3593	Ves algo en la tierra.
+3594	Gente libre
+3595	Cuernosombrío
+3596	Gente de piedra
+3597	Nacido del Velo
+3598	... pulsar <img id="Crouch"/> te vuelve más observador y te permite descubrir secretos o trampas ocultos.
+3599	... pasar la noche en una posada puede ser caro, pero es una forma segura de recuperar la esperanza.
+3600	Aceptar
+3601	Emboscada
+3602	Bestias
+3603	Campaña
+3604	Cancelar
+3605	Código
+3606	Completado
+3607	Consumir
+3608	Continuar campaña guardada
+3609	Cocinar
+3610	Copiado
+3611	Fabricar
+3612	Créditos
+3613	Personalizar
+3614	La muerte te ha concedido una tregua.
+3615	Tregua de la muerte
+3616	Soltar
+3617	Cada vez que quedas inconsciente y otro jugador no te reanima, pierdes 1 de esperanza.
+3618	Encuentro
+3619	Equipar
+3620	Festín
+3621	Luchar
+3622	Huir
+3623	Gente
+3624	¿Has encontrado un error?
+3625	Código de amigo
+3626	¿Cómo se produjo el error?
+3627	Si algo parece roto o te quedas atascado, envíanos un informe y lo revisaremos.
+3628	Si quedas inconsciente con 0 de esperanza, tu personaje morirá.
+3629	En curso
+3630	Unirse
+3631	Unirse a campaña
+3632	Sala
+3633	Acampar
+3634	Campamento improvisado
+3635	Mapa
+3636	Marcador
+3637	Menú
+3638	Poder
+3639	¿Necesitas ayuda?
+3640	Siguiente
+3641	NO
+3642	Aceptar
+3643	SÍ
+3644	Opciones
+3645	Ping
+3646	Inténtalo de nuevo.
+3647	Pulsa
+3648	Anterior
+3649	Salir
+3650	¡Listo!
+3651	Reconectar
+3652	Actualizar
+3653	Reparar
+3654	Informar de un error
+3655	Descríbelo con todo el detalle que puedas.
+3656	Restablecer
+3657	Reanudar
+3658	Revivir
+3659	Rumoreado
+3660	Rumores
+3661	Seleccionar
+3662	Enviar el error
+3663	Refugio
+3664	Puntos de habilidad
+3665	Algún tiempo después, despiertas. Estás maltrecho, pero vivo.
+3666	Empezar
+3667	Empezar nueva campaña
+3668	Efectos de estado
+3669	Etiqueta
+3670	El mundo se funde en negro.
+3671	Esta vez no hay despertar.
+3672	Este personaje ha cruzado más allá del Velo.
+3673	Este es un lugar mortal sin esperanza. Mientras estés dentro, tu esperanza se reduce a 0. Si quedas inconsciente y no pueden reanimarte, tu personaje morirá.
+3674	Desequipar
+3675	Utilidades
+3676	Visitar
+3677	Punto de ruta
+3678	Hemos tenido un problema inesperado.
+3679	¿Qué gravedad tiene este error?
+3680	PX
+3681	Has perdido 1 de esperanza.
+3682	¡No te queda esperanza! Si vuelves a quedar inconsciente y no pueden reanimarte, este personaje morirá.
+3683	Ahora puedes volver a la pantalla del grupo y traer de vuelta de más allá del Velo a un personaje caído.
+3684	Tu esperanza se ha agotado y tu aventura ha llegado a su fin.
+3685	Tu esperanza volverá cuando salgas.
+3686	Tu mochila está llena
+3687	Las fuerzas te abandonan y el mundo se funde en negro.
+3688	Confirmar
+3689	[Aceptar]
+3690	[Añadir rumor al diario]
+3691	[Hacer preguntas]
+3692	[Preguntar por el peligro]
+3693	[Preguntar por la aldea]
+3694	[Preguntar por el bosque]
+3695	[Pedir indicaciones]
+3696	[Preguntar qué ha pasado]
+3697	[Sobornar]
+3698	[Cobrar recompensa]
+3699	[Exigir soborno]
+3700	[Cavar]
+3701	[Examinar]
+3702	[Luchar]
+3703	[Saludar]
+3704	[Intimidar]
+3705	[Marcharse]
+3706	[Vale]
+3707	[Pagar]
+3708	[Rechazar]
+3709	[Agradecer]
+3710	[Amenazar]
+3711	[Comerciar]
+3712	Mando
+3713	Mando DUALSHOCK
+3714	Mando DualSense
+3715	Teclado
+3716	Ratón
+3717	Mando de Xbox
+3718	Hayedo
+3719	Abedular
+3720	Cenagal
+3721	Cueva
+3722	Cruce
+3723	Tierras de cultivo
+3724	Bosque
+3725	Montañas heladas
+3726	Aldea
+3727	Escondite
+3728	Tierras altas
+3729	Granja
+3730	Fortaleza
+3731	Guarida
+3732	Lago
+3733	Colinas bajas
+3734	Tierras bajas
+3735	Ciénaga
+3736	Prado
+3737	Mina
+3738	Monasterio
+3739	Páramo
+3740	Nido
+3741	Robledal
+3742	Océano
+3743	Rareza
+3744	Camino viejo
+3745	Pasto
+3746	Pinar
+3747	Río
+3748	Camino
+3749	Montañas rocosas
+3750	Colinas onduladas
+3751	Ruinas
+3752	Santuario
+3753	Piceal
+3754	Campos de piedra
+3755	Cumbre
+3756	Pantano
+3757	Colinas altas
+3758	Templo
+3759	Torre
+3760	Tundra
+3761	Aldea
+3762	Agua
+3763	Humedal
+3764	Saucedal
+3765	Archibabosa Mycora
+3766	Cerdo apestado
+3767	Jabalí
+3768	Espinozarza
+3769	Arquero espinozarza
+3770	Acechador espinozarza
+3771	Toro
+3772	Ogro corrupto
+3773	Vaca
+3774	Babosa dardo
+3775	Granjero muerto
+3776	Noble muerto
+3777	Campesino muerto
+3778	Soldado muerto
+3779	Caminante muerto
+3780	Dríade anciana
+3781	Dríade matrona
+3782	Oveja
+3783	Cerdo del bosque
+3784	Acechador fantasma
+3785	Rata gigante
+3786	Hongo andante gigante
+3787	Árbol andante gigante
+3788	Hojanegra trasgo
+3789	Cortador trasgo
+3790	Luchador trasgo
+3791	Chamán trasgo
+3792	Tirador trasgo
+3793	Partecráneos trasgo
+3794	Lugarteniente trasgo
+3795	Caballo
+3796	Gelatina
+3797	Ameba enorme
+3798	Cerdo de la niebla
+3799	Myceloth el Enraizado
+3800	Myrloth, el Padre Babosa
+3801	Ogro bruto
+3802	Viejo Huesopodrido
+3803	Limo
+3804	Cerdo
+3805	Guardia esqueleto venenoso
+3806	Pudin
+3807	Carnero
+3808	Rata
+3809	Oveja
+3810	Arquero esqueleto
+3811	Capitán esqueleto
+3812	Esqueleto gigante
+3813	Guardia esqueleto
+3814	Mago esqueleto
+3815	Explorador esqueleto
+3816	Guerrero esqueleto
+3817	Comedor de limo
+3818	Babosa
+3819	Padre Caracol Grazpok
+3820	Cerda
+3821	El Guardián de Tumbas
+3822	Hongo andante diminuto
+3823	Viajero
+3824	Aldeano
+3825	Vorloth, el Gran Sombrero
+3826	Hongo andante
+3827	Árbol andante
+3828	Lobo
+3829	Artillería zombi
+3830	Guardián zombi
+3831	Líder zombi
+3832	Todos han oído las historias de voces que susurran entre los árboles.
+3833	Tierra, piedra y cuerpos caen rodando a la oscuridad de abajo.
+3834	De algún lugar más profundo de los túneles llega un sonido lento y húmedo.
+3835	Ya nadie recorre este bosque solo.
+3836	Uno de vosotros se sale del camino y el resto lo sigue.
+3837	Un paso en falso y la tierra cede ...
+3838	Unos buscan trabajo. Otros, refugio.
+3839	Alguien al final de la comitiva oye de pronto su nombre.
+3840	Algo sorbe en la oscuridad.
+3841	El suelo está blando bajo las hojas.
+3842	La voz vino del bosque. Tan familiar... pero imposible.
+3843	El camino de vuelta arriba se ha derrumbado.
+3844	Cuando despiertas, tus pertenencias yacen esparcidas entre lápidas destrozadas.
+3845	Sois jornaleros, cazadores y otra gente corriente camino de Rivermere, en Whisperwood.
+3846	No sois aventureros.
+3847	Bloque de texto
