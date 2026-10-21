@@ -1,5 +1,8 @@
 """Merge es_<Name>*.txt (lines "index<TAB>text", \\n = newline) into <Name>.json.
 
+A line "Namespace::Key<TAB>text" instead translates only that key, for English
+strings shared by keys that need different Spanish (e.g. "Chest": cofre / torso).
+
 Usage: python merge.py <json_dir> <tr_dir> <Name>
 Checks that {placeholders} and <tags> match the English source.
 """
@@ -16,6 +19,7 @@ json_dir, tr_dir, name = sys.argv[1:4]
 path = os.path.join(json_dir, name + ".json")
 rows = json.load(open(path, encoding="utf-8"))
 by_i = {r["i"]: r for r in rows}
+by_key = {k: r for r in rows for k in r["keys"]}
 count = 0
 for f in sorted(glob.glob(os.path.join(tr_dir, "es_%s*.txt" % name))):
     for ln, line in enumerate(open(f, encoding="utf-8").read().split("\n"), 1):
@@ -23,10 +27,13 @@ for f in sorted(glob.glob(os.path.join(tr_dir, "es_%s*.txt" % name))):
             continue
         idx, _, text = line.partition("\t")
         text = text.replace("\\r", "\r").replace("\\n", "\n")
-        r = by_i[int(idx)]
+        r = by_key[idx] if "::" in idx else by_i[int(idx)]
         if sorted(TOKENS.findall(r["en"])) != sorted(TOKENS.findall(text)):
             print("TOKEN MISMATCH %s:%d [%s]\n  en: %r\n  es: %r" % (os.path.basename(f), ln, idx, r["en"], text))
-        r["es"] = text
+        if "::" in idx:
+            r.setdefault("key_es", {})[idx] = text
+        else:
+            r["es"] = text
         count += 1
 json.dump(rows, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 missing = [r["i"] for r in rows if not r["es"] and re.search("[A-Za-z]", r["en"])]

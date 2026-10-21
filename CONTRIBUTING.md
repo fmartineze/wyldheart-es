@@ -16,6 +16,14 @@ Los textos están en [`translations/`](translations/), repartidos en varios fich
 - Si una línea no existe, ese texto se queda en inglés.
 - Los textos que empiezan por espacio (p. ej. `" no está interesado"`) se pegan detrás de un nombre de personaje. Conserva el espacio inicial.
 
+### Textos ingleses con varios significados
+
+El juego guarda una sola copia de cada texto inglés, aunque se use en varios sitios. Por ejemplo, *"Chest"* sirve tanto para el cofre como para la ranura de torso. Para traducir un uso concreto de forma distinta, añade una línea con su clave en lugar del índice. Estas líneas van en [`translations/es_Game_keys.txt`](translations/es_Game_keys.txt):
+
+```
+ST_Common_Gameplay_Actors::Actor_Chest<TAB>Cofre
+```
+
 ### Criterios de estilo
 
 - Tuteo al jugador.

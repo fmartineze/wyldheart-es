@@ -6,6 +6,8 @@ Usage:
 
 The JSON is a list of {"i": index, "keys": [...], "en": text, "es": text};
 strings are edited in place in the string table, so key/hash data is preserved.
+A row may also carry "key_es": {"Namespace::Key": text} to give one key of a shared
+string its own translation; that key is repointed to a new string-table entry.
 """
 import json
 import struct
@@ -58,6 +60,7 @@ def parse(data):
     r.take("<I")  # entries count
     ns_count = r.take("<I")
     keys_by_index = {}
+    index_offsets = {}  # "Namespace::Key" -> file offset of its string index
     for _ in range(ns_count):
         r.take("<I")
         ns = r.fstring()
@@ -65,16 +68,16 @@ def parse(data):
             r.take("<I")
             key = r.fstring()
             r.take("<I")  # source string hash
+            index_offsets[ns + "::" + key] = r.p
             idx = r.take("<i")
             keys_by_index.setdefault(idx, []).append(ns + "::" + key)
-    header_end = r.p
     r.p = str_off
     strings = []
     for _ in range(r.take("<i")):
         s = r.fstring()
         rc = r.take("<i")
-        strings.append((s, rc))
-    return magic, version, header_end, str_off, strings, keys_by_index
+        strings.append([s, rc])
+    return magic, version, index_offsets, str_off, strings, keys_by_index
 
 
 def export(src, out):
@@ -87,13 +90,24 @@ def export(src, out):
 
 def do_import(src, tr, out):
     data = open(src, "rb").read()
-    _, _, _, str_off, strings, _ = parse(data)
-    trans = {r["i"]: r["es"] for r in json.load(open(tr, encoding="utf-8")) if r.get("es")}
-    body = struct.pack("<i", len(strings))
+    _, _, index_offsets, str_off, strings, _ = parse(data)
+    rows = json.load(open(tr, encoding="utf-8"))
+    trans = {r["i"]: r["es"] for r in rows if r.get("es")}
+    header = bytearray(data[:str_off])
+    extra = []
+    for r in rows:
+        for key, text in r.get("key_es", {}).items():
+            off = index_offsets[key]
+            strings[struct.unpack_from("<i", header, off)[0]][1] -= 1
+            struct.pack_into("<i", header, off, len(strings) + len(extra))
+            extra.append([text, 1])
+    body = struct.pack("<i", len(strings) + len(extra))
     for i, (s, rc) in enumerate(strings):
         body += wfstring(trans.get(i, s)) + struct.pack("<i", rc)
-    open(out, "wb").write(data[:str_off] + body)
-    print("translated", len(trans), "of", len(strings))
+    for s, rc in extra:
+        body += wfstring(s) + struct.pack("<i", rc)
+    open(out, "wb").write(bytes(header) + body)
+    print("translated", len(trans), "of", len(strings), "+", len(extra), "per-key")
 
 
 if __name__ == "__main__":
